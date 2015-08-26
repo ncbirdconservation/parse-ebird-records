@@ -1,0 +1,202 @@
+GLOBAL UNIQUE IDENTIFIER	TAXONOMIC ORDER	CATEGORY	COMMON NAME	SCIENTIFIC NAME	SUBSPECIES COMMON NAME	SUBSPECIES SCIENTIFIC NAME	OBSERVATION COUNT	BREEDING BIRD ATLAS CODE	AGE/SEX	COUNTRY	COUNTRY CODE	STATE	STATE CODE	COUNTY	COUNTY CODE	IBA CODE	BCR CODE	LOCALITY	LOCALITY ID	 LOCALITY TYPE	LATITUDE	LONGITUDE	OBSERVATION DATE	TIME OBSERVATIONS STARTED	TRIP COMMENTS	SPECIES COMMENTS	OBSERVER ID	FIRST NAME	LAST NAME	SAMPLING EVENT IDENTIFIER	PROTOCOL TYPE	PROJECT CODE	DURATION MINUTES	EFFORT DISTANCE KM	EFFORT AREA HA	NUMBER OBSERVERS	ALL SPECIES REPORTED	GROUP IDENTIFIER	APPROVED	REVIEWED	REASON	
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005561	11591.8	species	Dusky-headed Parakeet	Aratinga weddellii			50			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-08				obsr37316	Rich	Hoyer	S7003063	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005562	11589.95	species	Yellow-crowned Parrot	Amazona ochrocephala			5			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005563	6888	species	Squirrel Cuckoo	Piaya cayana			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005564	6950	species	Smooth-billed Ani	Crotophaga ani			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005565	12966	species	White-shouldered Antshrike	Thamnophilus aethiops			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005566	13038	species	Saturnine Antshrike	Thamnomanes saturninus			4			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005567	13292	species	Black-faced Antbird	Myrmoborus myotherinus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005568	13380	species	Chestnut-tailed Antbird	Myrmeciza hemimelaena			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005569	13524.8	species	Black-faced Antthrush	Formicarius analis			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005570	15142	species	Purple-throated Fruitcrow	Querula purpurata			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005571	15325	species	Snow-capped Manakin	Lepidothrix nattereri			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005572	17945	species	Slaty-capped Shrike-Vireo	Vireolanius leucotis			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005573	28441	species	Palm Tanager	Thraupis palmarum			15			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005574	29372.8	species	Slate-colored Grosbeak	Saltator grossus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005575	30507	species	Shiny Cowbird	Molothrus bonariensis			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005576	30642.86	species	Yellow-rumped Cacique	Cacicus cela			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005577	30675	species	Crested Oropendola	Psarocolius decumanus			25			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005578	67	species	Cinereous Tinamou	Crypturellus cinereus			3			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005579	52	species	Great Tinamou	Tinamus major			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005580	103	species	Brazilian Tinamou	Crypturellus strigulosus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-11				obsr37316	Rich	Hoyer	S7003064	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005922	11592.1	species	Chestnut-fronted Macaw	Ara severus			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005923	11592.47	species	White-eyed Parakeet	Psittacara leucophthalmus			50			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005924	11591.8	species	Dusky-headed Parakeet	Aratinga weddellii			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005925	11590.99	species	Santarem Parakeet	Pyrrhura amazonum			8			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005926	13538.8	species	Black-tailed Leaftosser	Sclerurus caudacutus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005927	13587.2	species	Elegant Woodcreeper	Xiphorhynchus elegans			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005928	13591.4	species	Buff-throated Woodcreeper	Xiphorhynchus guttatus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005929	12838	species	Fasciated Antshrike	Cymbilaimus lineatus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-01				obsr37316	Rich	Hoyer	S7003070	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005930	11589.57	species	Blue-headed Parrot	Pionus menstruus			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005931	6888	species	Squirrel Cuckoo	Piaya cayana			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005932	6950	species	Smooth-billed Ani	Crotophaga ani			20			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005933	7177	species	Tropical Screech-Owl	Megascops choliba			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005934	12947	species	Natterer's Slaty-Antshrike	Thamnophilus stictocephalus			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005935	13100	species	White-flanked Antwren	Myrmotherula axillaris			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005936	13173	species	Dot-winged Antwren	Microrhopias quixensis			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005937	13186	species	White-fringed Antwren	Formicivora grisea			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005938	13292	species	Black-faced Antbird	Myrmoborus myotherinus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005939	13524.8	species	Black-faced Antthrush	Formicarius analis			3			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005940	15358	species	Masked Tityra	Tityra semifasciata			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100005941	15325	species	Snow-capped Manakin	Lepidothrix nattereri			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-02				obsr37316	Rich	Hoyer	S7003071	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006243	9078	species	Fork-tailed Woodnymph	Thalurania furcata			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006244	8520	species	Black-eared Fairy	Heliothryx auritus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006245	13497.8	species	Thrush-like Antpitta	Myrmothera campanisona			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006246	13508.2	species	Rusty-belted Tapaculo	Liosceles thoracicus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006247	19961	species	Gray-breasted Martin	Progne chalybea			20			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006248	2201	species	Striated Heron	Butorides striata			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006249	2108	species	Rufescent Tiger-Heron	Tigrisoma lineatum			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006250	2371	species	Greater Yellow-headed Vulture	Cathartes melambrotus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006251	9388	species	Blue-crowned Trogon	Trogon curucui			3			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006252	9362	species	Black-tailed Trogon	Trogon melanurus			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006253	9928	species	Ringed Kingfisher	Megaceryle torquata			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006254	9523	species	Amazonian Motmot	Momotus momota			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006255	9538	species	Broad-billed Motmot	Electron platyrhynchum			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006256	10227	species	Striolated Puffbird	Nystalus striolatus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006257	10285	species	White-fronted Nunbird	Monasa morphoeus			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006258	14006	species	Ochre-bellied Flycatcher	Mionectes oleagineus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006259	14403	species	White-crested Spadebill	Platyrinchus platyrhynchos			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006260	14910	species	Short-crested Flycatcher	Myiarchus ferox			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006261	14955	species	Lesser Kiskadee	Pitangus lictor			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006262	21371.5	species	Moustached Wren	Pheugopedius genibarbis			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-07				obsr37316	Rich	Hoyer	S7003074	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006563	1596	species	Least Grebe	Tachybaptus dominicus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006564	2056	species	Anhinga	Anhinga anhinga			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006565	7372	species	Amazonian Pygmy-Owl	Glaucidium hardyi			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006566	7859	species	Ocellated Poorwill	Nyctiphrynus ocellatus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006567	7238	species	Crested Owl	Lophostrix cristata			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006568	8130	species	Pale-rumped Swift	Chaetura egregia			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006569	8107	species	Amazonian Swift	Chaetura viridipennis			5			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006570	8109	species	Short-tailed Swift	Chaetura brachyura			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006571	8379	species	Fork-tailed Palm-Swift	Tachornis squamata			15			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006572	8452	species	Great-billed Hermit	Phaethornis malaris			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006573	8954	species	Blue-tailed Emerald	Chlorostilbon mellisugus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006574	9078	species	Fork-tailed Woodnymph	Thalurania furcata			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006575	13497.8	species	Thrush-like Antpitta	Myrmothera campanisona			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006576	13893	species	Yellow-crowned Tyrannulet	Tyrannulus elatus			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006577	19961	species	Gray-breasted Martin	Progne chalybea			15			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006578	19974	species	White-winged Swallow	Tachycineta albiventer			10			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006579	2144	species	Great Egret	Ardea alba			1			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006580	2201	species	Striated Heron	Butorides striata			2			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006581	2358	species	Black Vulture	Coragyps atratus			50			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006582	2371	species	Greater Yellow-headed Vulture	Cathartes melambrotus			5			Brazil	BR	Rondônia	BR-RO					Pousada Ecolôgica Rancho Grande	L1009712	H	-10.297933	-62.866667	2002-11-13				obsr37316	Rich	Hoyer	S7003078	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006888	15436	species	White-winged Becard	Pachyramphus polychopterus			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006889	15026	species	Piratic Flycatcher	Legatus leucophaius			8			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006890	28403	species	Silver-beaked Tanager	Ramphocelus carbo			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006891	28422	species	Blue-gray Tanager	Thraupis episcopus			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006892	4753	species	Pale-vented Pigeon	Patagioenas cayennensis			10			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006893	4990.565	species	Gray-fronted Dove	Leptotila rufaxilla			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006894	11591.8	species	Dusky-headed Parakeet	Aratinga weddellii			30			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006895	13661.6	species	Chestnut-winged Hookbill	Ancistrops strigilatus			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006896	13649	species	Rufous-rumped Foliage-gleaner	Philydor erythrocercum			4			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006897	13562.825	species	Plain-brown Woodcreeper	Dendrocincla fuliginosa			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006898	13554.2	species	Long-tailed Woodcreeper	Deconychura longicauda			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006899	13550.4	species	Olivaceous Woodcreeper	Sittasomus griseicapillus			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006900	13567	species	Long-billed Woodcreeper	Nasica longirostris			3			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006901	13566	species	Cinnamon-throated Woodcreeper	Dendrexetastes rufigula			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006902	13568.2	species	Amazonian Barred-Woodcreeper	Dendrocolaptes certhia			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006903	13585.2	species	Ocellated Woodcreeper	Xiphorhynchus ocellatus			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006904	13591.4	species	Buff-throated Woodcreeper	Xiphorhynchus guttatus			2			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006905	12838	species	Fasciated Antshrike	Cymbilaimus lineatus			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006906	13615.6	species	Lineated Woodcreeper	Lepidocolaptes albolineatus			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-17				obsr37316	Rich	Hoyer	S7003081	eBird - Casual Observation	EBIRD					1		1	0		
+
+URN:CornellLabOfOrnithology:EBIRD:OBS100006907	7177	species	Tropical Screech-Owl	Megascops choliba			1			Brazil	BR	Rondônia	BR-RO					Lago do Cuniã	L1009714	H	-8.317792	-63.4975	2002-11-18				obsr37316	Rich	Hoyer	S7003082	eBird - Casual Observation	EBIRD					1		1	0		
+
