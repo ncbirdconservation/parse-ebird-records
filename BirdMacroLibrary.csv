@@ -1,0 +1,2181 @@
+SPEC,COMMONNAME,SCINAME,SPEC6,CONF6,CONF,SP,Sort Order,Order,Family,Subfamily
+HITI,Highland Tinamou,Nothocercus bonapartei,NOTBON,,,,1,Tinamiformes,Tinamidae,
+GRTI,Great Tinamou,Tinamus major,TINMAJ,,,,2,Tinamiformes,Tinamidae,
+LITI,Little Tinamou,Crypturellus soui,CRYSOU,,,,3,Tinamiformes,Tinamidae,
+THTI,Thicket Tinamou,Crypturellus cinnamomeus,CRYCIN,,,,4,Tinamiformes,Tinamidae,
+SBTI,Slaty-breasted Tinamou,Crypturellus boucardi,CRYBOU,,,,5,Tinamiformes,Tinamidae,
+CHTI,Choco Tinamou,Crypturellus kerriae,CRYKER,,,,6,Tinamiformes,Tinamidae,
+WFWD,White-faced Whistling-Duck,Dendrocygna viduata,DENVID,,,,7,Anseriformes,Anatidae,Dendrocygninae
+BBWD,Black-bellied Whistling-Duck,Dendrocygna autumnalis,DENAUT,,,,8,Anseriformes,Anatidae,Dendrocygninae
+WIWD,West Indian Whistling-Duck,Dendrocygna arborea,DENARB,,,,9,Anseriformes,Anatidae,Dendrocygninae
+FUWD,Fulvous Whistling-Duck,Dendrocygna bicolor,DENBIC,,,,10,Anseriformes,Anatidae,Dendrocygninae
+TABG,Taiga Bean-Goose,Anser fabalis,ANSFAB,,,,11,Anseriformes,Anatidae,Anserinae
+TUBG,Tundra Bean-Goose,Anser serrirostris,ANSSER,,,,12,Anseriformes,Anatidae,Anserinae
+PFGO,Pink-footed Goose,Anser brachyrhynchus,ANSBRA,,,,13,Anseriformes,Anatidae,Anserinae
+GWFG,Greater White-fronted Goose,Anser albifrons,ANSALB,,,,14,Anseriformes,Anatidae,Anserinae
+LWFG,Lesser White-fronted Goose,Anser erythropus,ANSERY,,,,15,Anseriformes,Anatidae,Anserinae
+GRGO,Graylag Goose,Anser anser,ANSANS,,,,16,Anseriformes,Anatidae,Anserinae
+EMGO,Emperor Goose,Chen canagica,CHECAN,,,,17,Anseriformes,Anatidae,Anserinae
+SNGO,Snow Goose,Chen caerulescens,CHECAE,,,,18,Anseriformes,Anatidae,Anserinae
+LSGW,Lesser Snow Goose White-morph,Chen c. caerulescens,CHECCA,,,+,19,Anseriformes,Anatidae,Anserinae
+LSGI,Lesser Snow Goose Intermediate-morph,Chen c. caerulescens,CHECCA,,,+,20,Anseriformes,Anatidae,Anserinae
+LSGB,Lesser Snow Goose Blue-morph,Chen c. caerulescens,CHECCA,,,+,21,Anseriformes,Anatidae,Anserinae
+GSGW,Greater Snow Goose White-morph,Chen c. atlantica,CHECAT,,,+,22,Anseriformes,Anatidae,Anserinae
+GSGI,Greater Snow Goose Intermediate-morph,Chen c. atlantica,CHECAT,,,+,23,Anseriformes,Anatidae,Anserinae
+GSGB,Greater Snow Goose Blue-morph,Chen c. atlantica,CHECAT,,,+,24,Anseriformes,Anatidae,Anserinae
+SRGH,Snow X Ross's Goose Hybrid,Chen caerul. x rossii,CHECAR,,,+,25,Anseriformes,Anatidae,Anserinae
+ROGO,Ross's Goose,Chen rossii,CHEROS,,,,26,Anseriformes,Anatidae,Anserinae
+BRAN,Brant,Branta bernicla,BRABER,,,,27,Anseriformes,Anatidae,Anserinae
+ATBR,Atlantic Brant,Branta b. bernicla,BRABBE,,,+,28,Anseriformes,Anatidae,Anserinae
+BRIN,Brant Intergrade,Branta b. bern. x nigri.,BRABBN,,,+,29,Anseriformes,Anatidae,Anserinae
+BLBR,Black Brant,Branta b. nigricans,BRABNI,,,+,30,Anseriformes,Anatidae,Anserinae
+BARG,Barnacle Goose,Branta leucopsis,BRALEU,,*,,31,Anseriformes,Anatidae,Anserinae
+CACG,Cackling Goose,Branta hutchinsii,BRAHUT,,*,,32,Anseriformes,Anatidae,Anserinae
+ACGO,Aleutian Cackling Goose,Branta h. leucopareia,BRAHLE,,,+,33,Anseriformes,Anatidae,Anserinae
+MCGO,Minima Cackling Goose,Branta h. minima,BRAHMI,,,+,34,Anseriformes,Anatidae,Anserinae
+CANG,Canada Goose,Branta canadensis,BRACAN,,*,,35,Anseriformes,Anatidae,Anserinae
+LCGO,Large Canada Goose,Branta c. moffitti,BRACMO,,,+,36,Anseriformes,Anatidae,Anserinae
+SCGO,Small Canada Goose,Branta c. parvipes,BRACPA,,,+,37,Anseriformes,Anatidae,Anserinae
+HAGO,Hawaiian Goose,Branta sandvicensis,BRASAN,,,,38,Anseriformes,Anatidae,Anserinae
+MUSW,Mute Swan,Cygnus olor,CYGOLO,,,,39,Anseriformes,Anatidae,Anserinae
+TRUS,Trumpeter Swan,Cygnus buccinator,CYGBUC,,*,,40,Anseriformes,Anatidae,Anserinae
+TUSW,Tundra Swan,Cygnus columbianus,CYGCOL,,,,41,Anseriformes,Anatidae,Anserinae
+WHSW,Whistling Swan,Cygnus c. columbianus,CYGCCO,,,+,42,Anseriformes,Anatidae,Anserinae
+BESW,Bewick's Swan,Cygnus c. bewickii,CYGCBE,,,+,43,Anseriformes,Anatidae,Anserinae
+WHOS,Whooper Swan,Cygnus cygnus,CYGCYG,,*,,44,Anseriformes,Anatidae,Anserinae
+CODU,Comb Duck,Sarkidiornis melanotos,SARMEL,,,,45,Anseriformes,Anatidae,Tadorninae
+ORGO,Orinoco Goose,Neochen jubata,NEOJUB,,,,46,Anseriformes,Anatidae,Tadorninae
+MUDU,Muscovy Duck,Cairina moschata,CAIMOS,,,,47,Anseriformes,Anatidae,Anatinae
+WODU,Wood Duck,Aix sponsa,AIXSPO,,,,48,Anseriformes,Anatidae,Anatinae
+GADW,Gadwall,Anas strepera,ANASTR,,,,49,Anseriformes,Anatidae,Anatinae
+FADU,Falcated Duck,Anas falcata,ANAFAL,,,,50,Anseriformes,Anatidae,Anatinae
+EUWI,Eurasian Wigeon,Anas penelope,ANAPEN,,,,51,Anseriformes,Anatidae,Anatinae
+AMWI,American Wigeon,Anas americana,ANAAME,,,,52,Anseriformes,Anatidae,Anatinae
+ABDU,American Black Duck,Anas rubripes,ANARUB,,,,53,Anseriformes,Anatidae,Anatinae
+ABDH,American Black Duck X Mallard Hybrid,Anas rubripes x platy.,ANARUP,,,+,54,Anseriformes,Anatidae,Anatinae
+MALL,Mallard,Anas platyrhynchos,ANAPLA,,,,55,Anseriformes,Anatidae,Anatinae
+MEDU,Mexican Duck,Anas p. diazi,ANAPDI,,,+,56,Anseriformes,Anatidae,Anatinae
+MODU,Mottled Duck,Anas fulvigula,ANAFUL,,,,57,Anseriformes,Anatidae,Anatinae
+HAWD,Hawaiian Duck,Anas wyvilliana,ANAWYV,,*,,58,Anseriformes,Anatidae,Anatinae
+LAYD,Laysan Duck,Anas laysanensis,ANALAY,,*,,59,Anseriformes,Anatidae,Anatinae
+ESBD,Eastern Spot-billed Duck,Anas zonorhyncha,ANAZON,,,,60,Anseriformes,Anatidae,Anatinae
+BWTE,Blue-winged Teal,Anas discors,ANADIS,,,,61,Anseriformes,Anatidae,Anatinae
+CITE,Cinnamon Teal,Anas cyanoptera,ANACYA,,,,62,Anseriformes,Anatidae,Anatinae
+UNTE,Unidentified Teal,Anas (sp),ANASPE,,,+,63,Anseriformes,Anatidae,Anatinae
+NSHO,Northern Shoveler,Anas clypeata,ANACLY,,*,,64,Anseriformes,Anatidae,Anatinae
+WCHP,White-cheeked Pintail,Anas bahamensis,ANABAH,,*,,65,Anseriformes,Anatidae,Anatinae
+NOPI,Northern Pintail,Anas acuta,ANAACU,,,,66,Anseriformes,Anatidae,Anatinae
+GARG,Garganey,Anas querquedula,ANAQUE,,,,67,Anseriformes,Anatidae,Anatinae
+BATE,Baikal Teal,Anas formosa,ANAFOR,,,,68,Anseriformes,Anatidae,Anatinae
+GWTE,Green-winged Teal,Anas crecca,ANACRE,,,,69,Anseriformes,Anatidae,Anatinae
+AGWT,American Green-winged Teal,Anas c. carolinensis,ANACCA,,,+,70,Anseriformes,Anatidae,Anatinae
+EGWT,Eurasian Green-winged Teal,Anas c. crecca,ANACCR,,,+,71,Anseriformes,Anatidae,Anatinae
+CANV,Canvasback,Aythya valisineria,AYTVAL,,,,72,Anseriformes,Anatidae,Anatinae
+REDH,Redhead,Aythya americana,AYTAME,,,,73,Anseriformes,Anatidae,Anatinae
+COMP,Common Pochard,Aythya ferina,AYTFER,,*,,74,Anseriformes,Anatidae,Anatinae
+RNDU,Ring-necked Duck,Aythya collaris,AYTCOL,,,,75,Anseriformes,Anatidae,Anatinae
+TUDU,Tufted Duck,Aythya fuligula,AYTFUL,,,,76,Anseriformes,Anatidae,Anatinae
+GRSC,Greater Scaup,Aythya marila,AYTMAR,,,,77,Anseriformes,Anatidae,Anatinae
+LESC,Lesser Scaup,Aythya affinis,AYTAFF,,,,78,Anseriformes,Anatidae,Anatinae
+STEI,Steller's Eider,Polysticta stelleri,POLSTE,,,,79,Anseriformes,Anatidae,Anatinae
+SPEI,Spectacled Eider,Somateria fischeri,SOMFIS,,,,80,Anseriformes,Anatidae,Anatinae
+KIEI,King Eider,Somateria spectabilis,SOMSPE,,,,81,Anseriformes,Anatidae,Anatinae
+COEI,Common Eider,Somateria mollissima,SOMMOL,,,,82,Anseriformes,Anatidae,Anatinae
+HADU,Harlequin Duck,Histrionicus histrionicus,HISHIS,,,,83,Anseriformes,Anatidae,Anatinae
+LABD,Labrador Duck,Camptorhynchus labradorius,CAMLAB,,*,,84,Anseriformes,Anatidae,Anatinae
+SUSC,Surf Scoter,Melanitta perspicillata,MELPER,,,,85,Anseriformes,Anatidae,Anatinae
+WWSC,White-winged Scoter,Melanitta fusca,MENFUS,*,,,86,Anseriformes,Anatidae,Anatinae
+BLSC,Black Scoter,Melanitta americana,MELAME,,,,87,Anseriformes,Anatidae,Anatinae
+LTDU,Long-tailed Duck,Clangula hyemalis,CLAHYE,,,,88,Anseriformes,Anatidae,Anatinae
+BUFF,Bufflehead,Bucephala albeola,BUCALB,,,,89,Anseriformes,Anatidae,Anatinae
+COGO,Common Goldeneye,Bucephala clangula,BUCCLA,,,,90,Anseriformes,Anatidae,Anatinae
+BAGO,Barrow's Goldeneye,Bucephala islandica,BUCISL,,,,91,Anseriformes,Anatidae,Anatinae
+SMEW,Smew,Mergellus albellus,MERALB,,,,92,Anseriformes,Anatidae,Anatinae
+HOME,Hooded Merganser,Lophodytes cucullatus,LOPCUC,,,,93,Anseriformes,Anatidae,Anatinae
+COME,Common Merganser,Mergus merganser,MERMER,,,,94,Anseriformes,Anatidae,Anatinae
+RBME,Red-breasted Merganser,Mergus serrator,MERSER,,,,95,Anseriformes,Anatidae,Anatinae
+MADU,Masked Duck,Nomonyx dominicus,NOMDOM,,,,96,Anseriformes,Anatidae,Anatinae
+RUDU,Ruddy Duck,Oxyura jamaicensis,OXYJAM,,,,97,Anseriformes,Anatidae,Anatinae
+UNDU,Unidentified Duck,"Anatinae (gen, sp)",ANAGSP,,,+,98,Anseriformes,Anatidae,
+PLCH,Plain Chachalaca,Ortalis vetula,ORTVET,,,,99,Galliformes,Cracidae,
+GHEC,Gray-headed Chachalaca,Ortalis cinereiceps,ORTCIN,,*,,100,Galliformes,Cracidae,
+RVCH,Rufous-vented Chachalaca,Ortalis ruficauda,ORTRUF,,,,101,Galliformes,Cracidae,
+RBEC,Rufous-bellied Chachalaca,Ortalis wagleri,ORTWAG,,*,,102,Galliformes,Cracidae,
+WMCH,West Mexican Chachalaca,Ortalis poliocephala,ORTPOL,,,,103,Galliformes,Cracidae,
+WBCH,White-bellied Chachalaca,Ortalis leucogastra,ORTLEU,,,,104,Galliformes,Cracidae,
+CRGU,Crested Guan,Penelope purpurascens,PENPUR,,,,105,Galliformes,Cracidae,
+BLAG,Black Guan,Chamaepetes unicolor,CHAUNI,,*,,106,Galliformes,Cracidae,
+HIGU,Highland Guan,Penelopina nigra,PENNIG,,,,107,Galliformes,Cracidae,
+HOGU,Horned Guan,Oreophasis derbianus,OREDER,,,,108,Galliformes,Cracidae,
+GRCU,Great Curassow,Crax rubra,CRARUB,,,,109,Galliformes,Cracidae,
+HELG,Helmeted Guineafowl,Numida meleagris,NUMMEL,,*,,110,Galliformes,Numididae,
+BEWP,Bearded Wood-Partridge,Dendrortyx barbatus,DENBAR,,,,111,Galliformes,Odontophoridae,
+LTWP,Long-tailed Wood-Partridge,Dendrortyx macroura,DENMAC,,,,112,Galliformes,Odontophoridae,
+BCWP,Buffy-crowned Wood-Partridge,Dendrortyx leucophrys,DENLEU,,,,113,Galliformes,Odontophoridae,
+MOUQ,Mountain Quail,Oreortyx pictus,OREPIC,,*,,114,Galliformes,Odontophoridae,
+SCQU,Scaled Quail,Callipepla squamata,CALSQU,,,,115,Galliformes,Odontophoridae,
+ELQU,Elegant Quail,Callipepla douglasii,CALDOU,,,,116,Galliformes,Odontophoridae,
+CAQU,California Quail,Callipepla californica,CALCAL,,,,117,Galliformes,Odontophoridae,
+GAQU,Gambel's Quail,Callipepla gambelii,CALGAM,,,,118,Galliformes,Odontophoridae,
+BAQU,Banded Quail,Philortyx fasciatus,PHIFAS,,,,119,Galliformes,Odontophoridae,
+NOBO,Northern Bobwhite,Colinus virginianus,COLVIR,,,,120,Galliformes,Odontophoridae,
+BTBO,Black-throated Bobwhite,Colinus nigrogularis,COLNIG,,,,121,Galliformes,Odontophoridae,
+CRBO,Crested Bobwhite,Colinus cristatus,COLCRI,,,,122,Galliformes,Odontophoridae,
+MAWQ,Marbled Wood-Quail,Odontophorus gujanensis,ODOGUJ,,,,123,Galliformes,Odontophoridae,
+BEWQ,Black-eared Wood-Quail,Odontophorus melanotis,ODOMEL,,,,124,Galliformes,Odontophoridae,
+TAWQ,Tacarcuna Wood-Quail,Odontophorus dialeucos,ODODIA,,,,125,Galliformes,Odontophoridae,
+BBWQ,Black-breasted Wood-Quail,Odontophorus leucolaemus,ODOLEU,,,,126,Galliformes,Odontophoridae,
+SPWQ,Spotted Wood-Quail,Odontophorus guttatus,ODOGUT,,,,127,Galliformes,Odontophoridae,
+SIQU,Singing Quail,Dactylortyx thoracicus,DACTHO,,,,128,Galliformes,Odontophoridae,
+MONQ,Montezuma Quail,Cyrtonyx montezumae,CYRMON,,*,,129,Galliformes,Odontophoridae,
+OCQU,Ocellated Quail,Cyrtonyx ocellatus,CYROCE,,,,130,Galliformes,Odontophoridae,
+TFQU,Tawny-faced Quail,Rhynchortyx cinctus,RHYCIN,,,,131,Galliformes,Odontophoridae,
+CHUK,Chukar,Alectoris chukar,ALECHU,,,,132,Galliformes,Phasianidae,Phasianinae
+GRAF,Gray Francolin,Francolinus pondicerianus,FRAPON,,*,,133,Galliformes,Phasianidae,Phasianinae
+BLFR,Black Francolin,Francolinus francolinus,FRAFRA,,,,134,Galliformes,Phasianidae,Phasianinae
+ERFR,Erckel's Francolin,Francolinus erckelii,FRAERC,,,,135,Galliformes,Phasianidae,Phasianinae
+HISN,Himalayan Snowcock,Tetraogallus himalayensis,TETHIM,,,,136,Galliformes,Phasianidae,Phasianinae
+GRAP,Gray Partridge,Perdix perdix,PERPER,,*,,137,Galliformes,Phasianidae,Phasianinae
+JAQU,Japanese Quail,Coturnix japonica,COTJAP,,,,138,Galliformes,Phasianidae,Phasianinae
+REJU,Red Junglefowl,Gallus gallus,GALGAS,*,,,139,Galliformes,Phasianidae,Phasianinae
+KAPH,Kalij Pheasant,Lophura leucomelanos,LOPLEU,,,,140,Galliformes,Phasianidae,Phasianinae
+RNEP,Ring-necked Pheasant,Phasianus colchicus,PHACOL,,*,,141,Galliformes,Phasianidae,Phasianinae
+INPE,Indian Peafowl,Pavo cristatus,PAVCRI,,,,142,Galliformes,Phasianidae,Phasianinae
+RUGR,Ruffed Grouse,Bonasa umbellus,BONUMB,,,,143,Galliformes,Phasianidae,Tetraoninae
+GRSG,Greater Sage-Grouse,Centrocercus urophasianus,CENURO,,,,144,Galliformes,Phasianidae,Tetraoninae
+GUSG,Gunnison Sage-Grouse,Centrocercus minimus,CENMIN,,,,145,Galliformes,Phasianidae,Tetraoninae
+SPGR,Spruce Grouse,Falcipennis canadensis,FALCAN,,,,146,Galliformes,Phasianidae,Tetraoninae
+WIPT,Willow Ptarmigan,Lagopus lagopus,LAGLAG,,,,147,Galliformes,Phasianidae,Tetraoninae
+ROPT,Rock Ptarmigan,Lagopus muta,LAGMUT,,,,148,Galliformes,Phasianidae,Tetraoninae
+WTPT,White-tailed Ptarmigan,Lagopus leucura,LAGLEU,,,,149,Galliformes,Phasianidae,Tetraoninae
+DUGR,Dusky Grouse,Dendragapus obscurus,DENOBS,,,,150,Galliformes,Phasianidae,Tetraoninae
+SOGR,Sooty Grouse,Dendragapus fuliginosus,DEGFUL,*,,,151,Galliformes,Phasianidae,Tetraoninae
+STGR,Sharp-tailed Grouse,Tympanuchus phasianellus,TYMPHA,,,,152,Galliformes,Phasianidae,Tetraoninae
+GRPC,Greater Prairie-Chicken,Tympanuchus cupido,TYMCUP,,,,153,Galliformes,Phasianidae,Tetraoninae
+LEPC,Lesser Prairie-Chicken,Tympanuchus pallidicinctus,TYMPAL,,,,154,Galliformes,Phasianidae,Tetraoninae
+WITU,Wild Turkey,Meleagris gallopavo,MELGAL,,,,155,Galliformes,Phasianidae,Meleagridinae
+OCTU,Ocellated Turkey,Meleagris ocellata,MELOCE,,,,156,Galliformes,Phasianidae,Meleagridinae
+RTLO,Red-throated Loon,Gavia stellata,GAVSTE,,,,157,Gaviiformes,Gaviidae,
+ARLO,Arctic Loon,Gavia arctica,GAVARC,,,,158,Gaviiformes,Gaviidae,
+PALO,Pacific Loon,Gavia pacifica,GAVPAC,,,,159,Gaviiformes,Gaviidae,
+COLO,Common Loon,Gavia immer,GAVIMM,,,,160,Gaviiformes,Gaviidae,
+YBLO,Yellow-billed Loon,Gavia adamsii,GAVADA,,,,161,Gaviiformes,Gaviidae,
+LEGR,Least Grebe,Tachybaptus dominicus,TACDOM,,,,162,Podicipediformes,Podicipedidae,
+PBGR,Pied-billed Grebe,Podilymbus podiceps,PODPOD,,,,163,Podicipediformes,Podicipedidae,
+ATGR,Atitlan Grebe,Podilymbus gigas,PODGIG,,,,164,Podicipediformes,Podicipedidae,
+HOGR,Horned Grebe,Podiceps auritus,PODAUR,,,,165,Podicipediformes,Podicipedidae,
+RNGR,Red-necked Grebe,Podiceps grisegena,PODGRI,,,,166,Podicipediformes,Podicipedidae,
+EAGR,Eared Grebe,Podiceps nigricollis,PODNIG,,,,167,Podicipediformes,Podicipedidae,
+WEGR,Western Grebe,Aechmophorus occidentalis,AECOCC,,,,168,Podicipediformes,Podicipedidae,
+CLGR,Clark's Grebe,Aechmophorus clarkii,AECCLA,,,,169,Podicipediformes,Podicipedidae,
+AMFL,American Flamingo,Phoenicopterus ruber,PHORUB,,,,170,Phoenicopteriformes,Phoenicopteridae,
+YNAL,Yellow-nosed Albatross,Thalassarche chlororhynchos,THACHL,,,,171,Procellariiformes,Diomedeidae,
+SHAL,Shy Albatross,Thalassarche cauta,THACAU,,,,172,Procellariiformes,Diomedeidae,
+BBAL,Black-browed Albatross,Thalassarche melanophris,THAMEL,,,,173,Procellariiformes,Diomedeidae,
+LMAL,Light-mantled Albatross,Phoebetria palpebrata,PHOPAL,,,,174,Procellariiformes,Diomedeidae,
+WAAL,Wandering Albatross,Diomedea exulans,DIOEXU,,,,175,Procellariiformes,Diomedeidae,
+LAAL,Laysan Albatross,Phoebastria immutabilis,PHOIMM,,,,176,Procellariiformes,Diomedeidae,
+LBFH,Laysan X Black-foot. Albatross Hybrid,Phoebastria immut. X nigripes,PHOIMN,,,+,177,Procellariiformes,Diomedeidae,
+BFAL,Black-footed Albatross,Phoebastria nigripes,PHONIG,,,,178,Procellariiformes,Diomedeidae,
+STAL,Short-tailed Albatross,Phoebastria albatrus,PHOALB,,,,179,Procellariiformes,Diomedeidae,
+NOFU,Northern Fulmar,Fulmarus glacialis,FULGLA,,,,180,Procellariiformes,Procellariidae,
+GWPE,Great-winged Petrel,Pterodroma macroptera,PTEMAC,,,,181,Procellariiformes,Procellariidae,
+KEPE,Kermadec Petrel,Pterodroma neglecta,PTENEG,,,,182,Procellariiformes,Procellariidae,
+HEPE,Herald Petrel,Pterodroma arminjoniana,PTEARM,,,,183,Procellariiformes,Procellariidae,
+MUPE,Murphy's Petrel,Pterodroma ultima,PTEULT,,,,184,Procellariiformes,Procellariidae,
+MOPE,Mottled Petrel,Pterodroma inexpectata,PTEINE,,,,185,Procellariiformes,Procellariidae,
+BEPE,Bermuda Petrel,Pterodroma cahow,PTECAH,,,,186,Procellariiformes,Procellariidae,
+BCPE,Black-capped Petrel,Pterodroma hasitata,PTEHAS,,,,187,Procellariiformes,Procellariidae,
+JFPE,Juan Fernandez Petrel,Pterodroma externa,PTEEXT,,,,188,Procellariiformes,Procellariidae,
+GAPE,Galapagos Petrel,Pterodroma phaeopygia,PTEPHA,,,,189,Procellariiformes,Procellariidae,
+HAPE,Hawaiian Petrel,Pterodroma sandwichensis,PTESAN,,,,190,Procellariiformes,Procellariidae,
+WNPE,White-necked Petrel,Pterodroma cervicalis,PTECER,,,,191,Procellariiformes,Procellariidae,
+BOPE,Bonin Petrel,Pterodroma hypoleuca,PTEHYP,,,,192,Procellariiformes,Procellariidae,
+BWPE,Black-winged Petrel,Pterodroma nigripennis,PTENIG,,,,193,Procellariiformes,Procellariidae,
+COPE,Cook's Petrel,Pterodroma cookii,PTECOO,,,,194,Procellariiformes,Procellariidae,
+STPE,Stejneger's Petrel,Pterodroma longirostris,PTELON,,,,195,Procellariiformes,Procellariidae,
+TAPE,Tahiti Petrel,Pterodroma rostrata,PTEROS,,,,196,Procellariiformes,Procellariidae,
+BUPE,Bulwer's Petrel,Bulweria bulwerii,BULBUL,,,,197,Procellariiformes,Procellariidae,
+JOPE,Jouanin's Petrel,Bulweria fallax,BULFAL,,,,198,Procellariiformes,Procellariidae,
+WCPE,White-chinned Petrel,Procellaria aequinoctialis,PROAEQ,,,,199,Procellariiformes,Procellariidae,
+PAPE,Parkinson's Petrel,Procellaria parkinsoni,PROPAR,,,,200,Procellariiformes,Procellariidae,
+STRS,Streaked Shearwater,Calonectris leucomelas,CALLEU,,*,,201,Procellariiformes,Procellariidae,
+COSH,Cory's Shearwater,Calonectris diomedea,CALDIO,,,,202,Procellariiformes,Procellariidae,
+CVSH,Cape Verde Shearwater,Calonectris edwardsii,CALEDW,,,,203,Procellariiformes,Procellariidae,
+PFSH,Pink-footed Shearwater,Puffinus creatopus,PUFCRE,,,,204,Procellariiformes,Procellariidae,
+FFSH,Flesh-footed Shearwater,Puffinus carneipes,PUFCAR,,,,205,Procellariiformes,Procellariidae,
+GRSH,Great Shearwater,Puffinus gravis,PUFGRA,,,,206,Procellariiformes,Procellariidae,
+WTSH,Wedge-tailed Shearwater,Puffinus pacificus,PUFPAC,,,,207,Procellariiformes,Procellariidae,
+BULS,Buller's Shearwater,Puffinus bulleri,PUFBUL,,*,,208,Procellariiformes,Procellariidae,
+SOSH,Sooty Shearwater,Puffinus griseus,PUFGRI,,,,209,Procellariiformes,Procellariidae,
+SRTS,Short-tailed Shearwater,Puffinus tenuirostris,PUFTEN,,*,,210,Procellariiformes,Procellariidae,
+CHSH,Christmas Shearwater,Puffinus nativitatis,PUFNAT,,,,211,Procellariiformes,Procellariidae,
+GASH,Galapagos Shearwater,Puffinus subalaris,PUFSUB,,,,212,Procellariiformes,Procellariidae,
+MASH,Manx Shearwater,Puffinus puffinus,PUFPUF,,,,213,Procellariiformes,Procellariidae,
+TOSH,Townsend's Shearwater,Puffinus auricularis,PUFAUR,,,,214,Procellariiformes,Procellariidae,
+NESH,Newell's Shearwater,Puffinus a. newelli,PUFANE,,,+,215,Procellariiformes,Procellariidae,
+BRYS,Bryan's Shearwater,Puffinus bryani,PUFBRY,,*,,216,Procellariiformes,Procellariidae,
+BVSH,Black-vented Shearwater,Puffinus opisthomelas,PUFOPI,,,,217,Procellariiformes,Procellariidae,
+AUSH,Audubon's Shearwater,Puffinus lherminieri,PUFLHE,,,,218,Procellariiformes,Procellariidae,
+LISH,Little Shearwater,Puffinus assimilis,PUFASS,,,,219,Procellariiformes,Procellariidae,
+WISP,Wilson's Storm-Petrel,Oceanites oceanicus,OCEOCE,,,,220,Procellariiformes,Hydrobatidae,
+WFSP,White-faced Storm-Petrel,Pelagodroma marina,PELMAR,,,,221,Procellariiformes,Hydrobatidae,
+EUSP,European Storm-Petrel,Hydrobates pelagicus,HYDPEL,,,,222,Procellariiformes,Hydrobatidae,
+BBSP,Black-bellied Storm-Petrel,Fregetta tropica,FRETRO,,,,223,Procellariiformes,Hydrobatidae,
+FTSP,Fork-tailed Storm-Petrel,Oceanodroma furcata,OCEFUR,,,,224,Procellariiformes,Hydrobatidae,
+RISP,Ringed Storm-Petrel,Oceanodroma hornbyi,OCEHOR,,,,225,Procellariiformes,Hydrobatidae,
+SSTP,Swinhoe's Storm-Petrel,Oceanodroma monorhis,OCEMON,,,,226,Procellariiformes,Hydrobatidae,
+LESP,Leach's Storm-Petrel,Oceanodroma leucorhoa,OCELEU,,,,227,Procellariiformes,Hydrobatidae,
+ASSP,Ashy Storm-Petrel,Oceanodroma homochroa,OCEHOM,,,,228,Procellariiformes,Hydrobatidae,
+BSTP,Band-rumped Storm-Petrel,Oceanodroma castro,OCECAS,,*,,229,Procellariiformes,Hydrobatidae,
+WRSP,Wedge-rumped Storm-Petrel,Oceanodroma tethys,OCETET,,,,230,Procellariiformes,Hydrobatidae,
+BLSP,Black Storm-Petrel,Oceanodroma melania,OCEMEL,,,,231,Procellariiformes,Hydrobatidae,
+GUSP,Guadalupe Storm-Petrel,Oceanodroma macrodactyla,OCEMAC,,,,232,Procellariiformes,Hydrobatidae,
+MASP,Markham's Storm-Petrel,Oceanodroma markhami,OCEMAR,,,,233,Procellariiformes,Hydrobatidae,
+TRSP,Tristram's Storm-Petrel,Oceanodroma tristrami,OCETRI,,,,234,Procellariiformes,Hydrobatidae,
+LSTP,Least Storm-Petrel,Oceanodroma microsoma,OCEMIC,,*,,235,Procellariiformes,Hydrobatidae,
+WTTR,White-tailed Tropicbird,Phaethon lepturus,PHALEP,,,,236,Phaethontiformes,Phaethontidae,
+RBTR,Red-billed Tropicbird,Phaethon aethereus,PHAAET,,,,237,Phaethontiformes,Phaethontidae,
+RTTR,Red-tailed Tropicbird,Phaethon rubricauda,PHARUB,,,,238,Phaethontiformes,Phaethontidae,
+JABI,Jabiru,Jabiru mycteria,JABMYC,,,,239,Ciconiiformes,Ciconiidae,
+WOST,Wood Stork,Mycteria americana,MYCAME,,,,240,Ciconiiformes,Ciconiidae,
+MAFR,Magnificent Frigatebird,Fregata magnificens,FREMAG,,,,241,Suliformes,Fregatidae,
+GREF,Great Frigatebird,Fregata minor,FREMIN,,*,,242,Suliformes,Fregatidae,
+LEFR,Lesser Frigatebird,Fregata ariel,FREARI,,,,243,Suliformes,Fregatidae,
+MABO,Masked Booby,Sula dactylatra,SULDAC,,,,244,Suliformes,Sulidae,
+NABO,Nazca Booby,Sula granti,SULGRA,,,,245,Suliformes,Sulidae,
+BFBO,Blue-footed Booby,Sula nebouxii,SULNEB,,,,246,Suliformes,Sulidae,
+PEBO,Peruvian Booby,Sula variegata,SULVAR,,,,247,Suliformes,Sulidae,
+BRBO,Brown Booby,Sula leucogaster,SULLEU,,,,248,Suliformes,Sulidae,
+RFBO,Red-footed Booby,Sula sula,SULSUL,,,,249,Suliformes,Sulidae,
+NOGA,Northern Gannet,Morus bassanus,MORBAS,,,,250,Suliformes,Sulidae,
+BRAC,Brandt's Cormorant,Phalacrocorax penicillatus,PHAPEN,,*,,251,Suliformes,Phalacrocoracidae,
+NECO,Neotropic Cormorant,Phalacrocorax brasilianus,PHABRA,,,,252,Suliformes,Phalacrocoracidae,
+DCCO,Double-crested Cormorant,Phalacrocorax auritus,PHAAUT,*,,,253,Suliformes,Phalacrocoracidae,
+GRCO,Great Cormorant,Phalacrocorax carbo,PHACAR,,,,254,Suliformes,Phalacrocoracidae,
+RFCO,Red-faced Cormorant,Phalacrocorax urile,PHAURI,,,,255,Suliformes,Phalacrocoracidae,
+PECO,Pelagic Cormorant,Phalacrocorax pelagicus,PHAPEL,,,,256,Suliformes,Phalacrocoracidae,
+ANHI,Anhinga,Anhinga anhinga,ANHANH,,,,257,Suliformes,Anhingidae,
+AWPE,American White Pelican,Pelecanus erythrorhynchos,PELERY,,,,258,Pelecaniformes,Pelecanidae,
+BRPE,Brown Pelican,Pelecanus occidentalis,PELOCC,,,,259,Pelecaniformes,Pelecanidae,
+PIBI,Pinnated Bittern,Botaurus pinnatus,BOTPIN,,,,260,Pelecaniformes,Ardeidae,
+AMBI,American Bittern,Botaurus lentiginosus,BOTLEN,,,,261,Pelecaniformes,Ardeidae,
+YEBI,Yellow Bittern,Ixobrychus sinensis,IXOSIN,,,,262,Pelecaniformes,Ardeidae,
+LEBI,Least Bittern,Ixobrychus exilis,IXOEXI,,,,263,Pelecaniformes,Ardeidae,
+LIBI,Little Bittern,Ixobrychus minutus,IXOMIN,,,,264,Pelecaniformes,Ardeidae,
+RTHE,Rufescent Tiger-Heron,Tigrisoma lineatum,TIGLIN,,,,265,Pelecaniformes,Ardeidae,
+FTHE,Fasciated Tiger-Heron,Tigrisoma fasciatum,TIGFAS,,,,266,Pelecaniformes,Ardeidae,
+BTTH,Bare-throated Tiger-Heron,Tigrisoma mexicanum,TIGMEX,,,,267,Pelecaniformes,Ardeidae,
+GBHE,Great Blue Heron,Ardea herodias,ARDHER,,,,268,Pelecaniformes,Ardeidae,
+GWHE,Great White Heron,Ardea h. occidentalis,ARDHOC,,,+,269,Pelecaniformes,Ardeidae,
+GRAH,Gray Heron,Ardea cinerea,ARDCIN,,*,,270,Pelecaniformes,Ardeidae,
+COHE,Cocoi Heron,Ardea cocoi,ARDCOC,,,,271,Pelecaniformes,Ardeidae,
+PUHE,Purple Heron,Ardea purpurea,ARDPUR,,,,272,Pelecaniformes,Ardeidae,
+GREG,Great Egret,Ardea alba,ARDALB,,,,273,Pelecaniformes,Ardeidae,
+INEG,Intermediate Egret,Mesophoyx intermedia,MESINT,,,,274,Pelecaniformes,Ardeidae,
+CHEG,Chinese Egret,Egretta eulophotes,EGREUL,,,,275,Pelecaniformes,Ardeidae,
+LIEG,Little Egret,Egretta garzetta,EGRGAR,,,,276,Pelecaniformes,Ardeidae,
+WERH,Western Reef-Heron,Egretta gularis,EGRGUL,,,,277,Pelecaniformes,Ardeidae,
+SNEG,Snowy Egret,Egretta thula,EGRTHU,,,,278,Pelecaniformes,Ardeidae,
+LBHE,Little Blue Heron,Egretta caerulea,EGRCAE,,,,279,Pelecaniformes,Ardeidae,
+TRHE,Tricolored Heron,Egretta tricolor,EGRTRI,,,,280,Pelecaniformes,Ardeidae,
+REEG,Reddish Egret,Egretta rufescens,EGRRUF,,,,281,Pelecaniformes,Ardeidae,
+CAEG,Cattle Egret,Bubulcus ibis,BUBIBI,,,,282,Pelecaniformes,Ardeidae,
+CHPH,Chinese Pond-Heron,Ardeola bacchus,ARDBAC,,,,283,Pelecaniformes,Ardeidae,
+GRHE,Green Heron,Butorides virescens,BUTVIR,,,,284,Pelecaniformes,Ardeidae,
+STRH,Striated Heron,Butorides striata,BUTSTR,,*,,285,Pelecaniformes,Ardeidae,
+AGHE,Agami Heron,Agamia agami,AGAAGA,,,,286,Pelecaniformes,Ardeidae,
+CAHE,Capped Heron,Pilherodius pileatus,PILPIL,,,,287,Pelecaniformes,Ardeidae,
+BCNH,Black-crowned Night-Heron,Nycticorax nycticorax,NYCNYC,,,,288,Pelecaniformes,Ardeidae,
+YCNH,Yellow-crowned Night-Heron,Nyctanassa violacea,NYCVIO,,,,289,Pelecaniformes,Ardeidae,
+BBHE,Boat-billed Heron,Cochlearius cochlearius,COCCOH,*,,,290,Pelecaniformes,Ardeidae,
+WHIB,White Ibis,Eudocimus albus,EUDALB,,,,291,Pelecaniformes,Threskiornithidae,Threskiornithinae
+SCIB,Scarlet Ibis,Eudocimus ruber,EUDRUB,,,,292,Pelecaniformes,Threskiornithidae,Threskiornithinae
+GLIB,Glossy Ibis,Plegadis falcinellus,PLEFAL,,,,293,Pelecaniformes,Threskiornithidae,Threskiornithinae
+WFIB,White-faced Ibis,Plegadis chihi,PLECHI,,,,294,Pelecaniformes,Threskiornithidae,Threskiornithinae
+GRIB,Green Ibis,Mesembrinibis cayennensis,MESCAY,,,,295,Pelecaniformes,Threskiornithidae,Threskiornithinae
+BNIB,Buff-necked Ibis,Theristicus caudatus,THECAU,,,,296,Pelecaniformes,Threskiornithidae,Threskiornithinae
+EURS,Eurasian Spoonbill,Platalea leucorodia,PLALEU,,*,,297,Pelecaniformes,Threskiornithidae,Plataleinae
+ROSP,Roseate Spoonbill,Platalea ajaja,PLAAJA,,,,298,Pelecaniformes,Threskiornithidae,Plataleinae
+BLVU,Black Vulture,Coragyps atratus,CORATR,,,,299,Accipitriformes,Cathartidae,
+TUVU,Turkey Vulture,Cathartes aura,CATAUA,*,,,300,Accipitriformes,Cathartidae,
+LYHV,Lesser Yellow-headed Vulture,Cathartes burrovianus,CATBUR,,,,301,Accipitriformes,Cathartidae,
+CACO,California Condor,Gymnogyps californianus,GYMCAL,,,,302,Accipitriformes,Cathartidae,
+KIVU,King Vulture,Sarcoramphus papa,SARPAP,,,,303,Accipitriformes,Cathartidae,
+OSPR,Osprey,Pandion haliaetus,PANHAL,,,,304,Accipitriformes,Pandionidae,
+GHKI,Gray-headed Kite,Leptodon cayanensis,LEPCAY,,,,305,Accipitriformes,Accipitridae,Accipitrinae
+HBKI,Hook-billed Kite,Chondrohierax uncinatus,CHOUNC,,,,306,Accipitriformes,Accipitridae,Accipitrinae
+STKI,Swallow-tailed Kite,Elanoides forficatus,ELAFOR,,,,307,Accipitriformes,Accipitridae,Accipitrinae
+PEKI,Pearl Kite,Gampsonyx swainsonii,GAMSWA,,,,308,Accipitriformes,Accipitridae,Accipitrinae
+WTKI,White-tailed Kite,Elanus leucurus,ELALEU,,,,309,Accipitriformes,Accipitridae,Accipitrinae
+SNKI,Snail Kite,Rostrhamus sociabilis,ROSSOC,,,,310,Accipitriformes,Accipitridae,Accipitrinae
+SBKI,Slender-billed Kite,Helicolestes hamatus,HELHAM,,,,311,Accipitriformes,Accipitridae,Accipitrinae
+DTKI,Double-toothed Kite,Harpagus bidentatus,HARBID,,,,312,Accipitriformes,Accipitridae,Accipitrinae
+MIKI,Mississippi Kite,Ictinia mississippiensis,ICTMIS,,,,313,Accipitriformes,Accipitridae,Accipitrinae
+PLKI,Plumbeous Kite,Ictinia plumbea,ICTPLU,,,,314,Accipitriformes,Accipitridae,Accipitrinae
+BLAK,Black Kite,Milvus migrans,MILMIG,,*,,315,Accipitriformes,Accipitridae,Accipitrinae
+BAEA,Bald Eagle,Haliaeetus leucocephalus,HALLEU,,,,316,Accipitriformes,Accipitridae,Accipitrinae
+WTEA,White-tailed Eagle,Haliaeetus albicilla,HALALB,,,,317,Accipitriformes,Accipitridae,Accipitrinae
+STSE,Steller's Sea-Eagle,Haliaeetus pelagicus,HALPEL,,,,318,Accipitriformes,Accipitridae,Accipitrinae
+BCHA,Black-collared Hawk,Busarellus nigricollis,BUSNIG,,,,319,Accipitriformes,Accipitridae,Accipitrinae
+NOHA,Northern Harrier,Circus cyaneus,CIRCYA,,,,320,Accipitriformes,Accipitridae,Accipitrinae
+LWHA,Long-winged Harrier,Circus buffoni,CIRBUF,,,,321,Accipitriformes,Accipitridae,Accipitrinae
+WMHA,Western Marsh Harrier,Circus aeruginosus,CIRAER,,,,322,Accipitriformes,Accipitridae,Accipitrinae
+GBHA,Gray-bellied Hawk,Accipiter poliogaster,ACCPOL,,,,323,Accipitriformes,Accipitridae,Accipitrinae
+CHIS,Chinese Sparrowhawk,Accipiter soloensis,ACCSOL,,*,,324,Accipitriformes,Accipitridae,Accipitrinae
+TIHA,Tiny Hawk,Accipiter superciliosus,ACCSUP,,,,325,Accipitriformes,Accipitridae,Accipitrinae
+SSHA,Sharp-shinned Hawk,Accipiter striatus,ACCSTR,,,,326,Accipitriformes,Accipitridae,Accipitrinae
+COHA,Cooper's Hawk,Accipiter cooperii,ACCCOO,,,,327,Accipitriformes,Accipitridae,Accipitrinae
+GUHA,Gundlach's Hawk,Accipiter gundlachi,ACCGUN,,,,328,Accipitriformes,Accipitridae,Accipitrinae
+BIHA,Bicolored Hawk,Accipiter bicolor,ACCBIC,,,,329,Accipitriformes,Accipitridae,Accipitrinae
+NOGO,Northern Goshawk,Accipiter gentilis,ACCGEN,,,,330,Accipitriformes,Accipitridae,Accipitrinae
+UAHA,Unidentified Accipiter Hawk,Accipiter (sp),ACCSPE,,*,+,331,Accipitriformes,Accipitridae,Accipitrinae
+CRHA,Crane Hawk,Geranospiza caerulescens,GERCAE,,,,332,Accipitriformes,Accipitridae,Accipitrinae
+PLHA,Plumbeous Hawk,Cryptoleucopteryx plumbea,CRYPLU,,,,333,Accipitriformes,Accipitridae,Accipitrinae
+COBH,Common Black-Hawk,Buteogallus anthracinus,BUTANT,,,,334,Accipitriformes,Accipitridae,Accipitrinae
+CUBH,Cuban Black-Hawk,Buteogallus gundlachii,BUTGUN,,,,335,Accipitriformes,Accipitridae,Accipitrinae
+SAHA,Savanna Hawk,Buteogallus meridionalis,BUTMER,,,,336,Accipitriformes,Accipitridae,Accipitrinae
+GRBH,Great Black-Hawk,Buteogallus urubitinga,BUTURU,,,,337,Accipitriformes,Accipitridae,Accipitrinae
+SOEA,Solitary Eagle,Buteogallus solitarius,BUGSOL,*,,,338,Accipitriformes,Accipitridae,Accipitrinae
+BAHA,Barred Hawk,Morphnarchus princeps,MORPRI,,,,339,Accipitriformes,Accipitridae,Accipitrinae
+HASH,Harris's Hawk,Parabuteo unicinctus,PARUNI,,*,,340,Accipitriformes,Accipitridae,Accipitrinae
+WHHA,White Hawk,Pseudastur albicollis,PSEALB,,,,341,Accipitriformes,Accipitridae,Accipitrinae
+SEHA,Semiplumbeous Hawk,Leucopternis semiplumbeus,LEUSEL,*,,,342,Accipitriformes,Accipitridae,Accipitrinae
+ROHA,Roadside Hawk,Buteo magnirostris,BUTMAG,,,,343,Accipitriformes,Accipitridae,Accipitrinae
+RSHA,Red-shouldered Hawk,Buteo lineatus,BUTLIN,,,,344,Accipitriformes,Accipitridae,Accipitrinae
+RIHA,Ridgway's Hawk,Buteo ridgwayi,BUTRID,,,,345,Accipitriformes,Accipitridae,Accipitrinae
+BWHA,Broad-winged Hawk,Buteo platypterus,BUTPLT,*,,,346,Accipitriformes,Accipitridae,Accipitrinae
+GRHA,Gray Hawk,Buteo plagiatus,BUTPLG,*,,,347,Accipitriformes,Accipitridae,Accipitrinae
+GLHA,Gray-lined Hawk,Buteo nitidus,BUTNIT,,,,348,Accipitriformes,Accipitridae,Accipitrinae
+STHA,Short-tailed Hawk,Buteo brachyurus,BUTBRA,,,,349,Accipitriformes,Accipitridae,Accipitrinae
+SWHA,Swainson's Hawk,Buteo swainsoni,BUTSWA,,,,350,Accipitriformes,Accipitridae,Accipitrinae
+WTHA,White-tailed Hawk,Buteo albicaudatus,BUTALC,*,,,351,Accipitriformes,Accipitridae,Accipitrinae
+ZTHA,Zone-tailed Hawk,Buteo albonotatus,BUTALN,*,,,352,Accipitriformes,Accipitridae,Accipitrinae
+HAWH,Hawaiian Hawk,Buteo solitarius,BUESOL,*,*,,353,Accipitriformes,Accipitridae,Accipitrinae
+RTHA,Red-tailed Hawk,Buteo jamaicensis,BUTJAM,,,,354,Accipitriformes,Accipitridae,Accipitrinae
+HALH,Harlan's Hawk,Buteo j. harlani,BUTJHA,,*,+,355,Accipitriformes,Accipitridae,
+FEHA,Ferruginous Hawk,Buteo regalis,BUTREG,,,,356,Accipitriformes,Accipitridae,Accipitrinae
+RLHA,Rough-legged Hawk,Buteo lagopus,BUTLAG,,,,357,Accipitriformes,Accipitridae,Accipitrinae
+CREA,Crested Eagle,Morphnus guianensis,MORGUI,,,,358,Accipitriformes,Accipitridae,Accipitrinae
+HAEA,Harpy Eagle,Harpia harpyja,HARHAR,,,,359,Accipitriformes,Accipitridae,Accipitrinae
+GOEA,Golden Eagle,Aquila chrysaetos,AQUCHR,,,,360,Accipitriformes,Accipitridae,Accipitrinae
+BLHE,Black Hawk-Eagle,Spizaetus tyrannus,SPITYR,,,,361,Accipitriformes,Accipitridae,Accipitrinae
+ORHE,Ornate Hawk-Eagle,Spizaetus ornatus,SPIORN,,,,362,Accipitriformes,Accipitridae,Accipitrinae
+BAWH,Black-and-white Hawk-Eagle,Spizaetus melanoleucus,SPIMEL,,,,363,Accipitriformes,Accipitridae,Accipitrinae
+UNHA,Unidentified Hawk,"Accipitridae (gen, sp)",ACCGSP,,,+,364,Accipitriformes,Accipitridae,
+SUNB,Sunbittern,Eurypyga helias,EURHEL,,,,365,Eurypygiformes,Eurypygidae,
+YERA,Yellow Rail,Coturnicops noveboracensis,COTNOV,,,,366,Gruiformes,Rallidae,
+OCCR,Ocellated Crake,Micropygia schomburgkii,MICSCH,,,,367,Gruiformes,Rallidae,
+RUCR,Ruddy Crake,Laterallus ruber,LATRUB,,,,368,Gruiformes,Rallidae,
+WTCR,White-throated Crake,Laterallus albigularis,LATALB,,,,369,Gruiformes,Rallidae,
+GBCR,Gray-breasted Crake,Laterallus exilis,LATEXI,,,,370,Gruiformes,Rallidae,
+BLRA,Black Rail,Laterallus jamaicensis,LATJAM,,,,371,Gruiformes,Rallidae,
+CORC,Corn Crake,Crex crex,CRECRE,,*,,372,Gruiformes,Rallidae,
+CLRA,Clapper Rail,Rallus longirostris,RALLON,,,,373,Gruiformes,Rallidae,
+KIRA,King Rail,Rallus elegans,RALELE,,,,374,Gruiformes,Rallidae,
+VIRA,Virginia Rail,Rallus limicola,RALLIM,,,,375,Gruiformes,Rallidae,
+RUWR,Rufous-necked Wood-Rail,Aramides axillaris,ARAAXI,,*,,376,Gruiformes,Rallidae,
+GNWR,Gray-necked Wood-Rail,Aramides cajaneus,ARACAJ,,,,377,Gruiformes,Rallidae,
+UNIC,Uniform Crake,Amaurolimnas concolor,AMLCON,*,*,,378,Gruiformes,Rallidae,
+LARA,Laysan Rail,Porzana palmeri,PORPAL,,,,379,Gruiformes,Rallidae,
+SPCR,Spotted Crake,Porzana porzana,PORPOR,,,,380,Gruiformes,Rallidae,
+SORA,Sora,Porzana carolina,PORCAR,,,,381,Gruiformes,Rallidae,
+HARA,Hawaiian Rail,Porzana sandwichensis,PORSAN,,,,382,Gruiformes,Rallidae,
+YBCR,Yellow-breasted Crake,Porzana flaviventer,PORFLN,*,,,383,Gruiformes,Rallidae,
+COLC,Colombian Crake,Neocrex colombiana,NEOCOL,,*,,384,Gruiformes,Rallidae,
+PBCR,Paint-billed Crake,Neocrex erythrops,NEOERY,,,,385,Gruiformes,Rallidae,
+ZARA,Zapata Rail,Cyanolimnas cerverai,CYACER,,,,386,Gruiformes,Rallidae,
+SPRA,Spotted Rail,Pardirallus maculatus,PARMAS,*,,,387,Gruiformes,Rallidae,
+PUGA,Purple Gallinule,Porphyrio martinicus,PORMAR,,,,388,Gruiformes,Rallidae,
+AZGA,Azure Gallinule,Porphyrio flavirostris,PORFLR,*,,,389,Gruiformes,Rallidae,
+COGA,Common Gallinule,Gallinula galeata,GALGAT,*,,,390,Gruiformes,Rallidae,
+HAGA,Hawaiian Gallinule,Gallinula g. sandvicensis,GALGSA,,,+,391,Gruiformes,Rallidae,
+EUCO,Eurasian Coot,Fulica atra,FULATR,,,,392,Gruiformes,Rallidae,
+HACO,Hawaiian Coot,Fulica alai,FULALA,,,,393,Gruiformes,Rallidae,
+AMCO,American Coot,Fulica americana,FULAME,,,,394,Gruiformes,Rallidae,
+CARC,Caribbean Coot,Fulica caribaea,FULCAR,,*,,395,Gruiformes,Rallidae,
+SUNG,Sungrebe,Heliornis fulica,HELFUL,,,,396,Gruiformes,Heliornithidae,
+LIMP,Limpkin,Aramus guarauna,ARAGUA,,,,397,Gruiformes,Aramidae,
+SACR,Sandhill Crane,Grus canadensis,GRUCAN,,,,398,Gruiformes,Gruidae,Gruinae
+COMC,Common Crane,Grus grus,GRUGRU,,*,,399,Gruiformes,Gruidae,Gruinae
+WHCR,Whooping Crane,Grus americana,GRUAME,,,,400,Gruiformes,Gruidae,Gruinae
+DSTK,Double-striped Thick-knee,Burhinus bistriatus,BURBIS,,,,401,Charadriiformes,Burhinidae,
+NOLA,Northern Lapwing,Vanellus vanellus,VANVAN,,,,402,Charadriiformes,Charadriidae,Vanellinae
+SOLA,Southern Lapwing,Vanellus chilensis,VANCHI,,,,403,Charadriiformes,Charadriidae,Vanellinae
+BBPL,Black-bellied Plover,Pluvialis squatarola,PLUSQU,,,,404,Charadriiformes,Charadriidae,Charadriinae
+EUGP,European Golden-Plover,Pluvialis apricaria,PLUAPR,,,,405,Charadriiformes,Charadriidae,Charadriinae
+AMGP,American Golden-Plover,Pluvialis dominica,PLUDOM,,,,406,Charadriiformes,Charadriidae,Charadriinae
+LEGP,Lesser Golden-Plover,Pluvialis dominica/fulva,PLUDOF,,,+,407,Charadriiformes,Charadriidae,
+PAGP,Pacific Golden-Plover,Pluvialis fulva,PLUFUL,,,,408,Charadriiformes,Charadriidae,Charadriinae
+LSAP,Lesser Sand-Plover,Charadrius mongolus,CHAMOG,*,*,,409,Charadriiformes,Charadriidae,Charadriinae
+GSAP,Greater Sand-Plover,Charadrius leschenaultii,CHALES,,*,,410,Charadriiformes,Charadriidae,Charadriinae
+COPL,Collared Plover,Charadrius collaris,CHACOL,,,,411,Charadriiformes,Charadriidae,Charadriinae
+SNPL,Snowy Plover,Charadrius nivosus,CHANIV,,,,412,Charadriiformes,Charadriidae,Charadriinae
+WIPL,Wilson's Plover,Charadrius wilsonia,CHAWIL,,,,413,Charadriiformes,Charadriidae,Charadriinae
+CRPL,Common Ringed Plover,Charadrius hiaticula,CHAHIA,,,,414,Charadriiformes,Charadriidae,Charadriinae
+SEPL,Semipalmated Plover,Charadrius semipalmatus,CHASEM,,,,415,Charadriiformes,Charadriidae,Charadriinae
+PIPL,Piping Plover,Charadrius melodus,CHAMEL,,,,416,Charadriiformes,Charadriidae,Charadriinae
+LRPL,Little Ringed Plover,Charadrius dubius,CHADUB,,,,417,Charadriiformes,Charadriidae,Charadriinae
+KILL,Killdeer,Charadrius vociferus,CHAVOC,,,,418,Charadriiformes,Charadriidae,Charadriinae
+MOPL,Mountain Plover,Charadrius montanus,CHAMOT,*,,,419,Charadriiformes,Charadriidae,Charadriinae
+EUDO,Eurasian Dotterel,Charadrius morinellus,CHAMOR,,,,420,Charadriiformes,Charadriidae,Charadriinae
+EUOY,Eurasian Oystercatcher,Haematopus ostralegus,HAEOST,,,,421,Charadriiformes,Haematopodidae,
+AMOY,American Oystercatcher,Haematopus palliatus,HAEPAL,,,,422,Charadriiformes,Haematopodidae,
+BLOY,Black Oystercatcher,Haematopus bachmani,HAEBAC,,,,423,Charadriiformes,Haematopodidae,
+BWST,Black-winged Stilt,Himantopus himantopus,HIMHIM,,,,424,Charadriiformes,Recurvirostridae,
+BNST,Black-necked Stilt,Himantopus mexicanus,HIMMEX,,,,425,Charadriiformes,Recurvirostridae,
+HAST,Hawaiian Stilt,Himantopus m. melanurus,HIMMME,,,+,426,Charadriiformes,Recurvirostridae,
+AMAV,American Avocet,Recurvirostra americana,RECAME,,,,427,Charadriiformes,Recurvirostridae,
+NOJA,Northern Jacana,Jacana spinosa,JACSPI,,,,428,Charadriiformes,Jacanidae,
+WAJA,Wattled Jacana,Jacana jacana,JACJAC,,,,429,Charadriiformes,Jacanidae,
+TESA,Terek Sandpiper,Xenus cinereus,XENCIN,,,,430,Charadriiformes,Scolopacidae,Scolopacinae
+COSA,Common Sandpiper,Actitis hypoleucos,ACTHYP,,,,431,Charadriiformes,Scolopacidae,Scolopacinae
+SPSA,Spotted Sandpiper,Actitis macularius,ACTMAC,,,,432,Charadriiformes,Scolopacidae,Scolopacinae
+GRSA,Green Sandpiper,Tringa ochropus,TRIOCH,,,,433,Charadriiformes,Scolopacidae,Scolopacinae
+SOSA,Solitary Sandpiper,Tringa solitaria,TRISOL,,,,434,Charadriiformes,Scolopacidae,Scolopacinae
+GTTA,Gray-tailed Tattler,Tringa brevipes,TRIBRE,,,,435,Charadriiformes,Scolopacidae,Scolopacinae
+WATA,Wandering Tattler,Tringa incana,TRIINC,,,,436,Charadriiformes,Scolopacidae,Scolopacinae
+SPRE,Spotted Redshank,Tringa erythropus,TRIERY,,,,437,Charadriiformes,Scolopacidae,Scolopacinae
+GRYE,Greater Yellowlegs,Tringa melanoleuca,TRIMEL,,,,438,Charadriiformes,Scolopacidae,Scolopacinae
+COMG,Common Greenshank,Tringa nebularia,TRINEB,,*,,439,Charadriiformes,Scolopacidae,Scolopacinae
+WILL,Willet,Tringa semipalmata,TRISEM,,,,440,Charadriiformes,Scolopacidae,Scolopacinae
+LEYE,Lesser Yellowlegs,Tringa flavipes,TRIFLA,,,,441,Charadriiformes,Scolopacidae,Scolopacinae
+MASA,Marsh Sandpiper,Tringa stagnatilis,TRISTA,,,,442,Charadriiformes,Scolopacidae,Scolopacinae
+WOSA,Wood Sandpiper,Tringa glareola,TRIGLA,,,,443,Charadriiformes,Scolopacidae,Scolopacinae
+COMR,Common Redshank,Tringa totanus,TRITOT,,*,,444,Charadriiformes,Scolopacidae,Scolopacinae
+UPSA,Upland Sandpiper,Bartramia longicauda,BARLON,,,,445,Charadriiformes,Scolopacidae,Scolopacinae
+LICU,Little Curlew,Numenius minutus,NUMMIN,,,,446,Charadriiformes,Scolopacidae,Scolopacinae
+ESCU,Eskimo Curlew,Numenius borealis,NUMBOR,,,,447,Charadriiformes,Scolopacidae,Scolopacinae
+WHIM,Whimbrel,Numenius phaeopus,NUMPHA,,,,448,Charadriiformes,Scolopacidae,Scolopacinae
+BTCU,Bristle-thighed Curlew,Numenius tahitiensis,NUMTAH,,,,449,Charadriiformes,Scolopacidae,Scolopacinae
+FECU,Far Eastern Curlew,Numenius madagascariensis,NUMMAD,,,,450,Charadriiformes,Scolopacidae,Scolopacinae
+SBCU,Slender-billed Curlew,Numenius tenuirostris,NUMTEN,,,,451,Charadriiformes,Scolopacidae,Scolopacinae
+EUCU,Eurasian Curlew,Numenius arquata,NUMARQ,,,,452,Charadriiformes,Scolopacidae,Scolopacinae
+LBCU,Long-billed Curlew,Numenius americanus,NUMAME,,,,453,Charadriiformes,Scolopacidae,Scolopacinae
+BTGD,Black-tailed Godwit,Limosa limosa,LIMLIM,,*,,454,Charadriiformes,Scolopacidae,Scolopacinae
+HUGO,Hudsonian Godwit,Limosa haemastica,LIMHAE,,,,455,Charadriiformes,Scolopacidae,Scolopacinae
+BTGO,Bar-tailed Godwit,Limosa lapponica,LIMLAP,,,,456,Charadriiformes,Scolopacidae,Scolopacinae
+MAGO,Marbled Godwit,Limosa fedoa,LIMFED,,,,457,Charadriiformes,Scolopacidae,Scolopacinae
+RUTU,Ruddy Turnstone,Arenaria interpres,AREINT,,,,458,Charadriiformes,Scolopacidae,Scolopacinae
+BLTU,Black Turnstone,Arenaria melanocephala,AREMEL,,,,459,Charadriiformes,Scolopacidae,Scolopacinae
+SURF,Surfbird,Aphriza virgata,APHVIR,,,,460,Charadriiformes,Scolopacidae,Scolopacinae
+GRKN,Great Knot,Calidris tenuirostris,CALTEN,,,,461,Charadriiformes,Scolopacidae,Scolopacinae
+REKN,Red Knot,Calidris canutus,CALCAN,,,,462,Charadriiformes,Scolopacidae,Scolopacinae
+SAND,Sanderling,Calidris alba,CALALB,,,,463,Charadriiformes,Scolopacidae,Scolopacinae
+SESA,Semipalmated Sandpiper,Calidris pusilla,CALPUS,,,,464,Charadriiformes,Scolopacidae,Scolopacinae
+WESA,Western Sandpiper,Calidris mauri,CALMAU,,,,465,Charadriiformes,Scolopacidae,Scolopacinae
+RNST,Red-necked Stint,Calidris ruficollis,CALRUF,,,,466,Charadriiformes,Scolopacidae,Scolopacinae
+LIST,Little Stint,Calidris minuta,CALMIA,*,,,467,Charadriiformes,Scolopacidae,Scolopacinae
+TEST,Temminck's Stint,Calidris temminckii,CALTEM,,,,468,Charadriiformes,Scolopacidae,Scolopacinae
+LTST,Long-toed Stint,Calidris subminuta,CALSUB,,,,469,Charadriiformes,Scolopacidae,Scolopacinae
+LESA,Least Sandpiper,Calidris minutilla,CALMIL,*,,,470,Charadriiformes,Scolopacidae,Scolopacinae
+WRSA,White-rumped Sandpiper,Calidris fuscicollis,CALFUS,,,,471,Charadriiformes,Scolopacidae,Scolopacinae
+BASA,Baird's Sandpiper,Calidris bairdii,CALBAI,,,,472,Charadriiformes,Scolopacidae,Scolopacinae
+PESA,Pectoral Sandpiper,Calidris melanotos,CALMET,*,,,473,Charadriiformes,Scolopacidae,Scolopacinae
+SPTS,Sharp-tailed Sandpiper,Calidris acuminata,CALACU,,*,,474,Charadriiformes,Scolopacidae,Scolopacinae
+PUSA,Purple Sandpiper,Calidris maritima,CALMAR,,,,475,Charadriiformes,Scolopacidae,Scolopacinae
+ROSA,Rock Sandpiper,Calidris ptilocnemis,CALPTI,,,,476,Charadriiformes,Scolopacidae,Scolopacinae
+DUNL,Dunlin,Calidris alpina,CALALP,,,,477,Charadriiformes,Scolopacidae,Scolopacinae
+CUSA,Curlew Sandpiper,Calidris ferruginea,CALFER,,,,478,Charadriiformes,Scolopacidae,Scolopacinae
+STSA,Stilt Sandpiper,Calidris himantopus,CALHIM,,,,479,Charadriiformes,Scolopacidae,Scolopacinae
+SBSA,Spoon-billed Sandpiper,Eurynorhynchus pygmeus,EURPYG,,,,480,Charadriiformes,Scolopacidae,Scolopacinae
+BBIS,Broad-billed Sandpiper,Limicola falcinellus,LIMFAL,,*,,481,Charadriiformes,Scolopacidae,Scolopacinae
+BBSA,Buff-breasted Sandpiper,Tryngites subruficollis,TRYSUB,,,,482,Charadriiformes,Scolopacidae,Scolopacinae
+RUFF,Ruff,Philomachus pugnax,PHIPUG,,,,483,Charadriiformes,Scolopacidae,Scolopacinae
+SBDO,Short-billed Dowitcher,Limnodromus griseus,LIMGRI,,,,484,Charadriiformes,Scolopacidae,Scolopacinae
+UNDO,Unidentified Dowitcher,Limnodromus sp.,LIMSPE,,,+,485,Charadriiformes,Scolopacidae,
+LBDO,Long-billed Dowitcher,Limnodromus scolopaceus,LIMSCO,,,,486,Charadriiformes,Scolopacidae,Scolopacinae
+JASN,Jack Snipe,Lymnocryptes minimus,LYMMIN,,,,487,Charadriiformes,Scolopacidae,Scolopacinae
+WISN,Wilson's Snipe,Gallinago delicata,GALDEL,,,,488,Charadriiformes,Scolopacidae,Scolopacinae
+COSN,Common Snipe,Gallinago gallinago,GALGAN,*,,,489,Charadriiformes,Scolopacidae,Scolopacinae
+PTSN,Pin-tailed Snipe,Gallinago stenura,GALSTE,,,,490,Charadriiformes,Scolopacidae,Scolopacinae
+SOSN,Solitary Snipe,Gallinago solitaria,GALSOL,,,,491,Charadriiformes,Scolopacidae,Scolopacinae
+EUWO,Eurasian Woodcock,Scolopax rusticola,SCORUS,,,,492,Charadriiformes,Scolopacidae,Scolopacinae
+AMWO,American Woodcock,Scolopax minor,SCOMIN,,,,493,Charadriiformes,Scolopacidae,Scolopacinae
+WIPH,Wilson's Phalarope,Phalaropus tricolor,PHATRI,,,,494,Charadriiformes,Scolopacidae,Phalaropodinae
+RNPH,Red-necked Phalarope,Phalaropus lobatus,PHALOB,,,,495,Charadriiformes,Scolopacidae,Phalaropodinae
+REPH,Red Phalarope,Phalaropus fulicarius,PHAFUL,,,,496,Charadriiformes,Scolopacidae,Phalaropodinae
+COPR,Collared Pratincole,Glareola pratincola,GLAPRA,,,,497,Charadriiformes,Glareolidae,Glareolinae
+ORPR,Oriental Pratincole,Glareola maldivarum,GLAMAL,,,,498,Charadriiformes,Glareolidae,Glareolinae
+STGU,Swallow-tailed Gull,Creagrus furcatus,CREFUR,,,,499,Charadriiformes,Laridae,Larinae
+BLKI,Black-legged Kittiwake,Rissa tridactyla,RISTRI,,,,500,Charadriiformes,Laridae,Larinae
+RLKI,Red-legged Kittiwake,Rissa brevirostris,RISBRE,,,,501,Charadriiformes,Laridae,Larinae
+IVGU,Ivory Gull,Pagophila eburnea,PAGEBU,,,,502,Charadriiformes,Laridae,Larinae
+SAGU,Sabine's Gull,Xema sabini,XEMSAB,,,,503,Charadriiformes,Laridae,Larinae
+BOGU,Bonaparte's Gull,Chroicocephalus philadelphia,CHRPHI,,,,504,Charadriiformes,Laridae,Larinae
+GHGU,Gray-hooded Gull,Chroicocephalus cirrocephalus,CHRCIR,,,,505,Charadriiformes,Laridae,Larinae
+BHGU,Black-headed Gull,Chroicocephalus ridibundus,CHRRID,,,,506,Charadriiformes,Laridae,Larinae
+LIGU,Little Gull,Hydrocoloeus minutus,HYDMIN,,,,507,Charadriiformes,Laridae,Larinae
+ROGU,Ross's Gull,Rhodostethia rosea,RHSROS,*,,,508,Charadriiformes,Laridae,Larinae
+GRGU,Gray Gull,Leucophaeus modestus,LEUMOD,,,,509,Charadriiformes,Laridae,Larinae
+LAGU,Laughing Gull,Leucophaeus atricilla,LEUATC,*,,,510,Charadriiformes,Laridae,Larinae
+FRGU,Franklin's Gull,Leucophaeus pipixcan,LEUPIP,,,,511,Charadriiformes,Laridae,Larinae
+BEGU,Belcher's Gull,Larus belcheri,LARBEL,,*,,512,Charadriiformes,Laridae,Larinae
+BTGU,Black-tailed Gull,Larus crassirostris,LARCRA,,*,,513,Charadriiformes,Laridae,Larinae
+HEEG,Heermann's Gull,Larus heermanni,LARHEE,,*,,514,Charadriiformes,Laridae,Larinae
+MEGU,Mew Gull,Larus canus,LARCAN,,,,515,Charadriiformes,Laridae,Larinae
+RBGU,Ring-billed Gull,Larus delawarensis,LARDEL,,,,516,Charadriiformes,Laridae,Larinae
+WEGU,Western Gull,Larus occidentalis,LAROCC,,,,517,Charadriiformes,Laridae,Larinae
+WGWH,Western X Glaucous-winged Gull Hybrid,Larus occid. x gluaces.,LAROCG,,,+,518,Charadriiformes,Laridae,
+YFGU,Yellow-footed Gull,Larus livens,LARLIV,,,,519,Charadriiformes,Laridae,Larinae
+CAGU,California Gull,Larus californicus,LARCAL,,,,520,Charadriiformes,Laridae,Larinae
+HERG,Herring Gull,Larus argentatus,LARARG,,*,,521,Charadriiformes,Laridae,Larinae
+YLGU,Yellow-legged Gull,Larus michahellis,LARMIC,,,,522,Charadriiformes,Laridae,Larinae
+THGU,Thayer's Gull,Larus thayeri,LARTHA,,,,523,Charadriiformes,Laridae,Larinae
+ICGU,Iceland Gull,Larus glaucoides,LARGLD,*,,,524,Charadriiformes,Laridae,Larinae
+LBBG,Lesser Black-backed Gull,Larus fuscus,LARFUS,,,,525,Charadriiformes,Laridae,Larinae
+SBGU,Slaty-backed Gull,Larus schistisagus,LARSCH,,,,526,Charadriiformes,Laridae,Larinae
+GWGU,Glaucous-winged Gull,Larus glaucescens,LARGLS,*,,,527,Charadriiformes,Laridae,Larinae
+GLGU,Glaucous Gull,Larus hyperboreus,LARHYP,,,,528,Charadriiformes,Laridae,Larinae
+GBBG,Great Black-backed Gull,Larus marinus,LARMAR,,,,529,Charadriiformes,Laridae,Larinae
+KEGU,Kelp Gull,Larus dominicanus,LARDOM,,,,530,Charadriiformes,Laridae,Larinae
+UNLG,Unidentified Larus Gull,Larus (sp),LARSPE,,,+,531,Charadriiformes,Laridae,
+BRNO,Brown Noddy,Anous stolidus,ANOSTO,,,,532,Charadriiformes,Laridae,Sterninae
+BLNO,Black Noddy,Anous minutus,ANOMIN,,,,533,Charadriiformes,Laridae,Sterninae
+BGNO,Blue-gray Noddy,Procelsterna cerulea,PROCER,,,,534,Charadriiformes,Laridae,Sterninae
+WHTT,White Tern,Gygis alba,GYGALB,,*,,535,Charadriiformes,Laridae,Sterninae
+SOTE,Sooty Tern,Onychoprion fuscatus,ONYFUS,,,,536,Charadriiformes,Laridae,Sterninae
+GBAT,Gray-backed Tern,Onychoprion lunatus,ONYLUN,,*,,537,Charadriiformes,Laridae,Sterninae
+BRTE,Bridled Tern,Onychoprion anaethetus,ONYANA,,,,538,Charadriiformes,Laridae,Sterninae
+ALTE,Aleutian Tern,Onychoprion aleuticus,ONYALE,,,,539,Charadriiformes,Laridae,Sterninae
+LITE,Little Tern,Sternula albifrons,STEALB,,,,540,Charadriiformes,Laridae,Sterninae
+LETE,Least Tern,Sternula antillarum,STEANT,,,,541,Charadriiformes,Laridae,Sterninae
+YBTE,Yellow-billed Tern,Sternula superciliaris,STESUP,,,,542,Charadriiformes,Laridae,Sterninae
+LBTE,Large-billed Tern,Phaetusa simplex,PHASIM,,,,543,Charadriiformes,Laridae,Sterninae
+GBTE,Gull-billed Tern,Gelochelidon nilotica,GELNIL,,,,544,Charadriiformes,Laridae,Sterninae
+CATE,Caspian Tern,Hydroprogne caspia,HYDCAS,,,,545,Charadriiformes,Laridae,Sterninae
+INTE,Inca Tern,Larosterna inca,LARINC,,,,546,Charadriiformes,Laridae,Sterninae
+BLTE,Black Tern,Chlidonias niger,CHLNIG,,,,547,Charadriiformes,Laridae,Sterninae
+WWTE,White-winged Tern,Chlidonias leucopterus,CHLLEU,,,,548,Charadriiformes,Laridae,Sterninae
+WHST,Whiskered Tern,Chlidonias hybrida,CHLHYB,,*,,549,Charadriiformes,Laridae,Sterninae
+ROST,Roseate Tern,Sterna dougallii,STEDOU,,*,,550,Charadriiformes,Laridae,Sterninae
+COTE,Common Tern,Sterna hirundo,STEHIR,,,,551,Charadriiformes,Laridae,Sterninae
+ARTE,Arctic Tern,Sterna paradisaea,STEPAD,*,,,552,Charadriiformes,Laridae,Sterninae
+FOTE,Forster's Tern,Sterna forsteri,STEFOR,,,,553,Charadriiformes,Laridae,Sterninae
+ROYT,Royal Tern,Thalasseus maximus,THAMAX,,*,,554,Charadriiformes,Laridae,Sterninae
+GCTE,Great Crested Tern,Thalasseus bergii,THABER,,,,555,Charadriiformes,Laridae,Sterninae
+SATE,Sandwich Tern,Thalasseus sandvicensis,THASAN,,,,556,Charadriiformes,Laridae,Sterninae
+ELTE,Elegant Tern,Thalasseus elegans,THAELE,,,,557,Charadriiformes,Laridae,Sterninae
+BLSK,Black Skimmer,Rynchops niger,RYNNIG,,,,558,Charadriiformes,Laridae,Rynchopinae
+GRSK,Great Skua,Stercorarius skua,STESKU,,,,559,Charadriiformes,Stercorariidae,
+SPSK,South Polar Skua,Stercorarius maccormicki,STEMAC,,,,560,Charadriiformes,Stercorariidae,
+POJA,Pomarine Jaeger,Stercorarius pomarinus,STEPOM,,,,561,Charadriiformes,Stercorariidae,
+PAJA,Parasitic Jaeger,Stercorarius parasiticus,STEPAS,*,,,562,Charadriiformes,Stercorariidae,
+LTJA,Long-tailed Jaeger,Stercorarius longicaudus,STELON,,,,563,Charadriiformes,Stercorariidae,
+DOVE,Dovekie,Alle alle,ALLALL,,,,564,Charadriiformes,Alcidae,
+COMU,Common Murre,Uria aalge,URIAAL,,,,565,Charadriiformes,Alcidae,
+TBMU,Thick-billed Murre,Uria lomvia,URILOM,,,,566,Charadriiformes,Alcidae,
+RAZO,Razorbill,Alca torda,ALCTOR,,,,567,Charadriiformes,Alcidae,
+GRAU,Great Auk,Pinguinus impennis,PINIMP,,,,568,Charadriiformes,Alcidae,
+BLGU,Black Guillemot,Cepphus grylle,CEPGRY,,,,569,Charadriiformes,Alcidae,
+PIGU,Pigeon Guillemot,Cepphus columba,CEPCOL,,,,570,Charadriiformes,Alcidae,
+LBMU,Long-billed Murrelet,Brachyramphus perdix,BRAPER,,,,571,Charadriiformes,Alcidae,
+MAMU,Marbled Murrelet,Brachyramphus marmoratus,BRAMAR,,,,572,Charadriiformes,Alcidae,
+KIMU,Kittlitz's Murrelet,Brachyramphus brevirostris,BRABRE,,,,573,Charadriiformes,Alcidae,
+SCMU,Scripps's Murrelet,Synthliboramphus scrippsi,SYNSCR,,,,574,Charadriiformes,Alcidae,
+GAMU,Guadalupe Murrelet,Synthliboramphus hypoleucus,SYNHYP,,,,575,Charadriiformes,Alcidae,
+CRMU,Craveri's Murrelet,Synthliboramphus craveri,SYNCRA,,,,576,Charadriiformes,Alcidae,
+ANMU,Ancient Murrelet,Synthliboramphus antiquus,SYNANT,,,,577,Charadriiformes,Alcidae,
+CAAU,Cassin's Auklet,Ptychoramphus aleuticus,PTYALE,,,,578,Charadriiformes,Alcidae,
+PAAU,Parakeet Auklet,Aethia psittacula,AETPSI,,,,579,Charadriiformes,Alcidae,
+LEAU,Least Auklet,Aethia pusilla,AETPUS,,,,580,Charadriiformes,Alcidae,
+WHAU,Whiskered Auklet,Aethia pygmaea,AETPYG,,,,581,Charadriiformes,Alcidae,
+CRAU,Crested Auklet,Aethia cristatella,AETCRI,,,,582,Charadriiformes,Alcidae,
+RHAU,Rhinoceros Auklet,Cerorhinca monocerata,CERMON,,,,583,Charadriiformes,Alcidae,
+ATPU,Atlantic Puffin,Fratercula arctica,FRAARC,,,,584,Charadriiformes,Alcidae,
+HOPU,Horned Puffin,Fratercula corniculata,FRACOR,,,,585,Charadriiformes,Alcidae,
+TUPU,Tufted Puffin,Fratercula cirrhata,FRACIR,,,,586,Charadriiformes,Alcidae,
+CBSA,Chestnut-bellied Sandgrouse,Pterocles exustus,PTEEXU,,,,587,Pteroclidiformes,Pteroclidae,
+ROPI,Rock Pigeon,Columba livia,COLLIV,,,,588,Columbiformes,Columbidae,
+PVPI,Pale-vented Pigeon,Patagioenas cayennensis,PATCAY,,,,589,Columbiformes,Columbidae,
+SCPI,Scaled Pigeon,Patagioenas speciosa,PATSPE,,,,590,Columbiformes,Columbidae,
+SNPI,Scaly-naped Pigeon,Patagioenas squamosa,PATSQU,,,,591,Columbiformes,Columbidae,
+WCPI,White-crowned Pigeon,Patagioenas leucocephala,PATLEU,,,,592,Columbiformes,Columbidae,
+RBPI,Red-billed Pigeon,Patagioenas flavirostris,PATFLA,,,,593,Columbiformes,Columbidae,
+PLAP,Plain Pigeon,Patagioenas inornata,PATINO,,*,,594,Columbiformes,Columbidae,
+BTPI,Band-tailed Pigeon,Patagioenas fasciata,PATFAS,,,,595,Columbiformes,Columbidae,
+RTAP,Ring-tailed Pigeon,Patagioenas caribaea,PATCAR,,*,,596,Columbiformes,Columbidae,
+PLUP,Plumbeous Pigeon,Patagioenas plumbea,PATPLU,,*,,597,Columbiformes,Columbidae,
+RUDP,Ruddy Pigeon,Patagioenas subvinacea,PATSUB,,*,,598,Columbiformes,Columbidae,
+SBPI,Short-billed Pigeon,Patagioenas nigrirostris,PATNIG,*,,,599,Columbiformes,Columbidae,
+ORTD,Oriental Turtle-Dove,Streptopelia orientalis,STRORI,,,,600,Columbiformes,Columbidae,
+AFCD,African Collared-Dove,Streptopelia roseogrisea,STRROS,,,,601,Columbiformes,Columbidae,
+EUTD,European Turtle-Dove,Streptopelia turtur,STRTUR,,,,602,Columbiformes,Columbidae,
+EUCD,Eurasian Collared-Dove,Streptopelia decaocto,STRDEC,,,,603,Columbiformes,Columbidae,
+SPDO,Spotted Dove,Streptopelia chinensis,STRCHI,,,,604,Columbiformes,Columbidae,
+ZEBD,Zebra Dove,Geopelia striata,GEOSTR,,*,,605,Columbiformes,Columbidae,
+WWDO,White-winged Dove,Zenaida asiatica,ZENASI,,,,606,Columbiformes,Columbidae,
+ZEND,Zenaida Dove,Zenaida aurita,ZENAUT,*,*,,607,Columbiformes,Columbidae,
+EADO,Eared Dove,Zenaida auriculata,ZENAUC,*,,,608,Columbiformes,Columbidae,
+MODO,Mourning Dove,Zenaida macroura,ZENMAC,,,,609,Columbiformes,Columbidae,
+SODO,Socorro Dove,Zenaida graysoni,ZENGRA,,,,610,Columbiformes,Columbidae,
+PAPI,Passenger Pigeon,Ectopistes migratorius,ECTMIG,,,,611,Columbiformes,Columbidae,
+INDO,Inca Dove,Columbina inca,COLINC,,,,612,Columbiformes,Columbidae,
+COGD,Common Ground-Dove,Columbina passerina,COLPAS,,,,613,Columbiformes,Columbidae,
+PBGD,Plain-breasted Ground-Dove,Columbina minuta,COLMIN,,,,614,Columbiformes,Columbidae,
+RUGD,Ruddy Ground-Dove,Columbina talpacoti,COLTAL,,,,615,Columbiformes,Columbidae,
+BLGD,Blue Ground-Dove,Claravis pretiosa,CLAPRE,,,,616,Columbiformes,Columbidae,
+MCGD,Maroon-chested Ground-Dove,Claravis mondetoura,CLAMON,,,,617,Columbiformes,Columbidae,
+WTDO,White-tipped Dove,Leptotila verreauxi,LEPVER,,,,618,Columbiformes,Columbidae,
+GHDO,Gray-headed Dove,Leptotila plumbeiceps,LEPPLU,,,,619,Columbiformes,Columbidae,
+GRDO,Grenada Dove,Leptotila wellsi,LEPWEL,,,,620,Columbiformes,Columbidae,
+CADO,Caribbean Dove,Leptotila jamaicensis,LEPJAM,,,,621,Columbiformes,Columbidae,
+GCDO,Gray-chested Dove,Leptotila cassini,LEPCAS,,,,622,Columbiformes,Columbidae,
+OBQD,Olive-backed Quail-Dove,Geotrygon veraguensis,GEOVEG,*,,,623,Columbiformes,Columbidae,
+KWQD,Key West Quail-Dove,Geotrygon chrysia,GEOCHR,,,,624,Columbiformes,Columbidae,
+BRQD,Bridled Quail-Dove,Geotrygon mystacea,GEOMYS,,,,625,Columbiformes,Columbidae,
+WFAQ,White-faced Quail-Dove,Geotrygon albifacies,GEOALB,,*,,626,Columbiformes,Columbidae,
+CHQD,Chiriqui Quail-Dove,Geotrygon chiriquensis,GEOCHI,,,,627,Columbiformes,Columbidae,
+TUQD,Tuxtla Quail-Dove,Geotrygon carrikeri,GEOCAR,,,,628,Columbiformes,Columbidae,
+PBQD,Purplish-backed Quail-Dove,Geotrygon lawrencii,GEOLAW,,,,629,Columbiformes,Columbidae,
+BFQD,Buff-fronted Quail-Dove,Geotrygon costaricensis,GEOCOS,,,,630,Columbiformes,Columbidae,
+RCQD,Russet-crowned Quail-Dove,Geotrygon goldmani,GEOGOL,,,,631,Columbiformes,Columbidae,
+GFQD,Gray-fronted Quail-Dove,Geotrygon caniceps,GEOCAN,,,,632,Columbiformes,Columbidae,
+WFRQ,White-fronted Quail-Dove,Geotrygon leucometopia,GEOLEU,,*,,633,Columbiformes,Columbidae,
+CRQD,Crested Quail-Dove,Geotrygon versicolor,GEOVES,*,,,634,Columbiformes,Columbidae,
+VIQD,Violaceous Quail-Dove,Geotrygon violacea,GEOVIO,,,,635,Columbiformes,Columbidae,
+RUQD,Ruddy Quail-Dove,Geotrygon montana,GEOMON,,,,636,Columbiformes,Columbidae,
+BHQD,Blue-headed Quail-Dove,Starnoenas cyanocephala,STACYA,,,,637,Columbiformes,Columbidae,
+COCU,Common Cuckoo,Cuculus canorus,CUCCAN,,,,638,Cuculiformes,Cuculidae,Cuculinae
+ORCU,Oriental Cuckoo,Cuculus optatus,CUCOPT,,,,639,Cuculiformes,Cuculidae,Cuculinae
+LITC,Little Cuckoo,Coccycua minuta,COCMIT,*,*,,640,Cuculiformes,Cuculidae,Cuculinae
+SQCU,Squirrel Cuckoo,Piaya cayana,PIACAY,,,,641,Cuculiformes,Cuculidae,Cuculinae
+DBCU,Dark-billed Cuckoo,Coccyzus melacoryphus,COCMEL,,,,642,Cuculiformes,Cuculidae,Cuculinae
+YBCU,Yellow-billed Cuckoo,Coccyzus americanus,COCAME,,,,643,Cuculiformes,Cuculidae,Cuculinae
+PBCU,Pearly-breasted Cuckoo,Coccyzus euleri,COCEUL,,,,644,Cuculiformes,Cuculidae,Cuculinae
+MACU,Mangrove Cuckoo,Coccyzus minor,COCMIR,*,,,645,Cuculiformes,Cuculidae,Cuculinae
+COCC,Cocos Cuckoo,Coccyzus ferrugineus,COCFER,,*,,646,Cuculiformes,Cuculidae,Cuculinae
+BBCU,Black-billed Cuckoo,Coccyzus erythropthalmus,COCERY,,,,647,Cuculiformes,Cuculidae,Cuculinae
+CBCU,Chestnut-bellied Cuckoo,Coccyzus pluvialis,COCPLU,,,,648,Cuculiformes,Cuculidae,Cuculinae
+BBRC,Bay-breasted Cuckoo,Coccyzus rufigularis,COCRUF,,*,,649,Cuculiformes,Cuculidae,Cuculinae
+JALC,Jamaican Lizard-Cuckoo,Coccyzus vetula,COCVET,,,,650,Cuculiformes,Cuculidae,Cuculinae
+PRLC,Puerto Rican Lizard-Cuckoo,Coccyzus vieilloti,COCVIE,,,,651,Cuculiformes,Cuculidae,Cuculinae
+GRLC,Great Lizard-Cuckoo,Coccyzus merlini,COCMER,,,,652,Cuculiformes,Cuculidae,Cuculinae
+HILC,Hispaniolan Lizard-Cuckoo,Coccyzus longirostris,COCLON,,,,653,Cuculiformes,Cuculidae,Cuculinae
+STCU,Striped Cuckoo,Tapera naevia,TAPNAE,,,,654,Cuculiformes,Cuculidae,Neomorphinae
+PHCU,Pheasant Cuckoo,Dromococcyx phasianellus,DROPHA,,,,655,Cuculiformes,Cuculidae,Neomorphinae
+LEGC,Lesser Ground-Cuckoo,Morococcyx erythropygus,MORERY,,,,656,Cuculiformes,Cuculidae,Neomorphinae
+LERO,Lesser Roadrunner,Geococcyx velox,GEOVEL,,,,657,Cuculiformes,Cuculidae,Neomorphinae
+GRRO,Greater Roadrunner,Geococcyx californianus,GEOCAL,,,,658,Cuculiformes,Cuculidae,Neomorphinae
+RVGC,Rufous-vented Ground-Cuckoo,Neomorphus geoffroyi,NEOGEO,,,,659,Cuculiformes,Cuculidae,Neomorphinae
+GRTA,Greater Ani,Crotophaga major,CROMAJ,,*,,660,Cuculiformes,Cuculidae,Crotophaginae
+SBAN,Smooth-billed Ani,Crotophaga ani,CROANI,,,,661,Cuculiformes,Cuculidae,Crotophaginae
+GBAN,Groove-billed Ani,Crotophaga sulcirostris,CROSUL,,,,662,Cuculiformes,Cuculidae,Crotophaginae
+BANO,Barn Owl,Tyto alba,TYTALB,,*,,663,Strigiformes,Tytonidae,
+AFOW,Ashy-faced Owl,Tyto glaucops,TYTGLA,,,,664,Strigiformes,Tytonidae,
+FLOW,Flammulated Owl,Otus flammeolus,OTUFLA,,,,665,Strigiformes,Strigidae,
+ORSO,Oriental Scops-Owl,Otus sunia,OTUSUN,,,,666,Strigiformes,Strigidae,
+WESO,Western Screech-Owl,Megascops kennicottii,MEGKEN,,,,667,Strigiformes,Strigidae,
+EASO,Eastern Screech-Owl,Megascops asio,MEGASI,,,,668,Strigiformes,Strigidae,
+BASO,Balsas Screech-Owl,Megascops seductus,MEGSED,,,,669,Strigiformes,Strigidae,
+PASO,Pacific Screech-Owl,Megascops cooperi,MEGCOO,,,,670,Strigiformes,Strigidae,
+WHSO,Whiskered Screech-Owl,Megascops trichopsis,MEGTRI,,,,671,Strigiformes,Strigidae,
+TRSO,Tropical Screech-Owl,Megascops choliba,MEGCHO,,,,672,Strigiformes,Strigidae,
+BESO,Bearded Screech-Owl,Megascops barbarus,MEGBAR,,,,673,Strigiformes,Strigidae,
+VESO,Vermiculated Screech-Owl,Megascops guatemalae,MEGGUA,,,,674,Strigiformes,Strigidae,
+BSSO,Bare-shanked Screech-Owl,Megascops clarkii,MEGCLA,,,,675,Strigiformes,Strigidae,
+PRSO,Puerto Rican Screech-Owl,Megascops nudipes,MEGNUD,,,,676,Strigiformes,Strigidae,
+BLOW,Bare-legged Owl,Gymnoglaux lawrencii,GYMLAW,,,,677,Strigiformes,Strigidae,
+CROW,Crested Owl,Lophostrix cristata,LOPCRI,,,,678,Strigiformes,Strigidae,
+SPEO,Spectacled Owl,Pulsatrix perspicillata,PULPER,,*,,679,Strigiformes,Strigidae,
+GHOW,Great Horned Owl,Bubo virginianus,BUBVIR,,,,680,Strigiformes,Strigidae,
+SNOW,Snowy Owl,Bubo scandiacus,BUBSCA,,,,681,Strigiformes,Strigidae,
+NHOW,Northern Hawk Owl,Surnia ulula,SURULU,,,,682,Strigiformes,Strigidae,
+NOPO,Northern Pygmy-Owl,Glaucidium gnoma,GLAGNO,,,,683,Strigiformes,Strigidae,
+CRPO,Costa Rican Pygmy-Owl,Glaucidium costaricanum,GLACOS,,,,684,Strigiformes,Strigidae,
+CAPO,Central American Pygmy-Owl,Glaucidium griseiceps,GLAGRI,,,,685,Strigiformes,Strigidae,
+TAPO,Tamaulipas Pygmy-Owl,Glaucidium sanchezi,GLASAN,,,,686,Strigiformes,Strigidae,
+CPYO,Colima Pygmy-Owl,Glaucidium palmarum,GLAPAL,,*,,687,Strigiformes,Strigidae,
+FEPO,Ferruginous Pygmy-Owl,Glaucidium brasilianum,GLABRA,,,,688,Strigiformes,Strigidae,
+CUPO,Cuban Pygmy-Owl,Glaucidium siju,GLASIJ,,,,689,Strigiformes,Strigidae,
+ELOW,Elf Owl,Micrathene whitneyi,MICWHI,,,,690,Strigiformes,Strigidae,
+BUOW,Burrowing Owl,Athene cunicularia,ATHCUN,,,,691,Strigiformes,Strigidae,
+MOOW,Mottled Owl,Ciccaba virgata,CICVIR,,,,692,Strigiformes,Strigidae,
+BLWO,Black-and-white Owl,Ciccaba nigrolineata,CICNIG,,*,,693,Strigiformes,Strigidae,
+SPOW,Spotted Owl,Strix occidentalis,STROCC,,,,694,Strigiformes,Strigidae,
+SBOH,Spotted x Barred Owl Hybrid,Strix occiden. x varia,STROCV,,,+,695,Strigiformes,Strigidae,
+BADO,Barred Owl,Strix varia,STRVAR,,*,,696,Strigiformes,Strigidae,
+FUOW,Fulvous Owl,Strix fulvescens,STRFUL,,,,697,Strigiformes,Strigidae,
+GGOW,Great Gray Owl,Strix nebulosa,STRNEB,,,,698,Strigiformes,Strigidae,
+LEOW,Long-eared Owl,Asio otus,ASIOTU,,,,699,Strigiformes,Strigidae,
+STOW,Stygian Owl,Asio stygius,ASISTY,,,,700,Strigiformes,Strigidae,
+SEOW,Short-eared Owl,Asio flammeus,ASIFLA,,,,701,Strigiformes,Strigidae,
+STRO,Striped Owl,Pseudoscops clamator,PSECLA,,*,,702,Strigiformes,Strigidae,
+JAOW,Jamaican Owl,Pseudoscops grammicus,PSEGRA,,,,703,Strigiformes,Strigidae,
+BOOW,Boreal Owl,Aegolius funereus,AEGFUN,,,,704,Strigiformes,Strigidae,
+NSWO,Northern Saw-whet Owl,Aegolius acadicus,AEGACA,,,,705,Strigiformes,Strigidae,
+USWO,Unspotted Saw-whet Owl,Aegolius ridgwayi,AEGRID,,,,706,Strigiformes,Strigidae,
+BRHO,Brown Hawk-Owl,Ninox scutulata,NINSCU,,,,707,Strigiformes,Strigidae,
+UNOW,Unidentified Owl,"Strigidae (gen, sp)",STRGSP,,,+,708,Strigiformes,Strigidae,
+SHTN,Short-tailed Nighthawk,Lurocalis semitorquatus,LURSEM,,*,,709,Caprimulgiformes,Caprimulgidae,Chordeilinae
+LENI,Lesser Nighthawk,Chordeiles acutipennis,CHOACU,,,,710,Caprimulgiformes,Caprimulgidae,Chordeilinae
+CONI,Common Nighthawk,Chordeiles minor,CHOMIN,,,,711,Caprimulgiformes,Caprimulgidae,Chordeilinae
+ANNI,Antillean Nighthawk,Chordeiles gundlachii,CHOGUN,,,,712,Caprimulgiformes,Caprimulgidae,Chordeilinae
+COPA,Common Pauraque,Nyctidromus albicollis,NYCALB,,,,713,Caprimulgiformes,Caprimulgidae,Caprimulginae
+COPO,Common Poorwill,Phalaenoptilus nuttallii,PHANUT,,,,714,Caprimulgiformes,Caprimulgidae,Caprimulginae
+JAPA,Jamaican Pauraque,Siphonorhis americana,SIPAME,,,,715,Caprimulgiformes,Caprimulgidae,Caprimulginae
+LEPA,Least Pauraque,Siphonorhis brewsteri,SIPBRE,,,,716,Caprimulgiformes,Caprimulgidae,Caprimulginae
+EAPO,Eared Poorwill,Nyctiphrynus mcleodii,NYCMCL,,,,717,Caprimulgiformes,Caprimulgidae,Caprimulginae
+YUPO,Yucatan Poorwill,Nyctiphrynus yucatanicus,NYCYUC,,,,718,Caprimulgiformes,Caprimulgidae,Caprimulginae
+OCPO,Ocellated Poorwill,Nyctiphrynus ocellatus,NYCOCE,,,,719,Caprimulgiformes,Caprimulgidae,Caprimulginae
+CWWI,Chuck-will's-widow,Antrostomus carolinensis,ANTCAR,,,,720,Caprimulgiformes,Caprimulgidae,Caprimulginae
+RUNI,Rufous Nightjar,Antrostomus rufus,ANTRUF,,,,721,Caprimulgiformes,Caprimulgidae,Caprimulginae
+GANI,Greater Antillean Nightjar,Antrostomus cubanensis,ANTCUB,,,,722,Caprimulgiformes,Caprimulgidae,Caprimulginae
+TCNI,Tawny-collared Nightjar,Antrostomus salvini,ANTSAL,,,,723,Caprimulgiformes,Caprimulgidae,Caprimulginae
+YUNI,Yucatan Nightjar,Antrostomus badius,ANTBAD,,,,724,Caprimulgiformes,Caprimulgidae,Caprimulginae
+BCNI,Buff-collared Nightjar,Antrostomus ridgwayi,ANTRID,,,,725,Caprimulgiformes,Caprimulgidae,Caprimulginae
+EWPW,Eastern Whip-poor-will,Antrostomus vociferus,ANTVOC,,,,726,Caprimulgiformes,Caprimulgidae,Caprimulginae
+DUNI,Dusky Nightjar,Antrostomus saturatus,ANTSAT,,,,727,Caprimulgiformes,Caprimulgidae,Caprimulginae
+MWPW,Mexican Whip-poor-will,Antrostomus arizonae,ANTARI,,,,728,Caprimulgiformes,Caprimulgidae,Caprimulginae
+PRNI,Puerto Rican Nightjar,Antrostomus noctitherus,ANTNOC,,,,729,Caprimulgiformes,Caprimulgidae,Caprimulginae
+WTNI,White-tailed Nightjar,Hydropsalis cayennensis,HYDCAY,,,,730,Caprimulgiformes,Caprimulgidae,Caprimulginae
+SPTN,Spot-tailed Nightjar,Hydropsalis maculicaudus,HYDMAD,*,*,,731,Caprimulgiformes,Caprimulgidae,Caprimulginae
+GRNI,Gray Nightjar,Caprimulgus indicus,CAPIND,,,,732,Caprimulgiformes,Caprimulgidae,Caprimulginae
+GRPO,Great Potoo,Nyctibius grandis,NYCGRA,,,,733,Caprimulgiformes,Nyctibiidae,
+CPOT,Common Potoo,Nyctibius griseus,NYCGRI,,*,,734,Caprimulgiformes,Nyctibiidae,
+NORP,Northern Potoo,Nyctibius jamaicensis,NYCJAM,,*,,735,Caprimulgiformes,Nyctibiidae,
+OILB,Oilbird,Steatornis caripensis,STECAR,,,,736,Caprimulgiformes,Steatornithidae,
+BLSW,Black Swift,Cypseloides niger,CYPNIG,,,,737,Apodiformes,Apodidae,Cypseloidinae
+WFSW,White-fronted Swift,Cypseloides storeri,CYPSTO,,,,738,Apodiformes,Apodidae,Cypseloidinae
+WCHS,White-chinned Swift,Cypseloides cryptus,CYPCRY,,*,,739,Apodiformes,Apodidae,Cypseloidinae
+SFSW,Spot-fronted Swift,Cypseloides cherriei,CYPCHE,,,,740,Apodiformes,Apodidae,Cypseloidinae
+CCSW,Chestnut-collared Swift,Streptoprocne rutila,STRRUT,,,,741,Apodiformes,Apodidae,Cypseloidinae
+WCSW,White-collared Swift,Streptoprocne zonaris,STRZON,,,,742,Apodiformes,Apodidae,Cypseloidinae
+WNSW,White-naped Swift,Streptoprocne semicollaris,STRSEM,,,,743,Apodiformes,Apodidae,Cypseloidinae
+CHSW,Chimney Swift,Chaetura pelagica,CHAPEL,,,,744,Apodiformes,Apodidae,Chaeturinae
+VASW,Vaux's Swift,Chaetura vauxi,CHAVAU,,,,745,Apodiformes,Apodidae,Chaeturinae
+CHAS,Chapman's Swift,Chaetura chapmani,CHACHA,,*,,746,Apodiformes,Apodidae,Chaeturinae
+STSW,Short-tailed Swift,Chaetura brachyura,CHABRA,,,,747,Apodiformes,Apodidae,Chaeturinae
+SISW,Sick's Swift,Chaetura meridionalis,CHAMER,,,,748,Apodiformes,Apodidae,Chaeturinae
+BRSW,Band-rumped Swift,Chaetura spinicaudus,CHASPI,,,,749,Apodiformes,Apodidae,Chaeturinae
+CRSW,Costa Rican Swift,Chaetura fumosa,CHAFUM,,,,750,Apodiformes,Apodidae,Chaeturinae
+GRSW,Gray-rumped Swift,Chaetura cinereiventris,CHACIN,,,,751,Apodiformes,Apodidae,Chaeturinae
+LASW,Lesser Antillean Swift,Chaetura martinica,CHAMAR,,,,752,Apodiformes,Apodidae,Chaeturinae
+WTNE,White-throated Needletail,Hirundapus caudacutus,HIRCAU,,,,753,Apodiformes,Apodidae,Chaeturinae
+MASW,Mariana Swiftlet,Aerodramus bartschi,AERBAR,,,,754,Apodiformes,Apodidae,Chaeturinae
+COSW,Common Swift,Apus apus,APUAPU,,,,755,Apodiformes,Apodidae,Apodinae
+FTSW,Fork-tailed Swift,Apus pacificus,APUPAC,,,,756,Apodiformes,Apodidae,Apodinae
+ALSW,Alpine Swift,Apus melba,APUMEL,,,,757,Apodiformes,Apodidae,Apodinae
+WTSW,White-throated Swift,Aeronautes saxatalis,AERSAX,,,,758,Apodiformes,Apodidae,Apodinae
+LSTS,Lesser Swallow-tailed Swift,Panyptila cayennensis,PANCAY,,,,759,Apodiformes,Apodidae,Apodinae
+GSTS,Great Swallow-tailed Swift,Panyptila sanctihieronymi,PANSAN,,,,760,Apodiformes,Apodidae,Apodinae
+ANPS,Antillean Palm-Swift,Tachornis phoenicobia,TACPHO,,,,761,Apodiformes,Apodidae,Apodinae
+WNJA,White-necked Jacobin,Florisuga mellivora,FLOMEL,,,,762,Apodiformes,Trochilidae,Topazinae
+WTSI,White-tipped Sicklebill,Eutoxeres aquila,EUTAQU,,,,763,Apodiformes,Trochilidae,Phaethornithinae
+BRHE,Bronzy Hermit,Glaucis aeneus,GLAAEN,,,,764,Apodiformes,Trochilidae,Phaethornithinae
+RBHE,Rufous-breasted Hermit,Glaucis hirsutus,GLAHIR,,,,765,Apodiformes,Trochilidae,Phaethornithinae
+BTBA,Band-tailed Barbthroat,Threnetes ruckeri,THRRUC,,,,766,Apodiformes,Trochilidae,Phaethornithinae
+GREH,Green Hermit,Phaethornis guy,PHAGUY,,*,,767,Apodiformes,Trochilidae,Phaethornithinae
+LBIH,Long-billed Hermit,Phaethornis longirostris,PHALON,,*,,768,Apodiformes,Trochilidae,Phaethornithinae
+PBHE,Pale-bellied Hermit,Phaethornis anthophilus,PHAANT,,,,769,Apodiformes,Trochilidae,Phaethornithinae
+STHR,Stripe-throated Hermit,Phaethornis striigularis,PHASTR,,*,,770,Apodiformes,Trochilidae,Phaethornithinae
+GFRL,Green-fronted Lancebill,Doryfera ludovicae,DORLUD,,*,,771,Apodiformes,Trochilidae,Trochilinae
+BRVI,Brown Violetear,Colibri delphinae,COLDEL,,,,772,Apodiformes,Trochilidae,Trochilinae
+GREV,Green Violetear,Colibri thalassinus,COLTHA,,*,,773,Apodiformes,Trochilidae,Trochilinae
+TBHU,Tooth-billed Hummingbird,Androdon aequatorialis,ANDAEQ,,,,774,Apodiformes,Trochilidae,Trochilinae
+PCFA,Purple-crowned Fairy,Heliothryx barroti,HELBAR,,,,775,Apodiformes,Trochilidae,Trochilinae
+RTOH,Ruby-topaz Hummingbird,Chrysolampis mosquitus,CHRMOS,,*,,776,Apodiformes,Trochilidae,Trochilinae
+GNBM,Green-breasted Mango,Anthracothorax prevostii,ANTPRE,,*,,777,Apodiformes,Trochilidae,Trochilinae
+BTMA,Black-throated Mango,Anthracothorax nigricollis,ANTNIG,,,,778,Apodiformes,Trochilidae,Trochilinae
+VEMA,Veraguan Mango,Anthracothorax veraguensis,ANTVER,,,,779,Apodiformes,Trochilidae,Trochilinae
+ANMA,Antillean Mango,Anthracothorax dominicus,ANTDOM,,,,780,Apodiformes,Trochilidae,Trochilinae
+GMAG,Green Mango,Anthracothorax viridis,ANTVIR,,*,,781,Apodiformes,Trochilidae,Trochilinae
+JAMA,Jamaican Mango,Anthracothorax mango,ANTMAN,,,,782,Apodiformes,Trochilidae,Trochilinae
+PTCA,Purple-throated Carib,Eulampis jugularis,EULJUG,,,,783,Apodiformes,Trochilidae,Trochilinae
+GTCA,Green-throated Carib,Eulampis holosericeus,EULHOL,,,,784,Apodiformes,Trochilidae,Trochilinae
+GRET,Green Thorntail,Discosura conversii,DISCON,,*,,785,Apodiformes,Trochilidae,Trochilinae
+SCCO,Short-crested Coquette,Lophornis brachylophus,LOPBRA,,,,786,Apodiformes,Trochilidae,Trochilinae
+RCRC,Rufous-crested Coquette,Lophornis delattrei,LOPDEL,,*,,787,Apodiformes,Trochilidae,Trochilinae
+BCCO,Black-crested Coquette,Lophornis helenae,LOPHEL,,,,788,Apodiformes,Trochilidae,Trochilinae
+WCCO,White-crested Coquette,Lophornis adorabilis,LOPADO,,,,789,Apodiformes,Trochilidae,Trochilinae
+GRPU,Greenish Puffleg,Haplophaedia aureliae,HAPAUR,,,,790,Apodiformes,Trochilidae,Trochilinae
+GCBR,Green-crowned Brilliant,Heliodoxa jacula,HELJAC,,,,791,Apodiformes,Trochilidae,Trochilinae
+MAHU,Magnificent Hummingbird,Eugenes fulgens,EUGFUL,,,,792,Apodiformes,Trochilidae,Trochilinae
+FTHU,Fiery-throated Hummingbird,Panterpe insignis,PANINS,,,,793,Apodiformes,Trochilidae,Trochilinae
+LBST,Long-billed Starthroat,Heliomaster longirostris,HELLON,,,,794,Apodiformes,Trochilidae,Trochilinae
+PCST,Plain-capped Starthroat,Heliomaster constantii,HELCON,,,,795,Apodiformes,Trochilidae,Trochilinae
+GTMG,Green-throated Mountain-gem,Lampornis viridipallens,LAMVIR,,,,796,Apodiformes,Trochilidae,Trochilinae
+GBMG,Green-breasted Mountain-gem,Lampornis sybillae,LAMSYB,,,,797,Apodiformes,Trochilidae,Trochilinae
+ATHU,Amethyst-throated Hummingbird,Lampornis amethystinus,LAMAME,,,,798,Apodiformes,Trochilidae,Trochilinae
+BTHH,Blue-throated Hummingbird,Lampornis clemenciae,LAMCLE,,*,,799,Apodiformes,Trochilidae,Trochilinae
+WBMG,White-bellied Mountain-gem,Lampornis hemileucus,LAMHEM,,,,800,Apodiformes,Trochilidae,Trochilinae
+PTMG,Purple-throated Mountain-gem,Lampornis calolaemus,LAMCAL,,,,801,Apodiformes,Trochilidae,Trochilinae
+WTMG,White-throated Mountain-gem,Lampornis castaneoventris,LAMCAS,,,,802,Apodiformes,Trochilidae,Trochilinae
+GATH,Garnet-throated Hummingbird,Lamprolaima rhami,LAMRHA,,*,,803,Apodiformes,Trochilidae,Trochilinae
+BAWO,Bahama Woodstar,Calliphlox evelynae,CALEVE,,,,804,Apodiformes,Trochilidae,Trochilinae
+MTWO,Magenta-throated Woodstar,Calliphlox bryantae,CALBRY,,,,805,Apodiformes,Trochilidae,Trochilinae
+PTWO,Purple-throated Woodstar,Calliphlox mitchellii,CALMIT,,,,806,Apodiformes,Trochilidae,Trochilinae
+SLSH,Slender Sheartail,Doricha enicura,DORENI,,,,807,Apodiformes,Trochilidae,Trochilinae
+MESH,Mexican Sheartail,Doricha eliza,DORELI,,,,808,Apodiformes,Trochilidae,Trochilinae
+SKTH,Sparkling-tailed Hummingbird,Tilmatura dupontii,TILDUP,,*,,809,Apodiformes,Trochilidae,Trochilinae
+LUHU,Lucifer Hummingbird,Calothorax lucifer,CALLUC,,,,810,Apodiformes,Trochilidae,Trochilinae
+BEAH,Beautiful Hummingbird,Calothorax pulcher,CALPUL,,*,,811,Apodiformes,Trochilidae,Trochilinae
+RTHU,Ruby-throated Hummingbird,Archilochus colubris,ARCCOL,,,,812,Apodiformes,Trochilidae,Trochilinae
+BCHU,Black-chinned Hummingbird,Archilochus alexandri,ARCALE,,,,813,Apodiformes,Trochilidae,Trochilinae
+VEHU,Vervain Hummingbird,Mellisuga minima,MELMIN,,,,814,Apodiformes,Trochilidae,Trochilinae
+BEEH,Bee Hummingbird,Mellisuga helenae,MELHEL,,*,,815,Apodiformes,Trochilidae,Trochilinae
+ANHU,Anna's Hummingbird,Calypte anna,CALANN,,,,816,Apodiformes,Trochilidae,Trochilinae
+COHU,Costa's Hummingbird,Calypte costae,CALCOS,,,,817,Apodiformes,Trochilidae,Trochilinae
+BUHU,Bumblebee Hummingbird,Atthis heloisa,ATTHEL,,,,818,Apodiformes,Trochilidae,Trochilinae
+WTHH,Wine-throated Hummingbird,Atthis ellioti,ATTELL,,*,,819,Apodiformes,Trochilidae,Trochilinae
+BTAH,Broad-tailed Hummingbird,Selasphorus platycercus,SELPLA,,*,,820,Apodiformes,Trochilidae,Trochilinae
+RUHU,Rufous Hummingbird,Selasphorus rufus,SELRUF,,,,821,Apodiformes,Trochilidae,Trochilinae
+ALHU,Allen's Hummingbird,Selasphorus sasin,SELSAS,,,,822,Apodiformes,Trochilidae,Trochilinae
+VOHU,Volcano Hummingbird,Selasphorus flammula,SELFLA,,,,823,Apodiformes,Trochilidae,Trochilinae
+GLTH,Glow-throated Hummingbird,Selasphorus ardens,SELARD,,*,,824,Apodiformes,Trochilidae,Trochilinae
+SCHU,Scintillant Hummingbird,Selasphorus scintilla,SELSCI,,,,825,Apodiformes,Trochilidae,Trochilinae
+CAHU,Calliope Hummingbird,Selasphorus calliope,SELCAL,,,,826,Apodiformes,Trochilidae,Trochilinae
+USHU,Unidentified Selasphorus Hummingbird,Selaphorus (sp),SELSPS,*,,+,827,Apodiformes,Trochilidae,
+GCEM,Golden-crowned Emerald,Chlorostilbon auriceps,CHLAUR,,,,828,Apodiformes,Trochilidae,Trochilinae
+COEM,Cozumel Emerald,Chlorostilbon forficatus,CHLFOR,,,,829,Apodiformes,Trochilidae,Trochilinae
+CAEM,Canivet's Emerald,Chlorostilbon canivetii,CHLCAV,*,,,830,Apodiformes,Trochilidae,Trochilinae
+GAEM,Garden Emerald,Chlorostilbon assimilis,CHLASS,,,,831,Apodiformes,Trochilidae,Trochilinae
+CUEM,Cuban Emerald,Chlorostilbon ricordii,CHLRIC,,,,832,Apodiformes,Trochilidae,Trochilinae
+BREM,Brace's Emerald,Chlorostilbon bracei,CHLBRA,,,,833,Apodiformes,Trochilidae,Trochilinae
+HIEM,Hispaniolan Emerald,Chlorostilbon swainsonii,CHLSWA,,,,834,Apodiformes,Trochilidae,Trochilinae
+PREM,Puerto Rican Emerald,Chlorostilbon maugaeus,CHLMAU,,,,835,Apodiformes,Trochilidae,Trochilinae
+DUHU,Dusky Hummingbird,Cynanthus sordidus,CYNSOR,,,,836,Apodiformes,Trochilidae,Trochilinae
+BBIH,Broad-billed Hummingbird,Cynanthus latirostris,CYNLAT,,*,,837,Apodiformes,Trochilidae,Trochilinae
+BHHU,Blue-headed Hummingbird,Cyanophaia bicolor,CYABIC,,,,838,Apodiformes,Trochilidae,Trochilinae
+VHHU,Violet-headed Hummingbird,Klais guimeti,KLAGUI,,,,839,Apodiformes,Trochilidae,Trochilinae
+ECHU,Emerald-chinned Hummingbird,Abeillia abeillei,ABEABE,,,,840,Apodiformes,Trochilidae,Trochilinae
+ANCH,Antillean Crested Hummingbird,Orthorhyncus cristatus,ORTCRI,,*,,841,Apodiformes,Trochilidae,Trochilinae
+SBRH,Scaly-breasted Hummingbird,Phaeochroa cuvierii,PHACUV,,*,,842,Apodiformes,Trochilidae,Trochilinae
+WTSA,Wedge-tailed Sabrewing,Campylopterus curvipennis,CAMCUR,,,,843,Apodiformes,Trochilidae,Trochilinae
+LTSA,Long-tailed Sabrewing,Campylopterus excellens,CAMEXC,,,,844,Apodiformes,Trochilidae,Trochilinae
+RUSA,Rufous Sabrewing,Campylopterus rufus,CAMRUS,*,,,845,Apodiformes,Trochilidae,Trochilinae
+VISA,Violet Sabrewing,Campylopterus hemileucurus,CAMHEM,,,,846,Apodiformes,Trochilidae,Trochilinae
+STHM,Stripe-tailed Hummingbird,Eupherusa eximia,EUPEXI,,*,,847,Apodiformes,Trochilidae,Trochilinae
+BCAH,Blue-capped Hummingbird,Eupherusa cyanophrys,EUPCYP,*,*,,848,Apodiformes,Trochilidae,Trochilinae
+WTAH,White-tailed Hummingbird,Eupherusa poliocerca,EUPPOL,,*,,849,Apodiformes,Trochilidae,Trochilinae
+BLBH,Black-bellied Hummingbird,Eupherusa nigriventris,EUPNIG,,*,,850,Apodiformes,Trochilidae,Trochilinae
+WTEM,White-tailed Emerald,Elvira chionura,ELVCHI,,,,851,Apodiformes,Trochilidae,Trochilinae
+CHEM,Coppery-headed Emerald,Elvira cupreiceps,ELVCUP,,,,852,Apodiformes,Trochilidae,Trochilinae
+SNOC,Snowcap,Microchera albocoronata,MICALB,,*,,853,Apodiformes,Trochilidae,Trochilinae
+WVPL,White-vented Plumeleteer,Chalybura buffonii,CHABUF,,,,854,Apodiformes,Trochilidae,Trochilinae
+BTPL,Bronze-tailed Plumeleteer,Chalybura urochrysia,CHAURO,,,,855,Apodiformes,Trochilidae,Trochilinae
+MEWO,Mexican Woodnymph,Thalurania ridgwayi,THARID,,,,856,Apodiformes,Trochilidae,Trochilinae
+VCWO,Violet-crowned Woodnymph,Thalurania colombica,THACOL,,,,857,Apodiformes,Trochilidae,Trochilinae
+GNCW,Green-crowned Woodnymph,Thalurania fannyi,THAFAN,,*,,858,Apodiformes,Trochilidae,Trochilinae
+WBEM,White-bellied Emerald,Amazilia candida,AMACAN,,,,859,Apodiformes,Trochilidae,Trochilinae
+HOEM,Honduran Emerald,Amazilia luciae,AMALUC,,,,860,Apodiformes,Trochilidae,Trochilinae
+BCHH,Blue-chested Hummingbird,Amazilia amabilis,AMAAMB,*,*,,861,Apodiformes,Trochilidae,Trochilinae
+CHHU,Charming Hummingbird,Amazilia decora,AMADEC,,,,862,Apodiformes,Trochilidae,Trochilinae
+MANH,Mangrove Hummingbird,Amazilia boucardi,AMABOU,,*,,863,Apodiformes,Trochilidae,Trochilinae
+AZCH,Azure-crowned Hummingbird,Amazilia cyanocephala,AMACYC,*,*,,864,Apodiformes,Trochilidae,Trochilinae
+BEHU,Berylline Hummingbird,Amazilia beryllina,AMABER,,,,865,Apodiformes,Trochilidae,Trochilinae
+BTLH,Blue-tailed Hummingbird,Amazilia cyanura,AMACYR,*,*,,866,Apodiformes,Trochilidae,Trochilinae
+SVHU,Steely-vented Hummingbird,Amazilia saucerrottei,AMASAU,,,,867,Apodiformes,Trochilidae,Trochilinae
+SBEH,Snowy-bellied Hummingbird,Amazilia edward,AMAEDW,,*,,868,Apodiformes,Trochilidae,Trochilinae
+RTAH,Rufous-tailed Hummingbird,Amazilia tzacatl,AMATZA,,*,,869,Apodiformes,Trochilidae,Trochilinae
+BBEH,Buff-bellied Hummingbird,Amazilia yucatanensis,AMAYUC,,*,,870,Apodiformes,Trochilidae,Trochilinae
+CIHU,Cinnamon Hummingbird,Amazilia rutila,AMARUT,,,,871,Apodiformes,Trochilidae,Trochilinae
+VCHU,Violet-crowned Hummingbird,Amazilia violiceps,AMAVIO,,,,872,Apodiformes,Trochilidae,Trochilinae
+GFHU,Green-fronted Hummingbird,Amazilia viridifrons,AMAVIF,*,,,873,Apodiformes,Trochilidae,Trochilinae
+STRM,Streamertail,Trochilus polytmus,TROPOL,,*,,874,Apodiformes,Trochilidae,Trochilinae
+PIHU,Pirre Hummingbird,Goethalsia bella,GOEBEL,,,,875,Apodiformes,Trochilidae,Trochilinae
+VCAH,Violet-capped Hummingbird,Goldmania violiceps,GOLVIO,,*,,876,Apodiformes,Trochilidae,Trochilinae
+SHTH,Sapphire-throated Hummingbird,Lepidopyga coeruleogularis,LEPCOE,,*,,877,Apodiformes,Trochilidae,Trochilinae
+VBHU,Violet-bellied Hummingbird,Damophila julie,DAMJUL,,,,878,Apodiformes,Trochilidae,Trochilinae
+HUSA,Humboldt's Sapphire,Hylocharis humboldtii,HYLHUM,,*,,879,Apodiformes,Trochilidae,Trochilinae
+BTRG,Blue-throated Goldentail,Hylocharis eliciae,HYLELI,,*,,880,Apodiformes,Trochilidae,Trochilinae
+WEHU,White-eared Hummingbird,Hylocharis leucotis,HYLLEU,,,,881,Apodiformes,Trochilidae,Trochilinae
+XAHU,Xantus's Hummingbird,Hylocharis xantusii,HYLXAN,,,,882,Apodiformes,Trochilidae,Trochilinae
+UNHU,Unidentified Hummingbird,"Trochilidae (gen, sp)",TRCGSP,*,,+,883,Apodiformes,Trochilidae,
+CUTR,Cuban Trogon,Priotelus temnurus,PRITEM,,,,884,Trogoniformes,Trogonidae,Trogoninae
+HITR,Hispaniolan Trogon,Priotelus roseigaster,PRIROS,,,,885,Trogoniformes,Trogonidae,Trogoninae
+LTTR,Lattice-tailed Trogon,Trogon clathratus,TROCLA,,,,886,Trogoniformes,Trogonidae,Trogoninae
+STTR,Slaty-tailed Trogon,Trogon massena,TROMAS,,,,887,Trogoniformes,Trogonidae,Trogoninae
+BTAT,Black-tailed Trogon,Trogon melanurus,TROMER,*,*,,888,Trogoniformes,Trogonidae,Trogoninae
+BHTR,Black-headed Trogon,Trogon melanocephalus,TROMEC,*,,,889,Trogoniformes,Trogonidae,Trogoninae
+CITR,Citreoline Trogon,Trogon citreolus,TROCIT,,,,890,Trogoniformes,Trogonidae,Trogoninae
+WTAT,White-tailed Trogon,Trogon chionurus,TROCHI,,*,,891,Trogoniformes,Trogonidae,Trogoninae
+BATR,Baird's Trogon,Trogon bairdii,TROBAI,,,,892,Trogoniformes,Trogonidae,Trogoninae
+GATR,Gartered Trogon,Trogon caligatus,TROCAL,,,,893,Trogoniformes,Trogonidae,Trogoninae
+BTHT,Black-throated Trogon,Trogon rufus,TRORUS,*,*,,894,Trogoniformes,Trogonidae,Trogoninae
+ELTR,Elegant Trogon,Trogon elegans,TROELE,,,,895,Trogoniformes,Trogonidae,Trogoninae
+MOTR,Mountain Trogon,Trogon mexicanus,TROMEX,,,,896,Trogoniformes,Trogonidae,Trogoninae
+COTR,Collared Trogon,Trogon collaris,TROCOL,,,,897,Trogoniformes,Trogonidae,Trogoninae
+OBTR,Orange-bellied Trogon,Trogon aurantiiventris,TROAUR,,,,898,Trogoniformes,Trogonidae,Trogoninae
+EAQU,Eared Quetzal,Euptilotis neoxenus,EUPNEO,,,,899,Trogoniformes,Trogonidae,Trogoninae
+GHQU,Golden-headed Quetzal,Pharomachrus auriceps,PHAAUC,*,,,900,Trogoniformes,Trogonidae,Trogoninae
+REQU,Resplendent Quetzal,Pharomachrus mocinno,PHAMOC,,,,901,Trogoniformes,Trogonidae,Trogoninae
+EHOO,Eurasian Hoopoe,Upupa epops,UPUEPO,,*,,902,Upupiformes,Upupidae,
+CUTO,Cuban Tody,Todus multicolor,TODMUL,,,,903,Coraciiformes,Todidae,
+BBTO,Broad-billed Tody,Todus subulatus,TODSUB,,,,904,Coraciiformes,Todidae,
+NBTO,Narrow-billed Tody,Todus angustirostris,TODANG,,,,905,Coraciiformes,Todidae,
+JATO,Jamaican Tody,Todus todus,TODTOD,,,,906,Coraciiformes,Todidae,
+PRTO,Puerto Rican Tody,Todus mexicanus,TODMEX,,,,907,Coraciiformes,Todidae,
+TOMO,Tody Motmot,Hylomanes momotula,HYLMOM,,,,908,Coraciiformes,Momotidae,
+BTMO,Blue-throated Motmot,Aspatha gularis,ASPGUL,,,,909,Coraciiformes,Momotidae,
+RCMO,Russet-crowned Motmot,Momotus mexicanus,MOMMEX,,,,910,Coraciiformes,Momotidae,
+BCMO,Blue-crowned Motmot,Momotus momota,MOMMOM,,,,911,Coraciiformes,Momotidae,
+RMOT,Rufous Motmot,Baryphthengus martii,BARMAR,,*,,912,Coraciiformes,Momotidae,
+KBMO,Keel-billed Motmot,Electron carinatum,ELECAR,,,,913,Coraciiformes,Momotidae,
+BBMO,Broad-billed Motmot,Electron platyrhynchum,ELEPLA,,,,914,Coraciiformes,Momotidae,
+TBMO,Turquoise-browed Motmot,Eumomota superciliosa,EUMSUP,,,,915,Coraciiformes,Momotidae,
+RIKI,Ringed Kingfisher,Megaceryle torquata,MEGTOR,,,,916,Coraciiformes,Alcedinidae,Cerylinae
+BEKI,Belted Kingfisher,Megaceryle alcyon,MEGALC,,,,917,Coraciiformes,Alcedinidae,Cerylinae
+AMKI,Amazon Kingfisher,Chloroceryle amazona,CHLAMA,,,,918,Coraciiformes,Alcedinidae,Cerylinae
+GKIN,Green Kingfisher,Chloroceryle americana,CHLAME,,*,,919,Coraciiformes,Alcedinidae,Cerylinae
+GARK,Green-and-rufous Kingfisher,Chloroceryle inda,CHLIND,,,,920,Coraciiformes,Alcedinidae,Cerylinae
+APKI,American Pygmy Kingfisher,Chloroceryle aenea,CHLAEN,,,,921,Coraciiformes,Alcedinidae,Cerylinae
+BAPU,Barred Puffbird,Nystalus radiatus,NYSRAD,,,,922,Piciformes,Bucconidae,
+WNPU,White-necked Puffbird,Notharchus hyperrhynchus,NOTHYP,,,,923,Piciformes,Bucconidae,
+BBPU,Black-breasted Puffbird,Notharchus pectoralis,NOTPEC,,,,924,Piciformes,Bucconidae,
+PIPU,Pied Puffbird,Notharchus tectus,NOTTEC,,,,925,Piciformes,Bucconidae,
+WWPU,White-whiskered Puffbird,Malacoptila panamensis,MALPAN,,,,926,Piciformes,Bucconidae,
+LAMO,Lanceolated Monklet,Micromonacha lanceolata,MICLAN,,,,927,Piciformes,Bucconidae,
+GCNU,Gray-cheeked Nunlet,Nonnula frontalis,NONFRO,,,,928,Piciformes,Bucconidae,
+WFNU,White-fronted Nunbird,Monasa morphoeus,MONMOR,,,,929,Piciformes,Bucconidae,
+DBJA,Dusky-backed Jacamar,Brachygalba salmoni,BRASAL,,,,930,Piciformes,Galbulidae,
+RTJA,Rufous-tailed Jacamar,Galbula ruficauda,GALRUF,,,,931,Piciformes,Galbulidae,
+GJAC,Great Jacamar,Jacamerops aureus,JACAUR,,*,,932,Piciformes,Galbulidae,
+SCBA,Spot-crowned Barbet,Capito maculicoronatus,CAPMAR,*,,,933,Piciformes,Capitonidae,
+RHBA,Red-headed Barbet,Eubucco bourcierii,EUBBOU,,,,934,Piciformes,Capitonidae,
+PBBA,Prong-billed Barbet,Semnornis frantzii,SEMFRA,,,,935,Piciformes,Semnornithidae,
+EMTO,Emerald Toucanet,Aulacorhynchus prasinus,AULPRA,,,,936,Piciformes,Ramphastidae,Ramphastinae
+COAR,Collared Aracari,Pteroglossus torquatus,PTETOR,,,,937,Piciformes,Ramphastidae,Ramphastinae
+FBAR,Fiery-billed Aracari,Pteroglossus frantzii,PTEFRA,,,,938,Piciformes,Ramphastidae,Ramphastinae
+YETO,Yellow-eared Toucanet,Selenidera spectabilis,SELSPT,*,,,939,Piciformes,Ramphastidae,Ramphastinae
+KBTO,Keel-billed Toucan,Ramphastos sulfuratus,RAMSUL,,,,940,Piciformes,Ramphastidae,Ramphastinae
+BMTO,Black-mandibled Toucan,Ramphastos ambiguus,RAMAMB,,,,941,Piciformes,Ramphastidae,Ramphastinae
+EUWR,Eurasian Wryneck,Jynx torquilla,JYNTOR,,,,942,Piciformes,Picidae,Jynginae
+OLPI,Olivaceous Piculet,Picumnus olivaceus,PICOLI,,,,943,Piciformes,Picidae,Picumninae
+ANPI,Antillean Piculet,Nesoctites micromegas,NESMIC,,,,944,Piciformes,Picidae,Picumninae
+LEWO,Lewis's Woodpecker,Melanerpes lewis,MELLEW,,,,945,Piciformes,Picidae,Picinae
+GUWO,Guadeloupe Woodpecker,Melanerpes herminieri,MELHER,,,,946,Piciformes,Picidae,Picinae
+PRWO,Puerto Rican Woodpecker,Melanerpes portoricensis,MELPOR,,,,947,Piciformes,Picidae,Picinae
+RHWO,Red-headed Woodpecker,Melanerpes erythrocephalus,MELERY,,,,948,Piciformes,Picidae,Picinae
+ACWO,Acorn Woodpecker,Melanerpes formicivorus,MELFOR,,,,949,Piciformes,Picidae,Picinae
+GNWO,Golden-naped Woodpecker,Melanerpes chrysauchen,MELCHC,*,,,950,Piciformes,Picidae,Picinae
+BCWO,Black-cheeked Woodpecker,Melanerpes pucherani,MELPUC,,,,951,Piciformes,Picidae,Picinae
+HIWO,Hispaniolan Woodpecker,Melanerpes striatus,MELSTR,,,,952,Piciformes,Picidae,Picinae
+JAWO,Jamaican Woodpecker,Melanerpes radiolatus,MELRAD,,,,953,Piciformes,Picidae,Picinae
+GCHW,Golden-cheeked Woodpecker,Melanerpes chrysogenys,MELCHG,*,*,,954,Piciformes,Picidae,Picinae
+GBWO,Gray-breasted Woodpecker,Melanerpes hypopolius,MELHYI,*,,,955,Piciformes,Picidae,Picinae
+YUWO,Yucatan Woodpecker,Melanerpes pygmaeus,MELPYG,,,,956,Piciformes,Picidae,Picinae
+RCRW,Red-crowned Woodpecker,Melanerpes rubricapillus,MELRUB,,*,,957,Piciformes,Picidae,Picinae
+GIWO,Gila Woodpecker,Melanerpes uropygialis,MELURO,,,,958,Piciformes,Picidae,Picinae
+HOWO,Hoffmann's Woodpecker,Melanerpes hoffmannii,MELHOF,,,,959,Piciformes,Picidae,Picinae
+GFWO,Golden-fronted Woodpecker,Melanerpes aurifrons,MELAUR,,,,960,Piciformes,Picidae,Picinae
+RBWO,Red-bellied Woodpecker,Melanerpes carolinus,MELCAR,,,,961,Piciformes,Picidae,Picinae
+WIWO,West Indian Woodpecker,Melanerpes superciliaris,MELSUP,,,,962,Piciformes,Picidae,Picinae
+WISA,Williamson's Sapsucker,Sphyrapicus thyroideus,SPHTHY,,,,963,Piciformes,Picidae,Picinae
+YBSA,Yellow-bellied Sapsucker,Sphyrapicus varius,SPHVAR,,,,964,Piciformes,Picidae,Picinae
+RNSA,Red-naped Sapsucker,Sphyrapicus nuchalis,SPHNUC,,,,965,Piciformes,Picidae,Picinae
+RRSH,Red-naped X Red-breasted Saps. Hybrid,Sphyrapicus nuchalis x ruber,SPHNUR,,,+,966,Piciformes,Picidae,Picinae
+RBSA,Red-breasted Sapsucker,Sphyrapicus ruber,SPHRUB,,,,967,Piciformes,Picidae,Picinae
+UNSA,Unidentified Sapsucker,Sphyrapicus (sp),SPHSPE,,,+,968,Piciformes,Picidae,Picinae
+CGWO,Cuban Green Woodpecker,Xiphidiopicus percussus,XIPPER,,,,969,Piciformes,Picidae,Picinae
+GSWO,Great Spotted Woodpecker,Dendrocopos major,DENMAJ,,,,970,Piciformes,Picidae,Picinae
+LBWO,Ladder-backed Woodpecker,Picoides scalaris,PICSCA,,,,971,Piciformes,Picidae,Picinae
+NUWO,Nuttall's Woodpecker,Picoides nuttallii,PIDNUT,*,,,972,Piciformes,Picidae,Picinae
+DOWO,Downy Woodpecker,Picoides pubescens,PICPUB,,,,973,Piciformes,Picidae,Picinae
+SMBW,Smoky-brown Woodpecker,Picoides fumigatus,PICFUM,,*,,974,Piciformes,Picidae,Picinae
+HAWO,Hairy Woodpecker,Picoides villosus,PICVIL,,,,975,Piciformes,Picidae,Picinae
+ARWO,Arizona Woodpecker,Picoides arizonae,PICARI,,,,976,Piciformes,Picidae,Picinae
+STCW,Strickland's Woodpecker,Picoides stricklandi,PICSTR,,*,,977,Piciformes,Picidae,Picinae
+RCWO,Red-cockaded Woodpecker,Picoides borealis,PICBOR,,,,978,Piciformes,Picidae,Picinae
+WHWO,White-headed Woodpecker,Picoides albolarvatus,PICALB,,,,979,Piciformes,Picidae,Picinae
+ATTW,American Three-toed Woodpecker,Picoides dorsalis,PICDOR,,,,980,Piciformes,Picidae,Picinae
+BBWO,Black-backed Woodpecker,Picoides arcticus,PICARC,,,,981,Piciformes,Picidae,Picinae
+RRWO,Red-rumped Woodpecker,Veniliornis kirkii,VENKIR,,,,982,Piciformes,Picidae,Picinae
+RWWO,Rufous-winged Woodpecker,Piculus simplex,PICSIM,,,,983,Piciformes,Picidae,Picinae
+SCHW,Stripe-cheeked Woodpecker,Piculus callopterus,PICCAL,,*,,984,Piciformes,Picidae,Picinae
+GGWO,Golden-green Woodpecker,Piculus chrysochloros,PICCHR,,,,985,Piciformes,Picidae,Picinae
+GOWO,Golden-olive Woodpecker,Colaptes rubiginosus,COLRUB,,,,986,Piciformes,Picidae,Picinae
+GYCW,Gray-crowned Woodpecker,Colaptes auricularis,COLAUC,*,*,,987,Piciformes,Picidae,Picinae
+SBWP,Spot-breasted Woodpecker,Colaptes punctigula,COLPUN,,*,,988,Piciformes,Picidae,Picinae
+NOFL,Northern Flicker,Colaptes auratus,COLAUT,*,,,989,Piciformes,Picidae,Picinae
+YSFL,Yellow-shafted Flicker,Colaptes a. auratus,COLAAU,,,+,990,Piciformes,Picidae,Picinae
+NFIN,Northern Flicker Intergrade,Colaptes a.auratus x cafer,COLAAC,,,+,991,Piciformes,Picidae,Picinae
+RSFL,Red-shafted Flicker,Colaptes a. cafer,COLACA,,,+,992,Piciformes,Picidae,Picinae
+GIFL,Gilded Flicker,Colaptes chrysoides,COLCHR,,,,993,Piciformes,Picidae,Picinae
+FEFL,Fernandina's Flicker,Colaptes fernandinae,COLFER,,,,994,Piciformes,Picidae,Picinae
+CIWO,Cinnamon Woodpecker,Celeus loricatus,CELLOR,,,,995,Piciformes,Picidae,Picinae
+CCOW,Chestnut-colored Woodpecker,Celeus castaneus,CELCAS,,*,,996,Piciformes,Picidae,Picinae
+LIWO,Lineated Woodpecker,Dryocopus lineatus,DRYLIN,,,,997,Piciformes,Picidae,Picinae
+PIWO,Pileated Woodpecker,Dryocopus pileatus,DRYPIL,,,,998,Piciformes,Picidae,Picinae
+CBWO,Crimson-bellied Woodpecker,Campephilus haematogaster,CAMHAE,,,,999,Piciformes,Picidae,Picinae
+CCRW,Crimson-crested Woodpecker,Campephilus melanoleucos,CAMMEL,,*,,1000,Piciformes,Picidae,Picinae
+PBIW,Pale-billed Woodpecker,Campephilus guatemalensis,CAMGUA,,*,,1001,Piciformes,Picidae,Picinae
+IBWO,Ivory-billed Woodpecker,Campephilus principalis,CAMPRI,,,,1002,Piciformes,Picidae,Picinae
+IMWO,Imperial Woodpecker,Campephilus imperialis,CAMIMP,,,,1003,Piciformes,Picidae,Picinae
+UNWO,Unidentified Woodpecker,"Picadae (gen, sp)",PICGSP,,,+,1004,Falconiformes,Falconidae,Micrasturinae
+BAFF,Barred Forest-Falcon,Micrastur ruficollis,MICRUF,,,,1005,Falconiformes,Falconidae,Micrasturinae
+SBFF,Slaty-backed Forest-Falcon,Micrastur mirandollei,MICMIR,,,,1006,Falconiformes,Falconidae,Micrasturinae
+COFF,Collared Forest-Falcon,Micrastur semitorquatus,MICSEM,,,,1007,Falconiformes,Falconidae,Micrasturinae
+RTCA,Red-throated Caracara,Ibycter americanus,IBYAME,,,,1008,Falconiformes,Falconidae,Caracarinae
+CRCA,Crested Caracara,Caracara cheriway,CARCHE,,,,1009,Falconiformes,Falconidae,Caracarinae
+GUCA,Guadalupe Caracara,Caracara lutosa,CARLUT,,,,1010,Falconiformes,Falconidae,Caracarinae
+YHCA,Yellow-headed Caracara,Milvago chimachima,MILCHI,,,,1011,Falconiformes,Falconidae,Caracarinae
+LAFA,Laughing Falcon,Herpetotheres cachinnans,HERCAC,,,,1012,Falconiformes,Falconidae,Falconinae
+EUKE,Eurasian Kestrel,Falco tinnunculus,FALTIN,,,,1013,Falconiformes,Falconidae,Falconinae
+AMKE,American Kestrel,Falco sparverius,FALSPA,,,,1014,Falconiformes,Falconidae,Falconinae
+RFFA,Red-footed Falcon,Falco vespertinus,FALVES,,,,1015,Falconiformes,Falconidae,Falconinae
+MERL,Merlin,Falco columbarius,FALCOL,,,,1016,Falconiformes,Falconidae,Falconinae
+EHOB,Eurasian Hobby,Falco subbuteo,FALSUB,,*,,1017,Falconiformes,Falconidae,Falconinae
+APFA,Aplomado Falcon,Falco femoralis,FALFEM,,,,1018,Falconiformes,Falconidae,Falconinae
+BAFA,Bat Falcon,Falco rufigularis,FALRUF,,,,1019,Falconiformes,Falconidae,Falconinae
+OBFA,Orange-breasted Falcon,Falco deiroleucus,FALDEI,,,,1020,Falconiformes,Falconidae,Falconinae
+GYRF,Gyrfalcon,Falco rusticolus,FALRUS,,,,1021,Falconiformes,Falconidae,Falconinae
+PEFA,Peregrine Falcon,Falco peregrinus,FALPER,,,,1022,Falconiformes,Falconidae,Falconinae
+PRFA,Prairie Falcon,Falco mexicanus,FALMEX,,,,1023,Falconiformes,Falconidae,Falconinae
+BUDG,Budgerigar,Melopsittacus undulatus,MELUND,,,,1024,Psittaciformes,Psittacidae,Platycercinae
+RRPA,Rose-ringed Parakeet,Psittacula krameri,PSIKRA,,,,1025,Psittaciformes,Psittacidae,Psittacinae
+PAIP,Painted Parakeet,Pyrrhura picta,PYRPIC,,*,,1026,Psittaciformes,Psittacidae,Arinae
+SWPA,Sulphur-winged Parakeet,Pyrrhura hoffmanni,PYRHOF,,,,1027,Psittaciformes,Psittacidae,Arinae
+MOPA,Monk Parakeet,Myiopsitta monachus,MYIMON,,,,1028,Psittaciformes,Psittacidae,Arinae
+CAPA,Carolina Parakeet,Conuropsis carolinensis,CONCAL,*,,,1029,Psittaciformes,Psittacidae,Arinae
+GREP,Green Parakeet,Aratinga holochlora,ARAHOL,,*,,1030,Psittaciformes,Psittacidae,Arinae
+PACP,Pacific Parakeet,Aratinga strenua,ARASTR,,*,,1031,Psittaciformes,Psittacidae,Arinae
+CFPA,Crimson-fronted Parakeet,Aratinga finschi,ARAFIN,,,,1032,Psittaciformes,Psittacidae,Arinae
+MIPA,Mitred Parakeet,Aratinga mitrata,ARAMIT,,,,1033,Psittaciformes,Psittacidae,Arinae
+HPAK,Hispaniolan Parakeet,Aratinga chloroptera,ARACHA,*,*,,1034,Psittaciformes,Psittacidae,Arinae
+CPAK,Cuban Parakeet,Aratinga euops,ARAEUO,,*,,1035,Psittaciformes,Psittacidae,Arinae
+OTPA,Olive-throated Parakeet,Aratinga nana,ARANAN,,,,1036,Psittaciformes,Psittacidae,Arinae
+OFPA,Orange-fronted Parakeet,Aratinga canicularis,ARACAN,,,,1037,Psittaciformes,Psittacidae,Arinae
+BTPA,Brown-throated Parakeet,Aratinga pertinax,ARAPER,,,,1038,Psittaciformes,Psittacidae,Arinae
+CFMA,Chestnut-fronted Macaw,Ara severus,ARASEV,,,,1039,Psittaciformes,Psittacidae,Arinae
+MIMA,Military Macaw,Ara militaris,ARAMIL,,,,1040,Psittaciformes,Psittacidae,Arinae
+GGMA,Great Green Macaw,Ara ambiguus,ARAAMB,,,,1041,Psittaciformes,Psittacidae,Arinae
+RAGM,Red-and-green Macaw,Ara chloropterus,ARACHS,*,,,1042,Psittaciformes,Psittacidae,Arinae
+SCMA,Scarlet Macaw,Ara macao,ARAMAC,,,,1043,Psittaciformes,Psittacidae,Arinae
+CUBM,Cuban Macaw,Ara tricolor,ARATRI,,*,,1044,Psittaciformes,Psittacidae,Arinae
+BAYM,Blue-and-yellow Macaw,Ara ararauna,ARAARA,,,,1045,Psittaciformes,Psittacidae,Arinae
+TBPA,Thick-billed Parrot,Rhynchopsitta pachyrhyncha,RHYPAC,,,,1046,Psittaciformes,Psittacidae,Arinae
+MFPA,Maroon-fronted Parrot,Rhynchopsitta terrisi,RHYTER,,,,1047,Psittaciformes,Psittacidae,Arinae
+BAPA,Barred Parakeet,Bolborhynchus lineola,BOLLIN,,,,1048,Psittaciformes,Psittacidae,Arinae
+GRUP,Green-rumped Parrotlet,Forpus passerinus,FORPAS,,*,,1049,Psittaciformes,Psittacidae,Arinae
+MEXP,Mexican Parrotlet,Forpus cyanopygius,FORCYA,,*,,1050,Psittaciformes,Psittacidae,Arinae
+SPPA,Spectacled Parrotlet,Forpus conspicillatus,FORCON,,,,1051,Psittaciformes,Psittacidae,Arinae
+OCPA,Orange-chinned Parakeet,Brotogeris jugularis,BROJUG,,,,1052,Psittaciformes,Psittacidae,Arinae
+WWPA,White-winged Parakeet,Brotogeris versicolurus,BROVER,,,,1053,Psittaciformes,Psittacidae,Arinae
+RFPA,Red-fronted Parrotlet,Touit costaricensis,TOUCOS,,,,1054,Psittaciformes,Psittacidae,Arinae
+BFPA,Blue-fronted Parrotlet,Touit dilectissimus,TOUDIL,,,,1055,Psittaciformes,Psittacidae,Arinae
+BHOP,Brown-hooded Parrot,Pyrilia haematotis,PYRHAE,,*,,1056,Psittaciformes,Psittacidae,Arinae
+SHPA,Saffron-headed Parrot,Pyrilia pyrilia,PYRPYL,*,,,1057,Psittaciformes,Psittacidae,Arinae
+BHEP,Blue-headed Parrot,Pionus menstruus,PIOMEN,,*,,1058,Psittaciformes,Psittacidae,Arinae
+WCPA,White-crowned Parrot,Pionus senilis,PIOSEN,,,,1059,Psittaciformes,Psittacidae,Arinae
+WFPA,White-fronted Parrot,Amazona albifrons,AMAALB,,,,1060,Psittaciformes,Psittacidae,Arinae
+YLPA,Yellow-lored Parrot,Amazona xantholora,AMAXAN,,,,1061,Psittaciformes,Psittacidae,Arinae
+CPAT,Cuban Parrot,Amazona leucocephala,AMALEU,,*,,1062,Psittaciformes,Psittacidae,Arinae
+YBPA,Yellow-billed Parrot,Amazona collaria,AMACOL,,,,1063,Psittaciformes,Psittacidae,Arinae
+HPAT,Hispaniolan Parrot,Amazona ventralis,AMAVEN,,*,,1064,Psittaciformes,Psittacidae,Arinae
+PRPA,Puerto Rican Parrot,Amazona vittata,AMAVIT,,,,1065,Psittaciformes,Psittacidae,Arinae
+BBPA,Black-billed Parrot,Amazona agilis,AMAAGI,,,,1066,Psittaciformes,Psittacidae,Arinae
+RCPA,Red-crowned Parrot,Amazona viridigenalis,AMAVIG,*,,,1067,Psittaciformes,Psittacidae,Arinae
+LCPA,Lilac-crowned Parrot,Amazona finschi,AMAFIN,,,,1068,Psittaciformes,Psittacidae,Arinae
+RLPA,Red-lored Parrot,Amazona autumnalis,AMAAUT,,,,1069,Psittaciformes,Psittacidae,Arinae
+MEAP,Mealy Parrot,Amazona farinosa,AMAFAR,,*,,1070,Psittaciformes,Psittacidae,Arinae
+YHPA,Yellow-headed Parrot,Amazona oratrix,AMAORA,,,,1071,Psittaciformes,Psittacidae,Arinae
+YNPA,Yellow-naped Parrot,Amazona auropalliata,AMAAUR,,,,1072,Psittaciformes,Psittacidae,Arinae
+YCPA,Yellow-crowned Parrot,Amazona ochrocephala,AMAOCH,,,,1073,Psittaciformes,Psittacidae,Arinae
+RNPA,Red-necked Parrot,Amazona arausiaca,AMAARA,,,,1074,Psittaciformes,Psittacidae,Arinae
+SLPA,St. Lucia Parrot,Amazona versicolor,AMAVER,,,,1075,Psittaciformes,Psittacidae,Arinae
+SVPA,St. Vincent Parrot,Amazona guildingii,AMAGUI,,,,1076,Psittaciformes,Psittacidae,Arinae
+IMPA,Imperial Parrot,Amazona imperialis,AMAIMP,,,,1077,Psittaciformes,Psittacidae,Arinae
+SAPA,Sapayoa,Sapayoa aenigma,SAPAEN,,,,1078,Passeriformes,Sapayoidae,
+FAAN,Fasciated Antshrike,Cymbilaimus lineatus,CYMLIN,,,,1079,Passeriformes,Thamnophilidae,
+GANT,Great Antshrike,Taraba major,TARMAJ,,*,,1080,Passeriformes,Thamnophilidae,
+BAAN,Barred Antshrike,Thamnophilus doliatus,THADOL,,,,1081,Passeriformes,Thamnophilidae,
+BLAN,Black Antshrike,Thamnophilus nigriceps,THANIG,,,,1082,Passeriformes,Thamnophilidae,
+BHOA,Black-hooded Antshrike,Thamnophilus bridgesi,THABRI,,*,,1083,Passeriformes,Thamnophilidae,
+WSLA,Western Slaty-Antshrike,Thamnophilus atrinucha,THAATR,,*,,1084,Passeriformes,Thamnophilidae,
+SFAN,Spiny-faced Antshrike,Xenornis setifrons,XENSET,,,,1085,Passeriformes,Thamnophilidae,
+RUAN,Russet Antshrike,Thamnistes anabatinus,THAANA,,,,1086,Passeriformes,Thamnophilidae,
+PLAN,Plain Antvireo,Dysithamnus mentalis,DYSMEN,,,,1087,Passeriformes,Thamnophilidae,
+STCA,Streak-crowned Antvireo,Dysithamnus striaticeps,DYSSTR,,*,,1088,Passeriformes,Thamnophilidae,
+SPCA,Spot-crowned Antvireo,Dysithamnus puncticeps,DYSPUN,,*,,1089,Passeriformes,Thamnophilidae,
+MOAN,Moustached Antwren,Myrmotherula ignota,MYRIGN,,,,1090,Passeriformes,Thamnophilidae,
+PAAN,Pacific Antwren,Myrmotherula pacifica,MYRPAC,,,,1091,Passeriformes,Thamnophilidae,
+WFLA,White-flanked Antwren,Myrmotherula axillaris,MYRAXI,,*,,1092,Passeriformes,Thamnophilidae,
+SLAN,Slaty Antwren,Myrmotherula schisticolor,MYRSCH,,,,1093,Passeriformes,Thamnophilidae,
+CTAN,Checker-throated Antwren,Epinecrophylla fulviventris,EPIFUL,,,,1094,Passeriformes,Thamnophilidae,
+RWAN,Rufous-winged Antwren,Herpsilochmus rufimarginatus,HERRUF,,,,1095,Passeriformes,Thamnophilidae,
+DWAN,Dot-winged Antwren,Microrhopias quixensis,MICQUI,,,,1096,Passeriformes,Thamnophilidae,
+WFRA,White-fringed Antwren,Formicivora grisea,FORGRI,,*,,1097,Passeriformes,Thamnophilidae,
+RRAN,Rufous-rumped Antwren,Terenura callinota,TERCAL,,,,1098,Passeriformes,Thamnophilidae,
+DUAN,Dusky Antbird,Cercomacra tyrannina,CERTYR,,,,1099,Passeriformes,Thamnophilidae,
+JEAN,Jet Antbird,Cercomacra nigricans,CERNIG,,,,1100,Passeriformes,Thamnophilidae,
+BACA,Bare-crowned Antbird,Gymnocichla nudiceps,GYMNUD,,*,,1101,Passeriformes,Thamnophilidae,
+WBEA,White-bellied Antbird,Myrmeciza longipes,MYRLON,,*,,1102,Passeriformes,Thamnophilidae,
+CBAN,Chestnut-backed Antbird,Myrmeciza exsul,MYREXS,,,,1103,Passeriformes,Thamnophilidae,
+DMAN,Dull-mantled Antbird,Myrmeciza laemosticta,MYRLAE,,,,1104,Passeriformes,Thamnophilidae,
+IMAN,Immaculate Antbird,Myrmeciza immaculata,MYRIMM,,,,1105,Passeriformes,Thamnophilidae,
+SPAN,Spotted Antbird,Hylophylax naevioides,HYLNAE,,,,1106,Passeriformes,Thamnophilidae,
+WBAA,Wing-banded Antbird,Myrmornis torquata,MYRTOR,,*,,1107,Passeriformes,Thamnophilidae,
+BIAN,Bicolored Antbird,Gymnopithys leucaspis,GYMLEU,,,,1108,Passeriformes,Thamnophilidae,
+OCAN,Ocellated Antbird,Phaenostictus mcleannani,PHAMCL,,,,1109,Passeriformes,Thamnophilidae,
+BCNA,Black-crowned Antpitta,Pittasoma michleri,PITMIC,,*,,1110,Passeriformes,Conopophagidae,
+SCAA,Scaled Antpitta,Grallaria guatimalensis,GRAGUA,,*,,1111,Passeriformes,Grallariidae,
+SCHA,Streak-chested Antpitta,Hylopezus perspicillatus,HYLPER,,*,,1112,Passeriformes,Grallariidae,
+THAN,Thicket Antpitta,Hylopezus dives,HYLDIV,,,,1113,Passeriformes,Grallariidae,
+OBAN,Ochre-breasted Antpitta,Grallaricula flavirostris,GRAFLA,,,,1114,Passeriformes,Grallariidae,
+TATA,Tacarcuna Tapaculo,Scytalopus panamensis,SCYPAN,,,,1115,Passeriformes,Rhinocryptidae,
+CHOT,Choco Tapaculo,Scytalopus chocoensis,SCYCHO,,*,,1116,Passeriformes,Rhinocryptidae,
+SFTA,Silvery-fronted Tapaculo,Scytalopus argentifrons,SCYARG,,,,1117,Passeriformes,Rhinocryptidae,
+BFAN,Black-faced Antthrush,Formicarius analis,FORANA,,,,1118,Passeriformes,Formicariidae,
+BHEA,Black-headed Antthrush,Formicarius nigricapillus,FORNIG,,*,,1119,Passeriformes,Formicariidae,
+RBAN,Rufous-breasted Antthrush,Formicarius rufipectus,FORRUF,,,,1120,Passeriformes,Formicariidae,
+TTLE,Tawny-throated Leaftosser,Sclerurus mexicanus,SCLMEX,,,,1121,Passeriformes,Furnariidae,Sclerurinae
+GTLE,Gray-throated Leaftosser,Sclerurus albigularis,SCLALB,,,,1122,Passeriformes,Furnariidae,Sclerurinae
+STLE,Scaly-throated Leaftosser,Sclerurus guatemalensis,SCLGUA,,,,1123,Passeriformes,Furnariidae,Sclerurinae
+OLWO,Olivaceous Woodcreeper,Sittasomus griseicapillus,SITGRI,,,,1124,Passeriformes,Furnariidae,Dendrocolaptinae
+LTWO,Long-tailed Woodcreeper,Deconychura longicauda,DECLON,,,,1125,Passeriformes,Furnariidae,Dendrocolaptinae
+PBRW,Plain-brown Woodcreeper,Dendrocincla fuliginosa,DECFUL,*,*,,1126,Passeriformes,Furnariidae,Dendrocolaptinae
+TWWO,Tawny-winged Woodcreeper,Dendrocincla anabatina,DENANA,,,,1127,Passeriformes,Furnariidae,Dendrocolaptinae
+RUWO,Ruddy Woodcreeper,Dendrocincla homochroa,DENHOM,,,,1128,Passeriformes,Furnariidae,Dendrocolaptinae
+WBWO,Wedge-billed Woodcreeper,Glyphorynchus spirurus,GLYSPI,,,,1129,Passeriformes,Furnariidae,Dendrocolaptinae
+NOBW,Northern Barred-Woodcreeper,Dendrocolaptes sanctithomae,DENSAN,,,,1130,Passeriformes,Furnariidae,Dendrocolaptinae
+BBNW,Black-banded Woodcreeper,Dendrocolaptes picumnus,DENPIM,*,*,,1131,Passeriformes,Furnariidae,Dendrocolaptinae
+SNBW,Strong-billed Woodcreeper,Xiphocolaptes promeropirhynchus,XIPPRO,,*,,1132,Passeriformes,Furnariidae,Dendrocolaptinae
+COWO,Cocoa Woodcreeper,Xiphorhynchus susurrans,XIPSUS,,,,1133,Passeriformes,Furnariidae,Dendrocolaptinae
+IBIW,Ivory-billed Woodcreeper,Xiphorhynchus flavigaster,XIPFLA,,*,,1134,Passeriformes,Furnariidae,Dendrocolaptinae
+BSWO,Black-striped Woodcreeper,Xiphorhynchus lachrymosus,XIPLAC,,,,1135,Passeriformes,Furnariidae,Dendrocolaptinae
+SPWO,Spotted Woodcreeper,Xiphorhynchus erythropygius,XIPERY,,,,1136,Passeriformes,Furnariidae,Dendrocolaptinae
+SGBW,Straight-billed Woodcreeper,Dendroplex picus,DENPIS,*,*,,1137,Passeriformes,Furnariidae,Dendrocolaptinae
+RBSC,Red-billed Scythebill,Campylorhamphus trochilirostris,CAMTRO,,,,1138,Passeriformes,Furnariidae,Dendrocolaptinae
+BBSC,Brown-billed Scythebill,Campylorhamphus pusillus,CAMPUS,,,,1139,Passeriformes,Furnariidae,Dendrocolaptinae
+WSWO,White-striped Woodcreeper,Lepidocolaptes leucogaster,LEPLEU,,,,1140,Passeriformes,Furnariidae,Dendrocolaptinae
+SHWO,Streak-headed Woodcreeper,Lepidocolaptes souleyetii,LEPSOU,,,,1141,Passeriformes,Furnariidae,Dendrocolaptinae
+SCRW,Spot-crowned Woodcreeper,Lepidocolaptes affinis,LEPAFF,,*,,1142,Passeriformes,Furnariidae,Dendrocolaptinae
+PLXE,Plain Xenops,Xenops minutus,XENMIT,*,,,1143,Passeriformes,Furnariidae,Furnariinae
+STXE,Streaked Xenops,Xenops rutilans,XENRUT,,,,1144,Passeriformes,Furnariidae,Furnariinae
+BUTU,Buffy Tuftedcheek,Pseudocolaptes lawrencii,PSELAW,,,,1145,Passeriformes,Furnariidae,Furnariinae
+STST,Sharp-tailed Streamcreeper,Lochmias nematura,LOCNEM,,,,1146,Passeriformes,Furnariidae,Furnariinae
+SWFG,Slaty-winged Foliage-gleaner,Philydor fuscipenne,PHIFUS,,,,1147,Passeriformes,Furnariidae,Furnariinae
+BFFG,Buff-fronted Foliage-gleaner,Philydor rufum,PHIRUF,,,,1148,Passeriformes,Furnariidae,Furnariinae
+STFG,Scaly-throated Foliage-gleaner,Anabacerthia variegaticeps,ANAVAR,,,,1149,Passeriformes,Furnariidae,Furnariinae
+LIFG,Lineated Foliage-gleaner,Syndactyla subalaris,SYNSUB,,,,1150,Passeriformes,Furnariidae,Furnariinae
+STPW,Striped Woodhaunter,Hyloctistes subulatus,HYLSUB,,*,,1151,Passeriformes,Furnariidae,Furnariinae
+BTFG,Buff-throated Foliage-gleaner,Automolus ochrolaemus,AUTOCH,,,,1152,Passeriformes,Furnariidae,Furnariinae
+RUFG,Ruddy Foliage-gleaner,Automolus rubiginosus,AUTRUB,,,,1153,Passeriformes,Furnariidae,Furnariinae
+SBTR,Streak-breasted Treehunter,Thripadectes rufobrunneus,THRRUB,*,,,1154,Passeriformes,Furnariidae,Furnariinae
+SPBA,Spotted Barbtail,Premnoplex brunnescens,PREBRU,,,,1155,Passeriformes,Furnariidae,Furnariinae
+BETR,Beautiful Treerunner,Margarornis bellulus,MARBEL,,,,1156,Passeriformes,Furnariidae,Furnariinae
+RUTR,Ruddy Treerunner,Margarornis rubiginosus,MARRUB,,,,1157,Passeriformes,Furnariidae,Furnariinae
+DBGR,Double-banded Graytail,Xenerpestes minlosi,XENMIL,*,,,1158,Passeriformes,Furnariidae,Furnariinae
+RFSP,Red-faced Spinetail,Cranioleuca erythrops,CRAERY,,,,1159,Passeriformes,Furnariidae,Furnariinae
+RBAS,Rusty-backed Spinetail,Cranioleuca vulpina,CRAVUL,,*,,1160,Passeriformes,Furnariidae,Furnariinae
+PBSP,Pale-breasted Spinetail,Synallaxis albescens,SYNALB,,,,1161,Passeriformes,Furnariidae,Furnariinae
+SLSP,Slaty Spinetail,Synallaxis brachyura,SYNBRA,,,,1162,Passeriformes,Furnariidae,Furnariinae
+RBRS,Rufous-breasted Spinetail,Synallaxis erythrothorax,SYNERY,,*,,1163,Passeriformes,Furnariidae,Furnariinae
+YBTY,Yellow-bellied Tyrannulet,Ornithion semiflavum,ORNSEM,,,,1164,Passeriformes,Tyrannidae,Elaeniinae
+BCTY,Brown-capped Tyrannulet,Ornithion brunneicapillus,ORNBRU,,,,1165,Passeriformes,Tyrannidae,Elaeniinae
+NOBT,Northern Beardless-Tyrannulet,Camptostoma imberbe,CAMIMB,,,,1166,Passeriformes,Tyrannidae,Elaeniinae
+SOBT,Southern Beardless-Tyrannulet,Camptostoma obsoletum,CAMOBS,,,,1167,Passeriformes,Tyrannidae,Elaeniinae
+MCTY,Mouse-colored Tyrannulet,Phaeomyias murina,PHAMUR,,,,1168,Passeriformes,Tyrannidae,Elaeniinae
+COCF,Cocos Flycatcher,Nesotriccus ridgwayi,NESRID,,*,,1169,Passeriformes,Tyrannidae,Elaeniinae
+YETY,Yellow Tyrannulet,Capsiempis flaveola,CAPFLA,,,,1170,Passeriformes,Tyrannidae,Elaeniinae
+YCTY,Yellow-crowned Tyrannulet,Tyrannulus elatus,TYRELA,,,,1171,Passeriformes,Tyrannidae,Elaeniinae
+FOEL,Forest Elaenia,Myiopagis gaimardii,MYIGAI,,,,1172,Passeriformes,Tyrannidae,Elaeniinae
+GRAE,Gray Elaenia,Myiopagis caniceps,MYICAN,,*,,1173,Passeriformes,Tyrannidae,Elaeniinae
+JAEL,Jamaican Elaenia,Myiopagis cotta,MYICOT,,,,1174,Passeriformes,Tyrannidae,Elaeniinae
+GREL,Greenish Elaenia,Myiopagis viridicata,MYIVIR,,,,1175,Passeriformes,Tyrannidae,Elaeniinae
+CAEL,Caribbean Elaenia,Elaenia martinica,ELAMAR,,,,1176,Passeriformes,Tyrannidae,Elaeniinae
+YBEL,Yellow-bellied Elaenia,Elaenia flavogaster,ELAFLA,,,,1177,Passeriformes,Tyrannidae,Elaeniinae
+WCEL,White-crested Elaenia,Elaenia albiceps,ELAALB,,,,1178,Passeriformes,Tyrannidae,Elaeniinae
+LEEL,Lesser Elaenia,Elaenia chiriquensis,ELACHI,,,,1179,Passeriformes,Tyrannidae,Elaeniinae
+MOEL,Mountain Elaenia,Elaenia frantzii,ELAFRA,,,,1180,Passeriformes,Tyrannidae,Elaeniinae
+GAEL,Greater Antillean Elaenia,Elaenia fallax,ELAFAL,,,,1181,Passeriformes,Tyrannidae,Elaeniinae
+TOTY,Torrent Tyrannulet,Serpophaga cinerea,SERCIN,,,,1182,Passeriformes,Tyrannidae,Elaeniinae
+OSTF,Olive-striped Flycatcher,Mionectes olivaceus,MIOOLI,,*,,1183,Passeriformes,Tyrannidae,Elaeniinae
+OBFL,Ochre-bellied Flycatcher,Mionectes oleagineus,MIOOLE,,,,1184,Passeriformes,Tyrannidae,Elaeniinae
+SECF,Sepia-capped Flycatcher,Leptopogon amaurocephalus,LEPAMA,,*,,1185,Passeriformes,Tyrannidae,Elaeniinae
+SLCF,Slaty-capped Flycatcher,Leptopogon superciliaris,LEPSUP,,*,,1186,Passeriformes,Tyrannidae,Elaeniinae
+YGTY,Yellow-green Tyrannulet,Phylloscartes flavovirens,PHYFLA,,,,1187,Passeriformes,Tyrannidae,Elaeniinae
+RBTY,Rufous-browed Tyrannulet,Phylloscartes superciliaris,PHYSUP,,,,1188,Passeriformes,Tyrannidae,Elaeniinae
+RLTY,Rough-legged Tyrannulet,Phyllomyias burmeisteri,PHYBUR,,,,1189,Passeriformes,Tyrannidae,Elaeniinae
+SHTY,Sooty-headed Tyrannulet,Phyllomyias griseiceps,PHYGRI,,,,1190,Passeriformes,Tyrannidae,Elaeniinae
+PATY,Paltry Tyrannulet,Zimmerius vilissimus,ZIMVIL,,,,1191,Passeriformes,Tyrannidae,Elaeniinae
+NOSF,Northern Scrub-Flycatcher,Sublegatus arenarum,SUBARE,,,,1192,Passeriformes,Tyrannidae,Elaeniinae
+BOPT,Bronze-olive Pygmy-Tyrant,Pseudotriccus pelzelni,PSEPEL,,,,1193,Passeriformes,Tyrannidae,Elaeniinae
+BPYT,Black-capped Pygmy-Tyrant,Myiornis atricapillus,MYIATP,*,*,,1194,Passeriformes,Tyrannidae,Platyrinchinae
+SCPT,Scale-crested Pygmy-Tyrant,Lophotriccus pileatus,LOPPIT,*,,,1195,Passeriformes,Tyrannidae,Platyrinchinae
+PEPT,Pale-eyed Pygmy-Tyrant,Lophotriccus pilaris,LOPPIR,*,,,1196,Passeriformes,Tyrannidae,Platyrinchinae
+NOBE,Northern Bentbill,Oncostoma cinereigulare,ONCCIN,,,,1197,Passeriformes,Tyrannidae,Platyrinchinae
+SOBE,Southern Bentbill,Oncostoma olivaceum,ONCOLI,,,,1198,Passeriformes,Tyrannidae,Platyrinchinae
+SHTF,Slate-headed Tody-Flycatcher,Poecilotriccus sylvia,POESYL,,,,1199,Passeriformes,Tyrannidae,Platyrinchinae
+COTF,Common Tody-Flycatcher,Todirostrum cinereum,TODCIN,,,,1200,Passeriformes,Tyrannidae,Platyrinchinae
+BHTF,Black-headed Tody-Flycatcher,Todirostrum nigriceps,TODNIG,,,,1201,Passeriformes,Tyrannidae,Platyrinchinae
+BRTW,Brownish Twistwing,Cnipodectes subbrunneus,CNISUB,,,,1202,Passeriformes,Tyrannidae,Platyrinchinae
+ERFL,Eye-ringed Flatbill,Rhynchocyclus brevirostris,RHYBRE,,,,1203,Passeriformes,Tyrannidae,Platyrinchinae
+OLFL,Olivaceous Flatbill,Rhynchocyclus olivaceus,RHYOLI,,,,1204,Passeriformes,Tyrannidae,Platyrinchinae
+YOFL,Yellow-olive Flycatcher,Tolmomyias sulphurescens,TOLSUL,,,,1205,Passeriformes,Tyrannidae,Platyrinchinae
+YMFL,Yellow-margined Flycatcher,Tolmomyias assimilis,TOLASS,,,,1206,Passeriformes,Tyrannidae,Platyrinchinae
+YBRF,Yellow-breasted Flycatcher,Tolmomyias flaviventris,TOLFLA,,*,,1207,Passeriformes,Tyrannidae,Platyrinchinae
+STTS,Stub-tailed Spadebill,Platyrinchus cancrominus,PLACAN,,*,,1208,Passeriformes,Tyrannidae,Platyrinchinae
+WTRS,White-throated Spadebill,Platyrinchus mystaceus,PLAMYS,,*,,1209,Passeriformes,Tyrannidae,Platyrinchinae
+GCRS,Golden-crowned Spadebill,Platyrinchus coronatus,PLACOR,,*,,1210,Passeriformes,Tyrannidae,Platyrinchinae
+ROFL,Royal Flycatcher,Onychorhynchus coronatus,ONYCOR,,,,1211,Passeriformes,Tyrannidae,Fluvicolinae
+RDTF,Ruddy-tailed Flycatcher,Terenotriccus erythrurus,TERERY,,*,,1212,Passeriformes,Tyrannidae,Fluvicolinae
+TBFL,Tawny-breasted Flycatcher,Myiobius villosus,MYIVIL,,,,1213,Passeriformes,Tyrannidae,Fluvicolinae
+SRFL,Sulphur-rumped Flycatcher,Myiobius sulphureipygius,MYISUL,,,,1214,Passeriformes,Tyrannidae,Fluvicolinae
+BTFL,Black-tailed Flycatcher,Myiobius atricaudus,MYIATD,*,,,1215,Passeriformes,Tyrannidae,Fluvicolinae
+BCOF,Bran-colored Flycatcher,Myiophobus fasciatus,MYIFAS,,*,,1216,Passeriformes,Tyrannidae,Fluvicolinae
+EUFL,Euler's Flycatcher,Lathrotriccus euleri,LATEUL,,,,1217,Passeriformes,Tyrannidae,Fluvicolinae
+TCFL,Tawny-chested Flycatcher,Aphanotriccus capitalis,APHCAP,,,,1218,Passeriformes,Tyrannidae,Fluvicolinae
+BLBF,Black-billed Flycatcher,Aphanotriccus audax,APHAUD,,*,,1219,Passeriformes,Tyrannidae,Fluvicolinae
+BEFL,Belted Flycatcher,Xenotriccus callizonus,XENCAL,,,,1220,Passeriformes,Tyrannidae,Fluvicolinae
+PILF,Pileated Flycatcher,Xenotriccus mexicanus,XENMEX,,*,,1221,Passeriformes,Tyrannidae,Fluvicolinae
+TUFL,Tufted Flycatcher,Mitrephanes phaeocercus,MITPHA,,,,1222,Passeriformes,Tyrannidae,Fluvicolinae
+OSFL,Olive-sided Flycatcher,Contopus cooperi,CONCOO,,,,1223,Passeriformes,Tyrannidae,Fluvicolinae
+GRPE,Greater Pewee,Contopus pertinax,CONPER,,,,1224,Passeriformes,Tyrannidae,Fluvicolinae
+DAPE,Dark Pewee,Contopus lugubris,CONLUG,,,,1225,Passeriformes,Tyrannidae,Fluvicolinae
+OCPE,Ochraceous Pewee,Contopus ochraceus,CONOCH,,,,1226,Passeriformes,Tyrannidae,Fluvicolinae
+WEWP,Western Wood-Pewee,Contopus sordidulus,CONSOR,,,,1227,Passeriformes,Tyrannidae,Fluvicolinae
+EAWP,Eastern Wood-Pewee,Contopus virens,CONVIR,,,,1228,Passeriformes,Tyrannidae,Fluvicolinae
+TRPE,Tropical Pewee,Contopus cinereus,CONCIN,,,,1229,Passeriformes,Tyrannidae,Fluvicolinae
+CUPE,Cuban Pewee,Contopus caribaeus,CONCAB,*,,,1230,Passeriformes,Tyrannidae,Fluvicolinae
+JAPE,Jamaican Pewee,Contopus pallidus,CONPAL,,,,1231,Passeriformes,Tyrannidae,Fluvicolinae
+HIPE,Hispaniolan Pewee,Contopus hispaniolensis,CONHIS,,,,1232,Passeriformes,Tyrannidae,Fluvicolinae
+LAPE,Lesser Antillean Pewee,Contopus latirostris,CONLAT,,,,1233,Passeriformes,Tyrannidae,Fluvicolinae
+YBFL,Yellow-bellied Flycatcher,Empidonax flaviventris,EMPFLN,*,,,1234,Passeriformes,Tyrannidae,Fluvicolinae
+ACFL,Acadian Flycatcher,Empidonax virescens,EMPVIR,,,,1235,Passeriformes,Tyrannidae,Fluvicolinae
+ALFL,Alder Flycatcher,Empidonax alnorum,EMPALN,,,,1236,Passeriformes,Tyrannidae,Fluvicolinae
+TRFL,Traill's Flycatcher,Empidonax alnorum/traillii,EMPALT,,,+,1237,Passeriformes,Tyrannidae,Fluvicolinae
+WIFL,Willow Flycatcher,Empidonax traillii,EMPTRA,,,,1238,Passeriformes,Tyrannidae,Fluvicolinae
+SWFL,Southwestern Willow Flycatcher,Empidonax t. extimus,EMPTEX,,,+,1239,Passeriformes,Tyrannidae,Fluvicolinae
+WTFL,White-throated Flycatcher,Empidonax albigularis,EMPALB,,,,1240,Passeriformes,Tyrannidae,Fluvicolinae
+LEFL,Least Flycatcher,Empidonax minimus,EMPMIN,,,,1241,Passeriformes,Tyrannidae,Fluvicolinae
+HAFL,Hammond's Flycatcher,Empidonax hammondii,EMPHAM,,,,1242,Passeriformes,Tyrannidae,Fluvicolinae
+HDFL,Hammond's/Dusky Flycatcher,Empidonax hammondii/oberho.,EMPHAO,,,+,1243,Passeriformes,Tyrannidae,Fluvicolinae
+GRFL,Gray Flycatcher,Empidonax wrightii,EMPWRI,,,,1244,Passeriformes,Tyrannidae,Fluvicolinae
+DUFL,Dusky Flycatcher,Empidonax oberholseri,EMPOBE,,,,1245,Passeriformes,Tyrannidae,Fluvicolinae
+PINF,Pine Flycatcher,Empidonax affinis,EMPAFF,,*,,1246,Passeriformes,Tyrannidae,Fluvicolinae
+PSFL,Pacific-slope Flycatcher,Empidonax difficilis,EMPDIF,,,,1247,Passeriformes,Tyrannidae,Fluvicolinae
+WEFL,Western Flycatcher,Empidonax difficilis/occid.,EMPDIO,,,+,1248,Passeriformes,Tyrannidae,Fluvicolinae
+COFL,Cordilleran Flycatcher,Empidonax occidentalis,EMPOCC,,,,1249,Passeriformes,Tyrannidae,Fluvicolinae
+YEFL,Yellowish Flycatcher,Empidonax flavescens,EMPFLS,*,,,1250,Passeriformes,Tyrannidae,Fluvicolinae
+BBFL,Buff-breasted Flycatcher,Empidonax fulvifrons,EMPFUL,,,,1251,Passeriformes,Tyrannidae,Fluvicolinae
+BCAF,Black-capped Flycatcher,Empidonax atriceps,EMPATR,,*,,1252,Passeriformes,Tyrannidae,Fluvicolinae
+UEFL,Unidentified Empidonax Flycatcher,Empidonax (sp),EMPSPE,,,+,1253,Passeriformes,Tyrannidae,Fluvicolinae
+BLPH,Black Phoebe,Sayornis nigricans,SAYNIG,,,,1254,Passeriformes,Tyrannidae,Fluvicolinae
+EAPH,Eastern Phoebe,Sayornis phoebe,SAYPHO,,,,1255,Passeriformes,Tyrannidae,Fluvicolinae
+SAPH,Say's Phoebe,Sayornis saya,SAYSAY,,,,1256,Passeriformes,Tyrannidae,Fluvicolinae
+VEFL,Vermilion Flycatcher,Pyrocephalus rubinus,PYRRUB,,,,1257,Passeriformes,Tyrannidae,Fluvicolinae
+PIWT,Pied Water-Tyrant,Fluvicola pica,FLUPIC,,,,1258,Passeriformes,Tyrannidae,Fluvicolinae
+LTTY,Long-tailed Tyrant,Colonia colonus,COLCOL,,,,1259,Passeriformes,Tyrannidae,Fluvicolinae
+CATY,Cattle Tyrant,Machetornis rixosa,MACRIX,,,,1260,Passeriformes,Tyrannidae,Fluvicolinae
+BRAT,Bright-rumped Attila,Attila spadiceus,ATTSPA,,,,1261,Passeriformes,Tyrannidae,Tyranninae
+SIRY,Sirystes,Sirystes sibilator,SIRSIB,,,,1262,Passeriformes,Tyrannidae,Tyranninae
+RMOU,Rufous Mourner,Rhytipterna holerythra,RHYHOL,,*,,1263,Passeriformes,Tyrannidae,Tyranninae
+YUFL,Yucatan Flycatcher,Myiarchus yucatanensis,MYIYUC,,,,1264,Passeriformes,Tyrannidae,Tyranninae
+SAFL,Sad Flycatcher,Myiarchus barbirostris,MYIBAR,,,,1265,Passeriformes,Tyrannidae,Tyranninae
+DCFL,Dusky-capped Flycatcher,Myiarchus tuberculifer,MYITUB,,,,1266,Passeriformes,Tyrannidae,Tyranninae
+PAFL,Panama Flycatcher,Myiarchus panamensis,MYIPAN,,,,1267,Passeriformes,Tyrannidae,Tyranninae
+ATFL,Ash-throated Flycatcher,Myiarchus cinerascens,MYICIN,,,,1268,Passeriformes,Tyrannidae,Tyranninae
+NUFL,Nutting's Flycatcher,Myiarchus nuttingi,MYINUT,,,,1269,Passeriformes,Tyrannidae,Tyranninae
+GCFL,Great Crested Flycatcher,Myiarchus crinitus,MYICRI,,,,1270,Passeriformes,Tyrannidae,Tyranninae
+BCFL,Brown-crested Flycatcher,Myiarchus tyrannulus,MYITYR,,,,1271,Passeriformes,Tyrannidae,Tyranninae
+GFLY,Grenada Flycatcher,Myiarchus nugator,MYINUG,,*,,1272,Passeriformes,Tyrannidae,Tyranninae
+RFTF,Rufous-tailed Flycatcher,Myiarchus validus,MYIVAL,,*,,1273,Passeriformes,Tyrannidae,Tyranninae
+LSFL,La Sagra's Flycatcher,Myiarchus sagrae,MYISAG,,,,1274,Passeriformes,Tyrannidae,Tyranninae
+STOF,Stolid Flycatcher,Myiarchus stolidus,MYISTO,,*,,1275,Passeriformes,Tyrannidae,Tyranninae
+PRFL,Puerto Rican Flycatcher,Myiarchus antillarum,MYIANT,,,,1276,Passeriformes,Tyrannidae,Tyranninae
+LAFL,Lesser Antillean Flycatcher,Myiarchus oberi,MYIOBE,,,,1277,Passeriformes,Tyrannidae,Tyranninae
+FLFL,Flammulated Flycatcher,Deltarhynchus flammulatus,DELFLA,,,,1278,Passeriformes,Tyrannidae,Tyranninae
+LEKI,Lesser Kiskadee,Pitangus lictor,PITLIC,,,,1279,Passeriformes,Tyrannidae,Tyranninae
+GKIS,Great Kiskadee,Pitangus sulphuratus,PITSUL,,*,,1280,Passeriformes,Tyrannidae,Tyranninae
+BOBF,Boat-billed Flycatcher,Megarynchus pitangua,MEGPIT,,*,,1281,Passeriformes,Tyrannidae,Tyranninae
+RMFL,Rusty-margined Flycatcher,Myiozetetes cayanensis,MYICAY,,,,1282,Passeriformes,Tyrannidae,Tyranninae
+SOFL,Social Flycatcher,Myiozetetes similis,MYISIM,,,,1283,Passeriformes,Tyrannidae,Tyranninae
+GCAF,Gray-capped Flycatcher,Myiozetetes granadensis,MYIGRA,,*,,1284,Passeriformes,Tyrannidae,Tyranninae
+WRFL,White-ringed Flycatcher,Conopias albovittatus,CONALB,,,,1285,Passeriformes,Tyrannidae,Tyranninae
+GBFL,Golden-bellied Flycatcher,Myiodynastes hemichrysus,MYIHEM,,,,1286,Passeriformes,Tyrannidae,Tyranninae
+GOCF,Golden-crowned Flycatcher,Myiodynastes chrysocephalus,MYICHR,,*,,1287,Passeriformes,Tyrannidae,Tyranninae
+STRF,Streaked Flycatcher,Myiodynastes maculatus,MYIMAC,,*,,1288,Passeriformes,Tyrannidae,Tyranninae
+SBFL,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,MYILUT,,,,1289,Passeriformes,Tyrannidae,Tyranninae
+PIFL,Piratic Flycatcher,Legatus leucophaius,LEGLEU,,,,1290,Passeriformes,Tyrannidae,Tyranninae
+VAFL,Variegated Flycatcher,Empidonomus varius,EMPVAR,,,,1291,Passeriformes,Tyrannidae,Tyranninae
+CSFL,Crowned Slaty Flycatcher,Empidonomus aurantioatrocristatus,EMPAUR,,,,1292,Passeriformes,Tyrannidae,Tyranninae
+TRKI,Tropical Kingbird,Tyrannus melancholicus,TYRMEL,,,,1293,Passeriformes,Tyrannidae,Tyranninae
+COKI,Couch's Kingbird,Tyrannus couchii,TYRCOU,,,,1294,Passeriformes,Tyrannidae,Tyranninae
+CAKI,Cassin's Kingbird,Tyrannus vociferans,TYRVOC,,,,1295,Passeriformes,Tyrannidae,Tyranninae
+TBKI,Thick-billed Kingbird,Tyrannus crassirostris,TYRCRA,,,,1296,Passeriformes,Tyrannidae,Tyranninae
+WEKI,Western Kingbird,Tyrannus verticalis,TYRVER,,,,1297,Passeriformes,Tyrannidae,Tyranninae
+EAKI,Eastern Kingbird,Tyrannus tyrannus,TYRTYR,,,,1298,Passeriformes,Tyrannidae,Tyranninae
+GRAK,Gray Kingbird,Tyrannus dominicensis,TYRDOM,,*,,1299,Passeriformes,Tyrannidae,Tyranninae
+LOKI,Loggerhead Kingbird,Tyrannus caudifasciatus,TYRCAU,,,,1300,Passeriformes,Tyrannidae,Tyranninae
+GIKI,Giant Kingbird,Tyrannus cubensis,TYRCUB,,,,1301,Passeriformes,Tyrannidae,Tyranninae
+STFL,Scissor-tailed Flycatcher,Tyrannus forficatus,TYRFOR,,,,1302,Passeriformes,Tyrannidae,Tyranninae
+FTFL,Fork-tailed Flycatcher,Tyrannus savana,TYRSAV,,,,1303,Passeriformes,Tyrannidae,Tyranninae
+UNFL,Unidentified Flycatcher,"Tyrannidae (gen, sp)",TYRGEN,,,+,1304,Passeriformes,Tyrannidae,
+GHPI,Gray-headed Piprites,Piprites griseiceps,PIPGRI,,,,1305,Passeriformes,Tyrannidae,
+TLSC,Thrush-like Schiffornis,Schiffornis turdina,SCHTUR,,,,1306,Passeriformes,Tityridae,
+SPMO,Speckled Mourner,Laniocera rufescens,LANRUF,,,,1307,Passeriformes,Tityridae,
+MATI,Masked Tityra,Tityra semifasciata,TITSEM,,,,1308,Passeriformes,Tityridae,
+BCRT,Black-crowned Tityra,Tityra inquisitor,TITINQ,,*,,1309,Passeriformes,Tityridae,
+BABE,Barred Becard,Pachyramphus versicolor,PACVER,,,,1310,Passeriformes,Tityridae,
+CIRB,Cinereous Becard,Pachyramphus rufus,PACRUF,,*,,1311,Passeriformes,Tityridae,
+CIMB,Cinnamon Becard,Pachyramphus cinnamomeus,PACCIN,,*,,1312,Passeriformes,Tityridae,
+WWBE,White-winged Becard,Pachyramphus polychopterus,PACPOL,,,,1313,Passeriformes,Tityridae,
+BAWB,Black-and-white Becard,Pachyramphus albogriseus,PACALB,,,,1314,Passeriformes,Tityridae,
+GCBE,Gray-collared Becard,Pachyramphus major,PACMAJ,,,,1315,Passeriformes,Tityridae,
+RTBE,Rose-throated Becard,Pachyramphus aglaiae,PACAGL,,,,1316,Passeriformes,Tityridae,
+OCBE,One-colored Becard,Pachyramphus homochrous,PACHOM,,,,1317,Passeriformes,Tityridae,
+JABE,Jamaican Becard,Pachyramphus niger,PACNIG,,,,1318,Passeriformes,Tityridae,
+PTFR,Purple-throated Fruitcrow,Querula purpurata,QUEPUR,,,,1319,Passeriformes,Cotingidae,
+BNUM,Bare-necked Umbrellabird,Cephalopterus glabricollis,CEPGLA,,,,1320,Passeriformes,Cotingidae,
+LOCO,Lovely Cotinga,Cotinga amabilis,COTAMA,,,,1321,Passeriformes,Cotingidae,
+TUCO,Turquoise Cotinga,Cotinga ridgwayi,COTRID,,,,1322,Passeriformes,Cotingidae,
+BLCO,Blue Cotinga,Cotinga nattererii,COTNAT,,,,1323,Passeriformes,Cotingidae,
+RUFP,Rufous Piha,Lipaugus unirufus,LIPUNI,,*,,1324,Passeriformes,Cotingidae,
+TWBE,Three-wattled Bellbird,Procnias tricarunculatus,PROTRI,,,,1325,Passeriformes,Cotingidae,
+BTCO,Black-tipped Cotinga,Carpodectes hopkei,CARHOP,,,,1326,Passeriformes,Cotingidae,
+YBCO,Yellow-billed Cotinga,Carpodectes antoniae,CARANT,,,,1327,Passeriformes,Cotingidae,
+SNCO,Snowy Cotinga,Carpodectes nitidus,CARNIT,,,,1328,Passeriformes,Cotingidae,
+GMAK,Green Manakin,Chloropipo holochlora,CHLHOL,,*,,1329,Passeriformes,Pipridae,
+WCOM,White-collared Manakin,Manacus candei,MANCAN,,*,,1330,Passeriformes,Pipridae,
+OCMA,Orange-collared Manakin,Manacus aurantiacus,MANAUR,,,,1331,Passeriformes,Pipridae,
+GCMA,Golden-collared Manakin,Manacus vitellinus,MANVIT,,,,1332,Passeriformes,Pipridae,
+WRMA,White-ruffed Manakin,Corapipo altera,CORALT,,,,1333,Passeriformes,Pipridae,
+LATM,Lance-tailed Manakin,Chiroxiphia lanceolata,CHILAN,,*,,1334,Passeriformes,Pipridae,
+LOTM,Long-tailed Manakin,Chiroxiphia linearis,CHILIN,,*,,1335,Passeriformes,Pipridae,
+BCRM,Blue-crowned Manakin,Lepidothrix coronata,LEPCOR,,*,,1336,Passeriformes,Pipridae,
+WCRM,White-crowned Manakin,Pipra pipra,PIPPIP,,*,,1337,Passeriformes,Pipridae,
+GHMA,Golden-headed Manakin,Pipra erythrocephala,PIPERC,*,,,1338,Passeriformes,Pipridae,
+RCMA,Red-capped Manakin,Pipra mentalis,PIPMEN,,,,1339,Passeriformes,Pipridae,
+SHAR,Sharpbill,Oxyruncus cristatus,OXYCRI,,,,1340,Passeriformes,Oxyruncidae,
+BROS,Brown Shrike,Lanius cristatus,LANCRI,,*,,1341,Passeriformes,Laniidae,
+LOSH,Loggerhead Shrike,Lanius ludovicianus,LANLUD,,,,1342,Passeriformes,Laniidae,
+NSHR,Northern Shrike,Lanius excubitor,LANEXC,,*,,1343,Passeriformes,Laniidae,
+SLVI,Slaty Vireo,Vireo brevipennis,VIRBRE,,,,1344,Passeriformes,Vireonidae,
+WEVI,White-eyed Vireo,Vireo griseus,VIRGRI,,,,1345,Passeriformes,Vireonidae,
+TBVI,Thick-billed Vireo,Vireo crassirostris,VIRCRA,,,,1346,Passeriformes,Vireonidae,
+MAVI,Mangrove Vireo,Vireo pallens,VIRPAL,,,,1347,Passeriformes,Vireonidae,
+COVI,Cozumel Vireo,Vireo bairdi,VIRBAI,,,,1348,Passeriformes,Vireonidae,
+SAVI,San Andres Vireo,Vireo caribaeus,VIRCAB,*,,,1349,Passeriformes,Vireonidae,
+JAVI,Jamaican Vireo,Vireo modestus,VIRMOD,,,,1350,Passeriformes,Vireonidae,
+CUVI,Cuban Vireo,Vireo gundlachii,VIRGUN,,,,1351,Passeriformes,Vireonidae,
+PRVI,Puerto Rican Vireo,Vireo latimeri,VIRLAT,,,,1352,Passeriformes,Vireonidae,
+FBVI,Flat-billed Vireo,Vireo nanus,VIRNAN,,,,1353,Passeriformes,Vireonidae,
+BEVI,Bell's Vireo,Vireo bellii,VIRBEL,,,,1354,Passeriformes,Vireonidae,
+LBVI,Least Bell's Vireo,Vireo b. pusillus,VIRBPU,,,+,1355,Passeriformes,Vireonidae,
+BCVI,Black-capped Vireo,Vireo atricapilla,VIRATR,,,,1356,Passeriformes,Vireonidae,
+DWVI,Dwarf Vireo,Vireo nelsoni,VIRNEL,,,,1357,Passeriformes,Vireonidae,
+GRVI,Gray Vireo,Vireo vicinior,VIRVIC,,,,1358,Passeriformes,Vireonidae,
+BMVI,Blue Mountain Vireo,Vireo osburni,VIROSB,,,,1359,Passeriformes,Vireonidae,
+YTVI,Yellow-throated Vireo,Vireo flavifrons,VIRFLF,*,,,1360,Passeriformes,Vireonidae,
+PLVI,Plumbeous Vireo,Vireo plumbeus,VIRPLU,,,,1361,Passeriformes,Vireonidae,
+SOVI,Solitary Vireo,Vireo (sp),VIRSPE,,,+,1362,Passeriformes,Vireonidae,
+CAVI,Cassin's Vireo,Vireo cassinii,VIRCAS,,,,1363,Passeriformes,Vireonidae,
+BHVI,Blue-headed Vireo,Vireo solitarius,VIRSOL,,,,1364,Passeriformes,Vireonidae,
+YWVI,Yellow-winged Vireo,Vireo carmioli,VIRCAM,*,,,1365,Passeriformes,Vireonidae,
+HUVI,Hutton's Vireo,Vireo huttoni,VIRHUT,,,,1366,Passeriformes,Vireonidae,
+GOVI,Golden Vireo,Vireo hypochryseus,VIRHYP,,,,1367,Passeriformes,Vireonidae,
+WAVI,Warbling Vireo,Vireo gilvus,VIRGIL,,,,1368,Passeriformes,Vireonidae,
+BCAV,Brown-capped Vireo,Vireo leucophrys,VIRLEU,,*,,1369,Passeriformes,Vireonidae,
+PHVI,Philadelphia Vireo,Vireo philadelphicus,VIRPHI,,,,1370,Passeriformes,Vireonidae,
+REVI,Red-eyed Vireo,Vireo olivaceus,VIROLI,,,,1371,Passeriformes,Vireonidae,
+YGVI,Yellow-green Vireo,Vireo flavoviridis,VIRFLD,*,,,1372,Passeriformes,Vireonidae,
+BWVI,Black-whiskered Vireo,Vireo altiloquus,VIRALT,,,,1373,Passeriformes,Vireonidae,
+YUVI,Yucatan Vireo,Vireo magister,VIRMAG,,,,1374,Passeriformes,Vireonidae,
+SCRG,Scrub Greenlet,Hylophilus flavipes,HYLFLA,,*,,1375,Passeriformes,Vireonidae,
+TCGR,Tawny-crowned Greenlet,Hylophilus ochraceiceps,HYLOCH,,,,1376,Passeriformes,Vireonidae,
+GFGR,Golden-fronted Greenlet,Hylophilus aurantiifrons,HYLAUR,,,,1377,Passeriformes,Vireonidae,
+LESG,Lesser Greenlet,Hylophilus decurtatus,HYLDEC,,*,,1378,Passeriformes,Vireonidae,
+CSSV,Chestnut-sided Shrike-Vireo,Vireolanius melitophrys,VIRMEL,,,,1379,Passeriformes,Vireonidae,
+GRSV,Green Shrike-Vireo,Vireolanius pulchellus,VIRPUL,,,,1380,Passeriformes,Vireonidae,
+YBSV,Yellow-browed Shrike-Vireo,Vireolanius eximius,VIREXI,,,,1381,Passeriformes,Vireonidae,
+RBPE,Rufous-browed Peppershrike,Cyclarhis gujanensis,CYCGUJ,,,,1382,Passeriformes,Vireonidae,
+GRAJ,Gray Jay,Perisoreus canadensis,PERCAN,,*,,1383,Passeriformes,Corvidae,
+WTJA,White-throated Jay,Cyanolyca mirabilis,CYAMIR,,,,1384,Passeriformes,Corvidae,
+DWJA,Dwarf Jay,Cyanolyca nana,CYANAN,,,,1385,Passeriformes,Corvidae,
+BTJA,Black-throated Jay,Cyanolyca pumilo,CYAPUM,,,,1386,Passeriformes,Corvidae,
+STHJ,Silvery-throated Jay,Cyanolyca argentigula,CYAARG,,*,,1387,Passeriformes,Corvidae,
+AHJA,Azure-hooded Jay,Cyanolyca cucullata,CYACUC,,,,1388,Passeriformes,Corvidae,
+BTMJ,Black-throated Magpie-Jay,Calocitta colliei,CALCOL,,,,1389,Passeriformes,Corvidae,
+WTMJ,White-throated Magpie-Jay,Calocitta formosa,CALFOR,,,,1390,Passeriformes,Corvidae,
+BRJA,Brown Jay,Psilorhinus morio,PSIMOR,,,,1391,Passeriformes,Corvidae,
+TUJA,Tufted Jay,Cyanocorax dickeyi,CYADIC,,,,1392,Passeriformes,Corvidae,
+BCHJ,Black-chested Jay,Cyanocorax affinis,CYAAFF,,*,,1393,Passeriformes,Corvidae,
+GREJ,Green Jay,Cyanocorax yncas,CYAYNC,,*,,1394,Passeriformes,Corvidae,
+BCRJ,Bushy-crested Jay,Cyanocorax melanocyaneus,CYAMEL,,*,,1395,Passeriformes,Corvidae,
+SBJA,San Blas Jay,Cyanocorax sanblasianus,CYASAN,,,,1396,Passeriformes,Corvidae,
+YUJA,Yucatan Jay,Cyanocorax yucatanicus,CYAYUC,,,,1397,Passeriformes,Corvidae,
+PBJA,Purplish-backed Jay,Cyanocorax beecheii,CYABEE,,,,1398,Passeriformes,Corvidae,
+PIJA,Pinyon Jay,Gymnorhinus cyanocephalus,GYMCYA,,,,1399,Passeriformes,Corvidae,
+STJA,Steller's Jay,Cyanocitta stelleri,CYASTE,,,,1400,Passeriformes,Corvidae,
+BLJA,Blue Jay,Cyanocitta cristata,CYACRI,,,,1401,Passeriformes,Corvidae,
+FLSJ,Florida Scrub-Jay,Aphelocoma coerulescens,APHCOE,,,,1402,Passeriformes,Corvidae,
+ISSJ,Island Scrub-Jay,Aphelocoma insularis,APHINS,,,,1403,Passeriformes,Corvidae,
+WESJ,Western Scrub-Jay,Aphelocoma californica,APHCAL,,,,1404,Passeriformes,Corvidae,
+TRJA,Transvolcanic Jay,Aphelocoma ultramarina,APHULT,,,,1405,Passeriformes,Corvidae,
+MEJA,Mexican Jay,Aphelocoma wollweberi,APHWOL,,,,1406,Passeriformes,Corvidae,
+UNJA,Unicolored Jay,Aphelocoma unicolor,APHUNI,,,,1407,Passeriformes,Corvidae,
+CLNU,Clark's Nutcracker,Nucifraga columbiana,NUCCOL,,,,1408,Passeriformes,Corvidae,
+BBMA,Black-billed Magpie,Pica hudsonia,PICHUD,,,,1409,Passeriformes,Corvidae,
+YBMA,Yellow-billed Magpie,Pica nuttalli,PIANUT,*,,,1410,Passeriformes,Corvidae,
+EUJA,Eurasian Jackdaw,Corvus monedula,CORMON,,,,1411,Passeriformes,Corvidae,
+AMCR,American Crow,Corvus brachyrhynchos,CORBRA,,,,1412,Passeriformes,Corvidae,
+NOCR,Northwestern Crow,Corvus caurinus,CORCAU,,,,1413,Passeriformes,Corvidae,
+PACR,Palm Crow,Corvus palmarum,CORPAL,,,,1414,Passeriformes,Corvidae,
+CUCR,Cuban Crow,Corvus nasicus,CORNAS,,,,1415,Passeriformes,Corvidae,
+WNCR,White-necked Crow,Corvus leucognaphalus,CORLEU,,,,1416,Passeriformes,Corvidae,
+JACR,Jamaican Crow,Corvus jamaicensis,CORJAM,,,,1417,Passeriformes,Corvidae,
+TACR,Tamaulipas Crow,Corvus imparatus,CORIMP,,,,1418,Passeriformes,Corvidae,
+SICR,Sinaloa Crow,Corvus sinaloae,CORSIN,,,,1419,Passeriformes,Corvidae,
+FICR,Fish Crow,Corvus ossifragus,COROSS,,,,1420,Passeriformes,Corvidae,
+HCRO,Hawaiian Crow,Corvus hawaiiensis,CORHAW,,*,,1421,Passeriformes,Corvidae,
+UNCR,Unidentified Crow,Corvus (sp),CORSPE,,,+,1422,Passeriformes,Corvidae,
+CHRA,Chihuahuan Raven,Corvus cryptoleucus,CORCRY,,,,1423,Passeriformes,Corvidae,
+CORA,Common Raven,Corvus corax,CORCOR,,,,1424,Passeriformes,Corvidae,
+KAEL,Kauai Elepaio,Chasiempis sclateri,CHASCL,,,,1425,Passeriformes,Monarchidae,
+OAEL,Oahu Elepaio,Chasiempis ibidis,CHAIBI,,,,1426,Passeriformes,Monarchidae,
+HAEL,Hawaii Elepaio,Chasiempis sandwichensis,CHASAN,,,,1427,Passeriformes,Monarchidae,
+SKLA,Sky Lark,Alauda arvensis,ALAARV,,,,1428,Passeriformes,Alaudidae,
+HOLA,Horned Lark,Eremophila alpestris,EREALP,,,,1429,Passeriformes,Alaudidae,
+PUMA,Purple Martin,Progne subis,PROSUB,,,,1430,Passeriformes,Hirundinidae,Hirundininae
+CUMA,Cuban Martin,Progne cryptoleuca,PROCRY,,,,1431,Passeriformes,Hirundinidae,Hirundininae
+CAMA,Caribbean Martin,Progne dominicensis,PRODOM,,,,1432,Passeriformes,Hirundinidae,Hirundininae
+SIMA,Sinaloa Martin,Progne sinaloae,PROSIN,,,,1433,Passeriformes,Hirundinidae,Hirundininae
+GYBM,Gray-breasted Martin,Progne chalybea,PROCHA,,*,,1434,Passeriformes,Hirundinidae,Hirundininae
+SOMA,Southern Martin,Progne elegans,PROELE,,,,1435,Passeriformes,Hirundinidae,Hirundininae
+BCMA,Brown-chested Martin,Progne tapera,PROTAP,,,,1436,Passeriformes,Hirundinidae,Hirundininae
+TRES,Tree Swallow,Tachycineta bicolor,TACBIC,,*,,1437,Passeriformes,Hirundinidae,Hirundininae
+MANS,Mangrove Swallow,Tachycineta albilinea,TACALB,,*,,1438,Passeriformes,Hirundinidae,Hirundininae
+GOSW,Golden Swallow,Tachycineta euchrysea,TACEUC,,,,1439,Passeriformes,Hirundinidae,Hirundininae
+VGSW,Violet-green Swallow,Tachycineta thalassina,TACTHA,,,,1440,Passeriformes,Hirundinidae,Hirundininae
+BAHS,Bahama Swallow,Tachycineta cyaneoviridis,TACCYA,,*,,1441,Passeriformes,Hirundinidae,Hirundininae
+BAWS,Blue-and-white Swallow,Pygochelidon cyanoleuca,PYGCYA,,,,1442,Passeriformes,Hirundinidae,Hirundininae
+BCSW,Black-capped Swallow,Notiochelidon pileata,NOTPIL,,,,1443,Passeriformes,Hirundinidae,Hirundininae
+WTGS,White-thighed Swallow,Neochelidon tibialis,NEOTIB,,*,,1444,Passeriformes,Hirundinidae,Hirundininae
+NRWS,Northern Rough-winged Swallow,Stelgidopteryx serripennis,STESER,,,,1445,Passeriformes,Hirundinidae,Hirundininae
+SRWS,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,STERUF,,,,1446,Passeriformes,Hirundinidae,Hirundininae
+BANS,Bank Swallow,Riparia riparia,RIPRIP,,*,,1447,Passeriformes,Hirundinidae,Hirundininae
+CLSW,Cliff Swallow,Petrochelidon pyrrhonota,PETPYR,,,,1448,Passeriformes,Hirundinidae,Hirundininae
+CASW,Cave Swallow,Petrochelidon fulva,PETFUL,,,,1449,Passeriformes,Hirundinidae,Hirundininae
+BARS,Barn Swallow,Hirundo rustica,HIRRUS,,*,,1450,Passeriformes,Hirundinidae,Hirundininae
+COHM,Common House-Martin,Delichon urbicum,DELURB,,,,1451,Passeriformes,Hirundinidae,Hirundininae
+UNSW,Unidentified Swallow,"Hirundidae (gen, sp)",HIRGSP,,,+,1452,Passeriformes,Hirundinidae,
+CACH,Carolina Chickadee,Poecile carolinensis,POECAR,,,,1453,Passeriformes,Paridae,
+CBCC,Carolina X Black-c. Chickadee Hybrid,Poecile caroli. x atrica.,POECAA,,*,+,1454,Passeriformes,Paridae,
+BCCH,Black-capped Chickadee,Poecile atricapillus,POEATR,,,,1455,Passeriformes,Paridae,
+MOCH,Mountain Chickadee,Poecile gambeli,POEGAM,,,,1456,Passeriformes,Paridae,
+MECH,Mexican Chickadee,Poecile sclateri,POESCL,,,,1457,Passeriformes,Paridae,
+CBCH,Chestnut-backed Chickadee,Poecile rufescens,POERUF,,,,1458,Passeriformes,Paridae,
+BOCH,Boreal Chickadee,Poecile hudsonicus,POEHUD,,,,1459,Passeriformes,Paridae,
+GHCH,Gray-headed Chickadee,Poecile cinctus,POECIN,,,,1460,Passeriformes,Paridae,
+UPCH,Unidentified Poecile Chickadee,Poecile (sp),POESPE,,,+,1461,Passeriformes,Paridae,
+BRTI,Bridled Titmouse,Baeolophus wollweberi,BAEWOL,,,,1462,Passeriformes,Paridae,
+OATI,Oak Titmouse,Baeolophus inornatus,BAEINO,,,,1463,Passeriformes,Paridae,
+JUTI,Juniper Titmouse,Baeolophus ridgwayi,BAERID,,,,1464,Passeriformes,Paridae,
+TUTI,Tufted Titmouse,Baeolophus bicolor,BAEBIC,,,,1465,Passeriformes,Paridae,
+BCTI,Black-crested Titmouse,Baeolophus atricristatus,BAEATR,,,,1466,Passeriformes,Paridae,
+VERD,Verdin,Auriparus flaviceps,AURFLA,,,,1467,Passeriformes,Remizidae,
+BUSH,Bushtit,Psaltriparus minimus,PSAMIN,,,,1468,Passeriformes,Aegithalidae,
+RBNU,Red-breasted Nuthatch,Sitta canadensis,SITCAN,,,,1469,Passeriformes,Sittidae,Sittinae
+WBNU,White-breasted Nuthatch,Sitta carolinensis,SITCAR,,,,1470,Passeriformes,Sittidae,Sittinae
+PYNU,Pygmy Nuthatch,Sitta pygmaea,SITPYG,,,,1471,Passeriformes,Sittidae,Sittinae
+BHNU,Brown-headed Nuthatch,Sitta pusilla,SITPUS,,,,1472,Passeriformes,Sittidae,Sittinae
+BRCR,Brown Creeper,Certhia americana,CERAME,,,,1473,Passeriformes,Certhiidae,Certhiinae
+ROWR,Rock Wren,Salpinctes obsoletus,SALOBS,,,,1474,Passeriformes,Troglodytidae,
+NIWR,Nightingale Wren,Microcerculus philomela,MICPHI,,,,1475,Passeriformes,Troglodytidae,
+SCBW,Scaly-breasted Wren,Microcerculus marginatus,MICMAR,,*,,1476,Passeriformes,Troglodytidae,
+CANW,Canyon Wren,Catherpes mexicanus,CAPMEX,*,*,,1477,Passeriformes,Troglodytidae,
+SUWR,Sumichrast's Wren,Hylorchilus sumichrasti,HYLSUM,,,,1478,Passeriformes,Troglodytidae,
+NAWR,Nava's Wren,Hylorchilus navai,HYLNAV,,,,1479,Passeriformes,Troglodytidae,
+ZAWR,Zapata Wren,Ferminia cerverai,FERCER,,,,1480,Passeriformes,Troglodytidae,
+HOWR,House Wren,Troglodytes aedon,TROAED,,,,1481,Passeriformes,Troglodytidae,
+SOHW,Southern House-Wren,Troglodytes a. musculus,TROAMU,,,+,1482,Passeriformes,Troglodytidae,
+SOCW,Socorro Wren,Troglodytes sissonii,TROSIS,,*,,1483,Passeriformes,Troglodytidae,
+CLWR,Clarion Wren,Troglodytes tanneri,TROTAN,,,,1484,Passeriformes,Troglodytidae,
+RBWW,Rufous-browed Wren,Troglodytes rufociliatus,TRORUC,*,*,,1485,Passeriformes,Troglodytidae,
+OCWR,Ochraceous Wren,Troglodytes ochraceus,TROOCH,,,,1486,Passeriformes,Troglodytidae,
+PAWR,Pacific Wren,Troglodytes pacificus,TROPAC,,,,1487,Passeriformes,Troglodytidae,
+WIWR,Winter Wren,Troglodytes hiemalis,TROHIE,,,,1488,Passeriformes,Troglodytidae,
+TIWR,Timberline Wren,Thryorchilus browni,THRBRO,,,,1489,Passeriformes,Troglodytidae,
+SEWR,Sedge Wren,Cistothorus platensis,CISPLA,,,,1490,Passeriformes,Troglodytidae,
+MAWR,Marsh Wren,Cistothorus palustris,CISPAL,,,,1491,Passeriformes,Troglodytidae,
+CARW,Carolina Wren,Thryothorus ludovicianus,THRLUD,,*,,1492,Passeriformes,Troglodytidae,
+BEWR,Bewick's Wren,Thryomanes bewickii,THRBEW,,,,1493,Passeriformes,Troglodytidae,
+WHWR,White-headed Wren,Campylorhynchus albobrunneus,CAMALB,,,,1494,Passeriformes,Troglodytidae,
+BABW,Band-backed Wren,Campylorhynchus zonatus,CAMZON,,*,,1495,Passeriformes,Troglodytidae,
+GBWR,Gray-barred Wren,Campylorhynchus megalopterus,CAMMEG,,,,1496,Passeriformes,Troglodytidae,
+GIWR,Giant Wren,Campylorhynchus chiapensis,CAMCHI,,,,1497,Passeriformes,Troglodytidae,
+RNAW,Rufous-naped Wren,Campylorhynchus rufinucha,CAMRUN,*,*,,1498,Passeriformes,Troglodytidae,
+SPWR,Spotted Wren,Campylorhynchus gularis,CAMGUL,,,,1499,Passeriformes,Troglodytidae,
+BOWR,Boucard's Wren,Campylorhynchus jocosus,CAMJOC,,,,1500,Passeriformes,Troglodytidae,
+YUWR,Yucatan Wren,Campylorhynchus yucatanicus,CAMYUC,,,,1501,Passeriformes,Troglodytidae,
+CACW,Cactus Wren,Campylorhynchus brunneicapillus,CAMBRU,,*,,1502,Passeriformes,Troglodytidae,
+SHWR,Sooty-headed Wren,Pheugopedius spadix,PHESPA,,,,1503,Passeriformes,Troglodytidae,
+BTWR,Black-throated Wren,Pheugopedius atrogularis,PHEATR,,,,1504,Passeriformes,Troglodytidae,
+RBSW,Rufous-breasted Wren,Pheugopedius rutilus,PHERUT,,*,,1505,Passeriformes,Troglodytidae,
+SBSW,Spot-breasted Wren,Pheugopedius maculipectus,PHEMAC,,*,,1506,Passeriformes,Troglodytidae,
+HAWR,Happy Wren,Pheugopedius felix,PHEFEL,,,,1507,Passeriformes,Troglodytidae,
+BBEW,Black-bellied Wren,Pheugopedius fasciatoventris,PHEFAS,,*,,1508,Passeriformes,Troglodytidae,
+RAWW,Rufous-and-white Wren,Thryophilus rufalbus,THRRUL,*,,,1509,Passeriformes,Troglodytidae,
+SIWR,Sinaloa Wren,Thryophilus sinaloa,THRSIN,,,,1510,Passeriformes,Troglodytidae,
+BANW,Banded Wren,Thryophilus pleurostictus,THRPLE,,*,,1511,Passeriformes,Troglodytidae,
+STWR,Stripe-throated Wren,Cantorchilus leucopogon,CANLEP,*,,,1512,Passeriformes,Troglodytidae,
+SIBW,Stripe-breasted Wren,Cantorchilus thoracicus,CANTHO,,*,,1513,Passeriformes,Troglodytidae,
+PLWR,Plain Wren,Cantorchilus modestus,CANMOD,,,,1514,Passeriformes,Troglodytidae,
+BAYW,Bay Wren,Cantorchilus nigricapillus,CANNIG,,*,,1515,Passeriformes,Troglodytidae,
+RIWR,Riverside Wren,Cantorchilus semibadius,CANSEM,,,,1516,Passeriformes,Troglodytidae,
+BBRW,Buff-breasted Wren,Cantorchilus leucotis,CANLET,*,*,,1517,Passeriformes,Troglodytidae,
+WBWR,White-bellied Wren,Uropsila leucogastra,UROLEU,,,,1518,Passeriformes,Troglodytidae,
+WBWW,White-breasted Wood-Wren,Henicorhina leucosticta,HENLES,*,,,1519,Passeriformes,Troglodytidae,
+GBWW,Gray-breasted Wood-Wren,Henicorhina leucophrys,HENLEP,*,,,1520,Passeriformes,Troglodytidae,
+SONW,Song Wren,Cyphorhinus phaeocephalus,CYPPHA,,*,,1521,Passeriformes,Troglodytidae,
+UNWR,Unidentified Wren,"Troglodytidae (gen, sp)",TRGGSP,*,,+,1522,Passeriformes,Troglodytidae,
+TFGN,Tawny-faced Gnatwren,Microbates cinereiventris,MICCIN,,,,1523,Passeriformes,Polioptilidae,
+LBGN,Long-billed Gnatwren,Ramphocaenus melanurus,RAMMEL,,,,1524,Passeriformes,Polioptilidae,
+BGGN,Blue-gray Gnatcatcher,Polioptila caerulea,POLCAE,,,,1525,Passeriformes,Polioptilidae,
+CUGN,Cuban Gnatcatcher,Polioptila lembeyei,POLLEM,,,,1526,Passeriformes,Polioptilidae,
+CAGN,California Gnatcatcher,Polioptila californica,POLCAL,,,,1527,Passeriformes,Polioptilidae,
+BTGN,Black-tailed Gnatcatcher,Polioptila melanura,POLMEL,,,,1528,Passeriformes,Polioptilidae,
+BCGN,Black-capped Gnatcatcher,Polioptila nigriceps,POLNIG,,,,1529,Passeriformes,Polioptilidae,
+WLGN,White-lored Gnatcatcher,Polioptila albiloris,POLALB,,,,1530,Passeriformes,Polioptilidae,
+TRGN,Tropical Gnatcatcher,Polioptila plumbea,POLPLU,,,,1531,Passeriformes,Polioptilidae,
+STGN,Slate-throated Gnatcatcher,Polioptila schistaceigula,POLSCH,,,,1532,Passeriformes,Polioptilidae,
+AMDI,American Dipper,Cinclus mexicanus,CINMEX,,,,1533,Passeriformes,Cinclidae,
+RVBU,Red-vented Bulbul,Pycnonotus cafer,PYCCAF,,,,1534,Passeriformes,Pycnonotidae,
+RWBU,Red-whiskered Bulbul,Pycnonotus jocosus,PYCJOC,,,,1535,Passeriformes,Pycnonotidae,
+GCKI,Golden-crowned Kinglet,Regulus satrapa,REGSAT,,,,1536,Passeriformes,Regulidae,
+RCKI,Ruby-crowned Kinglet,Regulus calendula,REGCAL,,,,1537,Passeriformes,Regulidae,
+JABW,Japanese Bush-Warbler,Cettia diphone,CETDIP,,,,1538,Passeriformes,Cettiidae,
+WILW,Willow Warbler,Phylloscopus trochilus,PHYTRO,,*,,1539,Passeriformes,Phylloscopidae,
+WOWA,Wood Warbler,Phylloscopus sibilatrix,PHYSIB,,,,1540,Passeriformes,Phylloscopidae,
+DUWA,Dusky Warbler,Phylloscopus fuscatus,PHYFUS,,,,1541,Passeriformes,Phylloscopidae,
+PALW,Pallas's Leaf-Warbler,Phylloscopus proregulus,PHYPRO,,,,1542,Passeriformes,Phylloscopidae,
+YBWA,Yellow-browed Warbler,Phylloscopus inornatus,PHYINO,,,,1543,Passeriformes,Phylloscopidae,
+ARWA,Arctic Warbler,Phylloscopus borealis,PHYBOR,,,,1544,Passeriformes,Phylloscopidae,
+LEWH,Lesser Whitethroat,Sylvia curruca,SYLCUR,,,,1545,Passeriformes,Sylviidae,
+WREN,Wrentit,Chamaea fasciata,CHAFAS,,,,1546,Passeriformes,Sylviidae,
+JAWE,Japanese White-eye,Zosterops japonicus,ZOSJAP,,,,1547,Passeriformes,Zosteropidae,
+GNLA,Greater Necklaced Laughingthrush,Garrulax pectoralis,GARPEC,,,,1548,Passeriformes,Timaliidae,
+HWAM,Hwamei,Garrulax canorus,GARCAN,,,,1549,Passeriformes,Timaliidae,
+RBLE,Red-billed Leiothrix,Leiothrix lutea,LEILUT,,,,1550,Passeriformes,Timaliidae,
+MILL,Millerbird,Acrocephalus familiaris,ACRFAM,,,,1551,Passeriformes,Acrocephalidae,
+SEWA,Sedge Warbler,Acrocephalus schoenobaenus,ACRSCH,,,,1552,Passeriformes,Acrocephalidae,
+BCDO,Black-capped Donacobius,Donacobius atricapilla,DONATR,,,,1553,Passeriformes,Donacobiidae,
+MIGW,Middendorff's Grasshopper-Warbler,Locustella ochotensis,LOCOCH,,,,1554,Passeriformes,Megaluridae,
+LANW,Lanceolated Warbler,Locustella lanceolata,LOCLAN,,*,,1555,Passeriformes,Megaluridae,
+GSFL,Gray-streaked Flycatcher,Muscicapa griseisticta,MUSGRI,,,,1556,Passeriformes,Muscicapidae,
+ABFL,Asian Brown Flycatcher,Muscicapa dauurica,MUSDAU,,,,1557,Passeriformes,Muscicapidae,
+SPFL,Spotted Flycatcher,Muscicapa striata,MUSSTR,,,,1558,Passeriformes,Muscicapidae,
+DSFL,Dark-sided Flycatcher,Muscicapa sibirica,MUSSIB,,,,1559,Passeriformes,Muscicapidae,
+WRSH,White-rumped Shama,Copsychus malabaricus,COPMAL,,,,1560,Passeriformes,Muscicapidae,
+RTRO,Rufous-tailed Robin,Luscinia sibilans,LUSSIB,,,,1561,Passeriformes,Muscicapidae,
+SIRU,Siberian Rubythroat,Luscinia calliope,LUSCAL,,,,1562,Passeriformes,Muscicapidae,
+BLUE,Bluethroat,Luscinia svecica,LUSSVE,,,,1563,Passeriformes,Muscicapidae,
+SBRO,Siberian Blue Robin,Luscinia cyane,LUSCYA,,,,1564,Passeriformes,Muscicapidae,
+RFBL,Red-flanked Bluetail,Tarsiger cyanurus,TARCYA,,,,1565,Passeriformes,Muscicapidae,
+NAFL,Narcissus Flycatcher,Ficedula narcissina,FICNAR,,,,1566,Passeriformes,Muscicapidae,
+MUFL,Mugimaki Flycatcher,Ficedula mugimaki,FICMUG,,,,1567,Passeriformes,Muscicapidae,
+TAFL,Taiga Flycatcher,Ficedula albicilla,FICALB,,,,1568,Passeriformes,Muscicapidae,
+NOWH,Northern Wheatear,Oenanthe oenanthe,OENOEN,,,,1569,Passeriformes,Muscicapidae,
+STON,Stonechat,Saxicola torquatus,SAXTOR,,,,1570,Passeriformes,Muscicapidae,
+EABL,Eastern Bluebird,Sialia sialis,SIASIA,,,,1571,Passeriformes,Turdidae,
+WEBL,Western Bluebird,Sialia mexicana,SIAMEX,,,,1572,Passeriformes,Turdidae,
+WMBH,Western X Mountain Bluebird Hybrid,Sialia mex. x currucoid.,SIAMEC,,,+,1573,Passeriformes,Turdidae,
+MOBL,Mountain Bluebird,Sialia currucoides,SIACUR,,,,1574,Passeriformes,Turdidae,
+TOSO,Townsend's Solitaire,Myadestes townsendi,MYATOW,,,,1575,Passeriformes,Turdidae,
+BBSO,Brown-backed Solitaire,Myadestes occidentalis,MYAOCC,,,,1576,Passeriformes,Turdidae,
+CUSO,Cuban Solitaire,Myadestes elisabeth,MYAELI,,,,1577,Passeriformes,Turdidae,
+RTSO,Rufous-throated Solitaire,Myadestes genibarbis,MYAGEN,,,,1578,Passeriformes,Turdidae,
+BFSO,Black-faced Solitaire,Myadestes melanops,MYAMEL,,,,1579,Passeriformes,Turdidae,
+VASO,Varied Solitaire,Myadestes coloratus,MYACOL,,,,1580,Passeriformes,Turdidae,
+SCSO,Slate-colored Solitaire,Myadestes unicolor,MYAUNI,,,,1581,Passeriformes,Turdidae,
+KAMA,Kamao,Myadestes myadestinus,MYAMYA,,,,1582,Passeriformes,Turdidae,
+AMAU,Amaui,Myadestes woahensis,MYAWOA,,,,1583,Passeriformes,Turdidae,
+OLOM,Olomao,Myadestes lanaiensis,MYALAN,,,,1584,Passeriformes,Turdidae,
+OMAO,Omao,Myadestes obscurus,MYAOBS,,,,1585,Passeriformes,Turdidae,
+PUAI,Puaiohi,Myadestes palmeri,MYAPAL,,,,1586,Passeriformes,Turdidae,
+BBNT,Black-billed Nightingale-Thrush,Catharus gracilirostris,CATGRA,,,,1587,Passeriformes,Turdidae,
+OBNT,Orange-billed Nightingale-Thrush,Catharus aurantiirostris,CATAUN,*,,,1588,Passeriformes,Turdidae,
+SBNT,Slaty-backed Nightingale-Thrush,Catharus fuscater,CATFUT,*,,,1589,Passeriformes,Turdidae,
+RUNT,Russet Nightingale-Thrush,Catharus occidentalis,CATOCC,,,,1590,Passeriformes,Turdidae,
+RCNT,Ruddy-capped Nightingale-Thrush,Catharus frantzii,CATFRA,,,,1591,Passeriformes,Turdidae,
+BHNT,Black-headed Nightingale-Thrush,Catharus mexicanus,CASMEX,*,,,1592,Passeriformes,Turdidae,
+SPNT,Spotted Nightingale-Thrush,Catharus dryas,CATDRY,,,,1593,Passeriformes,Turdidae,
+VEER,Veery,Catharus fuscescens,CATFUN,*,,,1594,Passeriformes,Turdidae,
+GCTH,Gray-cheeked Thrush,Catharus minimus,CATMIN,,,,1595,Passeriformes,Turdidae,
+GCBT,Gray-cheeked/Bicknell's Thrush,Catharus minimus x bickn.,CATMIB,,,+,1596,Passeriformes,Turdidae,
+BITH,Bicknell's Thrush,Catharus bicknelli,CATBIC,,,,1597,Passeriformes,Turdidae,
+SWTH,Swainson's Thrush,Catharus ustulatus,CATUST,,,,1598,Passeriformes,Turdidae,
+HETH,Hermit Thrush,Catharus guttatus,CATGUT,,,,1599,Passeriformes,Turdidae,
+WOTH,Wood Thrush,Hylocichla mustelina,HYLMUS,,,,1600,Passeriformes,Turdidae,
+UNTH,Unidentified Thrush,"Turdidae (gen, sp)",TURGSP,,,+,1601,Passeriformes,Turdidae,
+EUBL,Eurasian Blackbird,Turdus merula,TURMER,,,,1602,Passeriformes,Turdidae,
+EYTH,Eyebrowed Thrush,Turdus obscurus,TUROBC,*,,,1603,Passeriformes,Turdidae,
+DUTH,Dusky Thrush,Turdus naumanni,TURNAU,,,,1604,Passeriformes,Turdidae,
+FIEL,Fieldfare,Turdus pilaris,TURPIL,,,,1605,Passeriformes,Turdidae,
+REDW,Redwing,Turdus iliacus,TURILI,,,,1606,Passeriformes,Turdidae,
+SOTH,Song Thrush,Turdus philomelos,TURPHI,,*,,1607,Passeriformes,Turdidae,
+SOOT,Sooty Thrush,Turdus nigrescens,TURNIG,,*,,1608,Passeriformes,Turdidae,
+BLTH,Black Thrush,Turdus infuscatus,TURINF,,,,1609,Passeriformes,Turdidae,
+MOTH,Mountain Thrush,Turdus plebejus,TURPLE,,,,1610,Passeriformes,Turdidae,
+COCT,Cocoa Thrush,Turdus fumigatus,TURFUM,,*,,1611,Passeriformes,Turdidae,
+PVTH,Pale-vented Thrush,Turdus obsoletus,TUROBL,*,,,1612,Passeriformes,Turdidae,
+CCTH,Clay-colored Thrush,Turdus grayi,TURGRA,,,,1613,Passeriformes,Turdidae,
+SPTH,Spectacled Thrush,Turdus nudigenis,TURNUD,,,,1614,Passeriformes,Turdidae,
+WETH,White-eyed Thrush,Turdus jamaicensis,TURJAM,,,,1615,Passeriformes,Turdidae,
+WTTH,White-throated Thrush,Turdus assimilis,TURASS,,,,1616,Passeriformes,Turdidae,
+RBRO,Rufous-backed Robin,Turdus rufopalliatus,TURRUP,*,,,1617,Passeriformes,Turdidae,
+RCRO,Rufous-collared Robin,Turdus rufitorques,TURRUT,*,,,1618,Passeriformes,Turdidae,
+AMRO,American Robin,Turdus migratorius,TURMIG,,,,1619,Passeriformes,Turdidae,
+LSTH,La Selle Thrush,Turdus swalesi,TURSWA,,,,1620,Passeriformes,Turdidae,
+WCTH,White-chinned Thrush,Turdus aurantius,TURAUR,,,,1621,Passeriformes,Turdidae,
+GCAT,Grand Cayman Thrush,Turdus ravidus,TURRAV,,*,,1622,Passeriformes,Turdidae,
+RLTH,Red-legged Thrush,Turdus plumbeus,TURPLU,,,,1623,Passeriformes,Turdidae,
+FOTH,Forest Thrush,Turdus lherminieri,TURLHE,,,,1624,Passeriformes,Turdidae,
+VATH,Varied Thrush,Ixoreus naevius,IXONAE,,,,1625,Passeriformes,Turdidae,
+AZTH,Aztec Thrush,Ridgwayia pinicola,RIDPIN,,,,1626,Passeriformes,Turdidae,
+GRCA,Gray Catbird,Dumetella carolinensis,DUMCAR,,,,1627,Passeriformes,Mimidae,
+BLCA,Black Catbird,Melanoptila glabrirostris,MELGLA,,,,1628,Passeriformes,Mimidae,
+NOMO,Northern Mockingbird,Mimus polyglottos,MIMPOL,,,,1629,Passeriformes,Mimidae,
+TRMO,Tropical Mockingbird,Mimus gilvus,MIMGIL,,,,1630,Passeriformes,Mimidae,
+SOMO,Socorro Mockingbird,Mimus graysoni,MIMGRA,,,,1631,Passeriformes,Mimidae,
+BAMO,Bahama Mockingbird,Mimus gundlachii,MIMGUN,,,,1632,Passeriformes,Mimidae,
+SATH,Sage Thrasher,Oreoscoptes montanus,OREMON,,,,1633,Passeriformes,Mimidae,
+BRTH,Brown Thrasher,Toxostoma rufum,TOXRUF,,,,1634,Passeriformes,Mimidae,
+LBTH,Long-billed Thrasher,Toxostoma longirostre,TOXLON,,,,1635,Passeriformes,Mimidae,
+COZT,Cozumel Thrasher,Toxostoma guttatum,TOXGUT,,*,,1636,Passeriformes,Mimidae,
+GRAT,Gray Thrasher,Toxostoma cinereum,TOXCIN,,*,,1637,Passeriformes,Mimidae,
+BETH,Bendire's Thrasher,Toxostoma bendirei,TOXBEN,,,,1638,Passeriformes,Mimidae,
+OCTH,Ocellated Thrasher,Toxostoma ocellatum,TOXOCE,,,,1639,Passeriformes,Mimidae,
+CBTH,Curve-billed Thrasher,Toxostoma curvirostre,TOXCUR,,,,1640,Passeriformes,Mimidae,
+CATH,California Thrasher,Toxostoma redivivum,TOXRED,,,,1641,Passeriformes,Mimidae,
+CRTH,Crissal Thrasher,Toxostoma crissale,TOXCRI,,,,1642,Passeriformes,Mimidae,
+LCTH,Le Conte's Thrasher,Toxostoma lecontei,TOXLEC,,,,1643,Passeriformes,Mimidae,
+WBTH,White-breasted Thrasher,Ramphocinclus brachyurus,RAMBRA,,,,1644,Passeriformes,Mimidae,
+BLMO,Blue Mockingbird,Melanotis caerulescens,MELCAE,,,,1645,Passeriformes,Mimidae,
+BAWM,Blue-and-white Mockingbird,Melanotis hypoleucus,MELHYC,*,,,1646,Passeriformes,Mimidae,
+SBTH,Scaly-breasted Thrasher,Allenia fusca,ALLFUC,,,,1647,Passeriformes,Mimidae,
+PETH,Pearly-eyed Thrasher,Margarops fuscatus,MARFUS,,,,1648,Passeriformes,Mimidae,
+BRTR,Brown Trembler,Cinclocerthia ruficauda,CINRUF,,,,1649,Passeriformes,Mimidae,
+GRTR,Gray Trembler,Cinclocerthia gutturalis,CINGUT,,,,1650,Passeriformes,Mimidae,
+EUST,European Starling,Sturnus vulgaris,STUVUL,,,,1651,Passeriformes,Sturnidae,
+COMY,Common Myna,Acridotheres tristis,ACRTRI,,,,1652,Passeriformes,Sturnidae,
+HIMY,Hill Myna,Gracula religiosa,GRAREL,,,,1653,Passeriformes,Sturnidae,
+SIAC,Siberian Accentor,Prunella montanella,PRUMON,,,,1654,Passeriformes,Prunellidae,
+EYWA,Eastern Yellow Wagtail,Motacilla tschutschensis,MOTTSC,,,,1655,Passeriformes,Motacillidae,
+CIWA,Citrine Wagtail,Motacilla citreola,MOTCIT,,,,1656,Passeriformes,Motacillidae,
+GRAW,Gray Wagtail,Motacilla cinerea,MOTCIN,,*,,1657,Passeriformes,Motacillidae,
+WHWA,White Wagtail,Motacilla alba,MOTALB,,,,1658,Passeriformes,Motacillidae,
+TRPI,Tree Pipit,Anthus trivialis,ANTTRI,,,,1659,Passeriformes,Motacillidae,
+OBPI,Olive-backed Pipit,Anthus hodgsoni,ANTHOD,,,,1660,Passeriformes,Motacillidae,
+PEPI,Pechora Pipit,Anthus gustavi,ANTGUS,,,,1661,Passeriformes,Motacillidae,
+RTPI,Red-throated Pipit,Anthus cervinus,ANTCER,,,,1662,Passeriformes,Motacillidae,
+AMPI,American Pipit,Anthus rubescens,ANTRUB,,,,1663,Passeriformes,Motacillidae,
+SPPI,Sprague's Pipit,Anthus spragueii,ANTSPR,,,,1664,Passeriformes,Motacillidae,
+YEPI,Yellowish Pipit,Anthus lutescens,ANTLUT,,,,1665,Passeriformes,Motacillidae,
+BOWA,Bohemian Waxwing,Bombycilla garrulus,BOMGAR,,,,1666,Passeriformes,Bombycillidae,
+CEDW,Cedar Waxwing,Bombycilla cedrorum,BOMCED,,*,,1667,Passeriformes,Bombycillidae,
+KAOO,Kauai Oo,Moho braccatus,MOHBRA,,,,1668,Passeriformes,Mohoidae,
+OAOO,Oahu Oo,Moho apicalis,MOHAPI,,,,1669,Passeriformes,Mohoidae,
+BIOO,Bishop's Oo,Moho bishopi,MOHBIS,,,,1670,Passeriformes,Mohoidae,
+HAOO,Hawaii Oo,Moho nobilis,MOHNOB,,,,1671,Passeriformes,Mohoidae,
+KIOE,Kioea,Chaetoptila angustipluma,CHAANG,,,,1672,Passeriformes,Mohoidae,
+BAYS,Black-and-yellow Silky-flycatcher,Phainoptila melanoxantha,PHAMEL,,,,1673,Passeriformes,Ptilogonatidae,
+GRSF,Gray Silky-flycatcher,Ptilogonys cinereus,PTICIN,,,,1674,Passeriformes,Ptilogonatidae,
+LTSF,Long-tailed Silky-flycatcher,Ptilogonys caudatus,PTICAU,,,,1675,Passeriformes,Ptilogonatidae,
+PHAI,Phainopepla,Phainopepla nitens,PHANIT,,,,1676,Passeriformes,Ptilogonatidae,
+PALM,Palmchat,Dulus dominicus,DULDOM,,,,1677,Passeriformes,Dulidae,
+OLWA,Olive Warbler,Peucedramus taeniatus,PEUTAE,,,,1678,Passeriformes,Peucedramidae,
+LALO,Lapland Longspur,Calcarius lapponicus,CALLAP,,,,1679,Passeriformes,Calcariidae,
+CCLO,Chestnut-collared Longspur,Calcarius ornatus,CALORN,,,,1680,Passeriformes,Calcariidae,
+SMLO,Smith's Longspur,Calcarius pictus,CALPIC,,,,1681,Passeriformes,Calcariidae,
+MCLO,McCown's Longspur,Rhynchophanes mccownii,RHYMCC,,,,1682,Passeriformes,Calcariidae,
+SNBU,Snow Bunting,Plectrophenax nivalis,PLENIV,,,,1683,Passeriformes,Calcariidae,
+MKBU,McKay's Bunting,Plectrophenax hyperboreus,PLEHYP,,,,1684,Passeriformes,Calcariidae,
+OVEN,Ovenbird,Seiurus aurocapilla,SEIAUR,,,,1685,Passeriformes,Parulidae,
+WEWA,Worm-eating Warbler,Helmitheros vermivorum,HELVER,,,,1686,Passeriformes,Parulidae,
+LOWA,Louisiana Waterthrush,Parkesia motacilla,PARMOT,,,,1687,Passeriformes,Parulidae,
+NOWA,Northern Waterthrush,Parkesia noveboracensis,PARNOV,,,,1688,Passeriformes,Parulidae,
+BAWA,Bachman's Warbler,Vermivora bachmanii,VERBAC,,,,1689,Passeriformes,Parulidae,
+GWWA,Golden-winged Warbler,Vermivora chrysoptera,VERCHR,,,,1690,Passeriformes,Parulidae,
+BWWA,Blue-winged Warbler,Vermivora cyanoptera,VERCYA,,,,1691,Passeriformes,Parulidae,
+BRWA,Brewster's Warbler,Vermivora chrysoptera x cyanoptera,VERCCY,,,+,1692,Passeriformes,Parulidae,
+LAWA,Lawrence's Warbler,Vermivora cyanoptera x chrysoptera,VERCCH,,,+,1693,Passeriformes,Parulidae,
+BAWW,Black-and-white Warbler,Mniotilta varia,MNIVAR,,,,1694,Passeriformes,Parulidae,
+PROW,Prothonotary Warbler,Protonotaria citrea,PROCIT,,*,,1695,Passeriformes,Parulidae,
+SWWA,Swainson's Warbler,Limnothlypis swainsonii,LIMSWA,,,,1696,Passeriformes,Parulidae,
+CCWA,Crescent-chested Warbler,Oreothlypis superciliosa,ORESUP,,,,1697,Passeriformes,Parulidae,
+FTHW,Flame-throated Warbler,Oreothlypis gutturalis,OREGUT,,*,,1698,Passeriformes,Parulidae,
+TEWA,Tennessee Warbler,Oreothlypis peregrina,OREPER,,,,1699,Passeriformes,Parulidae,
+OCWA,Orange-crowned Warbler,Oreothlypis celata,ORECEL,,,,1700,Passeriformes,Parulidae,
+COLW,Colima Warbler,Oreothlypis crissalis,ORECRI,,*,,1701,Passeriformes,Parulidae,
+LUWA,Lucy's Warbler,Oreothlypis luciae,ORELUC,,,,1702,Passeriformes,Parulidae,
+NAWA,Nashville Warbler,Oreothlypis ruficapilla,ORERUF,,,,1703,Passeriformes,Parulidae,
+VIWA,Virginia's Warbler,Oreothlypis virginiae,OREVIR,,,,1704,Passeriformes,Parulidae,
+SEMW,Semper's Warbler,Leucopeza semperi,LEUSER,*,*,,1705,Passeriformes,Parulidae,
+CONW,Connecticut Warbler,Oporornis agilis,OPOAGI,,*,,1706,Passeriformes,Parulidae,
+GCYE,Gray-crowned Yellowthroat,Geothlypis poliocephala,GEOPOL,,,,1707,Passeriformes,Parulidae,
+MAYE,Masked Yellowthroat,Geothlypis aequinoctialis,GEOAEQ,,,,1708,Passeriformes,Parulidae,
+MGWA,MacGillivray's Warbler,Geothlypis tolmiei,GEOTOL,,,,1709,Passeriformes,Parulidae,
+MOWA,Mourning Warbler,Geothlypis philadelphia,GEOPHI,,,,1710,Passeriformes,Parulidae,
+KEWA,Kentucky Warbler,Geothlypis formosa,GEOFOR,,,,1711,Passeriformes,Parulidae,
+OCYE,Olive-crowned Yellowthroat,Geothlypis semiflava,GEOSEM,,,,1712,Passeriformes,Parulidae,
+BPYE,Black-polled Yellowthroat,Geothlypis speciosa,GEOSPE,,,,1713,Passeriformes,Parulidae,
+BEYE,Belding's Yellowthroat,Geothlypis beldingi,GEOBEL,,,,1714,Passeriformes,Parulidae,
+BAYE,Bahama Yellowthroat,Geothlypis rostrata,GEOROS,,,,1715,Passeriformes,Parulidae,
+ALYE,Altamira Yellowthroat,Geothlypis flavovelata,GEOFLA,,,,1716,Passeriformes,Parulidae,
+COYE,Common Yellowthroat,Geothlypis trichas,GEOTRI,,,,1717,Passeriformes,Parulidae,
+HOYE,Hooded Yellowthroat,Geothlypis nelsoni,GEONEL,,,,1718,Passeriformes,Parulidae,
+WHIW,Whistling Warbler,Catharopeza bishopi,CATBIS,,*,,1719,Passeriformes,Parulidae,
+PLWA,Plumbeous Warbler,Setophaga plumbea,SETPLU,,,,1720,Passeriformes,Parulidae,
+EWWA,Elfin-woods Warbler,Setophaga angelae,SETANG,,,,1721,Passeriformes,Parulidae,
+ARRW,Arrowhead Warbler,Setophaga pharetra,SETPHA,,*,,1722,Passeriformes,Parulidae,
+HOWA,Hooded Warbler,Setophaga citrina,SETCIT,,,,1723,Passeriformes,Parulidae,
+AMRE,American Redstart,Setophaga ruticilla,SETRUT,,,,1724,Passeriformes,Parulidae,
+KIWA,Kirtland's Warbler,Setophaga kirtlandii,SETKIR,,,,1725,Passeriformes,Parulidae,
+CMWA,Cape May Warbler,Setophaga tigrina,SETTIG,,,,1726,Passeriformes,Parulidae,
+CERW,Cerulean Warbler,Setophaga cerulea,SETCER,,*,,1727,Passeriformes,Parulidae,
+NOPA,Northern Parula,Setophaga americana,SETAME,,,,1728,Passeriformes,Parulidae,
+SUWA,Sutton's Warbler,Setophaga americana x dominica,SETAMD,,,+,1729,Passeriformes,Parulidae,
+TRPA,Tropical Parula,Setophaga pitiayumi,SETPIY,*,,,1730,Passeriformes,Parulidae,
+MAWA,Magnolia Warbler,Setophaga magnolia,SETMAG,,,,1731,Passeriformes,Parulidae,
+BBWA,Bay-breasted Warbler,Setophaga castanea,SETCAS,,,,1732,Passeriformes,Parulidae,
+BLBW,Blackburnian Warbler,Setophaga fusca,SETFUS,,*,,1733,Passeriformes,Parulidae,
+YEWA,Yellow Warbler,Setophaga petechia,SETPET,,,,1734,Passeriformes,Parulidae,
+MANW,Mangrove Warbler,Setophaga petechia erithachorides,SETPER,,*,+,1735,Passeriformes,Parulidae,
+CSWA,Chestnut-sided Warbler,Setophaga pensylvanica,SETPEN,,,,1736,Passeriformes,Parulidae,
+BLPW,Blackpoll Warbler,Setophaga striata,SETSTR,,*,,1737,Passeriformes,Parulidae,
+BTBW,Black-throated Blue Warbler,Setophaga caerulescens,SETCAE,,,,1738,Passeriformes,Parulidae,
+PAWA,Palm Warbler,Setophaga palmarum,SETPAL,,,,1739,Passeriformes,Parulidae,
+WPWA,Western Palm Warbler,Setophaga palmarum palmarum,SETPPA,,,+,1740,Passeriformes,Parulidae,
+YPWA,Yellow Palm Warbler,Setophaga palmarum hypochrysea,SETPHY,,,+,1741,Passeriformes,Parulidae,
+OCAW,Olive-capped Warbler,Setophaga pityophila,SETPIP,*,*,,1742,Passeriformes,Parulidae,
+PIWA,Pine Warbler,Setophaga pinus,SETPIN,,,,1743,Passeriformes,Parulidae,
+YRWA,Yellow-rumped Warbler,Setophaga coronata,SETCOR,,,,1744,Passeriformes,Parulidae,
+MYWA,Myrtle Warbler,Setophaga coronata coronata,SETCCO,,,+,1745,Passeriformes,Parulidae,
+AUWA,Audubon's Warbler,Setophaga coronata auduboni,SETCAU,,,+,1746,Passeriformes,Parulidae,
+YTWA,Yellow-throated Warbler,Setophaga dominica,SETDOM,,,,1747,Passeriformes,Parulidae,
+BAHW,Bahama Warbler,Setophaga flavescens,SETFLA,,*,,1748,Passeriformes,Parulidae,
+VITW,Vitelline Warbler,Setophaga vitellina,SETVIT,,*,,1749,Passeriformes,Parulidae,
+PRAW,Prairie Warbler,Setophaga discolor,SETDIS,,*,,1750,Passeriformes,Parulidae,
+ADWA,Adelaide's Warbler,Setophaga adelaidae,SETADE,,,,1751,Passeriformes,Parulidae,
+BARW,Barbuda Warbler,Setophaga subita,SETSUB,,*,,1752,Passeriformes,Parulidae,
+SLWA,St. Lucia Warbler,Setophaga delicata,SETDEL,,,,1753,Passeriformes,Parulidae,
+GRWA,Grace's Warbler,Setophaga graciae,SETGRA,,,,1754,Passeriformes,Parulidae,
+BTYW,Black-throated Gray Warbler,Setophaga nigrescens,SETNIG,,*,,1755,Passeriformes,Parulidae,
+TOWA,Townsend's Warbler,Setophaga townsendi,SETTOW,,,,1756,Passeriformes,Parulidae,
+THWH,Townsend's x Hermit Warbler Hybrid,Setophaga townsendi x occidentalis,SETTOO,,,+,1757,Passeriformes,Parulidae,
+HEWA,Hermit Warbler,Setophaga occidentalis,SETOCC,,,,1758,Passeriformes,Parulidae,
+GCWA,Golden-cheeked Warbler,Setophaga chrysoparia,SETCHR,,,,1759,Passeriformes,Parulidae,
+BTNW,Black-throated Green Warbler,Setophaga virens,SETVIR,,*,,1760,Passeriformes,Parulidae,
+BURW,Buff-rumped Warbler,Myiothlypis fulvicauda,MYIFUL,,*,,1761,Passeriformes,Parulidae,
+FTWA,Fan-tailed Warbler,Basileuterus lachrymosus,BASLAC,,,,1762,Passeriformes,Parulidae,
+RCWA,Rufous-capped Warbler,Basileuterus rufifrons,BASRUF,,,,1763,Passeriformes,Parulidae,
+BCWA,Black-cheeked Warbler,Basileuterus melanogenys,BASMEL,,,,1764,Passeriformes,Parulidae,
+PIRW,Pirre Warbler,Basileuterus ignotus,BASIGN,,*,,1765,Passeriformes,Parulidae,
+GBWA,Golden-browed Warbler,Basileuterus belli,BASBEL,,,,1766,Passeriformes,Parulidae,
+GCRW,Golden-crowned Warbler,Basileuterus culicivorus,BASCUL,,*,,1767,Passeriformes,Parulidae,
+TSWA,Three-striped Warbler,Basileuterus tristriatus,BASTRI,,,,1768,Passeriformes,Parulidae,
+CAWA,Canada Warbler,Cardellina canadensis,CADCAN,,,,1769,Passeriformes,Parulidae,
+WIWA,Wilson's Warbler,Cardellina pusilla,CARPUS,,,,1770,Passeriformes,Parulidae,
+RFWA,Red-faced Warbler,Cardellina rubrifrons,CARRUF,*,,,1771,Passeriformes,Parulidae,
+REWA,Red Warbler,Cardellina rubra,CARRUA,*,,,1772,Passeriformes,Parulidae,
+PHWA,Pink-headed Warbler,Cardellina versicolor,CARVER,,,,1773,Passeriformes,Parulidae,
+PARE,Painted Redstart,Myioborus pictus,MYIPIC,,,,1774,Passeriformes,Parulidae,
+STRE,Slate-throated Redstart,Myioborus miniatus,MYIMIN,,,,1775,Passeriformes,Parulidae,
+COLR,Collared Redstart,Myioborus torquatus,MYITOR,,*,,1776,Passeriformes,Parulidae,
+WRET,Wrenthrush,Zeledonia coronata,ZELCOR,,*,,1777,Passeriformes,Parulidae,
+YBCH,Yellow-breasted Chat,Icteria virens,ICTVIR,,,,1778,Passeriformes,Parulidae,
+WWWA,White-winged Warbler,Xenoligea montana,XENMON,,,,1779,Passeriformes,Parulidae,
+GTWA,Green-tailed Warbler,Microligea palustris,MICPAL,,,,1780,Passeriformes,Parulidae,
+YHWA,Yellow-headed Warbler,Teretistris fernandinae,TERFER,,,,1781,Passeriformes,Parulidae,
+ORWA,Oriente Warbler,Teretistris fornsi,TERFOR,,,,1782,Passeriformes,Parulidae,
+UNWA,Unidentified Warbler,"Parulidae (gen, sp)",PARGSP,,,+,1783,Passeriformes,Parulidae,
+BANA,Bananaquit,Coereba flaveola,COEFLA,,,,1784,Passeriformes,,
+RCCA,Red-crested Cardinal,Paroaria coronata,PARCOR,,,,1785,Passeriformes,Thraupidae,
+YBCA,Yellow-billed Cardinal,Paroaria capitata,PARCAP,,,,1786,Passeriformes,Thraupidae,
+WECO,White-eared Conebill,Conirostrum leucogenys,CONLEU,,,,1787,Passeriformes,Thraupidae,
+PRTA,Puerto Rican Tanager,Nesospingus speculiferus,NESSPE,,,,1788,Passeriformes,Thraupidae,
+YBTA,Yellow-backed Tanager,Hemithraupis flavicollis,HEMFLC,*,,,1789,Passeriformes,Thraupidae,
+BAYT,Black-and-yellow Tanager,Chrysothlypis chrysomelas,CHRCHR,,,,1790,Passeriformes,Thraupidae,
+BPLT,Black-crowned Palm-Tanager,Phaenicophilus palmarum,PHAPAL,,*,,1791,Passeriformes,Thraupidae,
+GCPT,Gray-crowned Palm-Tanager,Phaenicophilus poliocephalus,PHAPOL,,,,1792,Passeriformes,Thraupidae,
+WECT,Western Chat-Tanager,Calyptophilus tertius,CALTER,,,,1793,Passeriformes,Thraupidae,
+EACT,Eastern Chat-Tanager,Calyptophilus frugivorus,CALFRU,,,,1794,Passeriformes,Thraupidae,
+ROTT,Rosy Thrush-Tanager,Rhodinocichla rosea,RHNROS,*,,,1795,Passeriformes,Thraupidae,
+DFTA,Dusky-faced Tanager,Mitrospingus cassinii,MITCAS,,,,1796,Passeriformes,Thraupidae,
+GHET,Gray-headed Tanager,Eucometis penicillata,EUCPEN,,*,,1797,Passeriformes,Thraupidae,
+BTST,Black-throated Shrike-Tanager,Lanio aurantius,LANAUR,,,,1798,Passeriformes,Thraupidae,
+WTST,White-throated Shrike-Tanager,Lanio leucothorax,LANLEU,,,,1799,Passeriformes,Thraupidae,
+SRTA,Sulphur-rumped Tanager,Heterospingus rubrifrons,HETRUB,,,,1800,Passeriformes,Thraupidae,
+SBTA,Scarlet-browed Tanager,Heterospingus xanthopygius,HETXAN,,,,1801,Passeriformes,Thraupidae,
+WSTA,White-shouldered Tanager,Tachyphonus luctuosus,TACLUC,,,,1802,Passeriformes,Thraupidae,
+TCTA,Tawny-crested Tanager,Tachyphonus delatrii,TACDEL,,,,1803,Passeriformes,Thraupidae,
+WLTA,White-lined Tanager,Tachyphonus rufus,TACRUF,,,,1804,Passeriformes,Thraupidae,
+CCTA,Crimson-collared Tanager,Ramphocelus sanguinolentus,RAMSAN,,,,1805,Passeriformes,Thraupidae,
+CBTA,Crimson-backed Tanager,Ramphocelus dimidiatus,RAMDIM,,,,1806,Passeriformes,Thraupidae,
+PAST,Passerini's Tanager,Ramphocelus passerinii,RAMPAS,,*,,1807,Passeriformes,Thraupidae,
+CHET,Cherrie's Tanager,Ramphocelus costaricensis,RAMCOS,,*,,1808,Passeriformes,Thraupidae,
+FRTA,Flame-rumped Tanager,Ramphocelus flammigerus,RAMFLA,,,,1809,Passeriformes,Thraupidae,
+WESP,Western Spindalis,Spindalis zena,SPIZEN,,,,1810,Passeriformes,Thraupidae,
+JAMS,Jamaican Spindalis,Spindalis nigricephala,SPINIG,,*,,1811,Passeriformes,Thraupidae,
+HISP,Hispaniolan Spindalis,Spindalis dominicensis,SPDDOM,*,,,1812,Passeriformes,Thraupidae,
+PRSP,Puerto Rican Spindalis,Spindalis portoricensis,SPIPOR,,,,1813,Passeriformes,Thraupidae,
+BGTA,Blue-gray Tanager,Thraupis episcopus,THREPI,,,,1814,Passeriformes,Thraupidae,
+YWTA,Yellow-winged Tanager,Thraupis abbas,THRABB,,,,1815,Passeriformes,Thraupidae,
+PALT,Palm Tanager,Thraupis palmarum,THRPAL,,*,,1816,Passeriformes,Thraupidae,
+BAGT,Blue-and-gold Tanager,Bangsia arcaei,BANARC,,,,1817,Passeriformes,Thraupidae,
+GAGT,Gray-and-gold Tanager,Tangara palmeri,TANPAL,,,,1818,Passeriformes,Thraupidae,
+ARTA,Azure-rumped Tanager,Tangara cabanisi,TANCAB,,,,1819,Passeriformes,Thraupidae,
+LATA,Lesser Antillean Tanager,Tangara cucullata,TANCUC,,,,1820,Passeriformes,Thraupidae,
+GHOT,Golden-hooded Tanager,Tangara larvata,TANLAR,,*,,1821,Passeriformes,Thraupidae,
+SPTA,Speckled Tanager,Tangara guttata,TANGUT,,,,1822,Passeriformes,Thraupidae,
+GNTA,Green-naped Tanager,Tangara fucosa,TANFUC,,,,1823,Passeriformes,Thraupidae,
+SCHT,Spangle-cheeked Tanager,Tangara dowii,TANDOW,,*,,1824,Passeriformes,Thraupidae,
+PCTA,Plain-colored Tanager,Tangara inornata,TANINO,,,,1825,Passeriformes,Thraupidae,
+RWTA,Rufous-winged Tanager,Tangara lavinia,TANLAV,,,,1826,Passeriformes,Thraupidae,
+BHTA,Bay-headed Tanager,Tangara gyrola,TANGYR,,,,1827,Passeriformes,Thraupidae,
+EMTA,Emerald Tanager,Tangara florida,TANFLO,,,,1828,Passeriformes,Thraupidae,
+STTA,Silver-throated Tanager,Tangara icterocephala,TANICT,,,,1829,Passeriformes,Thraupidae,
+STDA,Scarlet-thighed Dacnis,Dacnis venusta,DACVEN,,,,1830,Passeriformes,Thraupidae,
+BLDA,Blue Dacnis,Dacnis cayana,DACCAY,,,,1831,Passeriformes,Thraupidae,
+VIDA,Viridian Dacnis,Dacnis viguieri,DACVIG,,,,1832,Passeriformes,Thraupidae,
+GRHO,Green Honeycreeper,Chlorophanes spiza,CHLSPI,,,,1833,Passeriformes,Thraupidae,
+SHHO,Shining Honeycreeper,Cyanerpes lucidus,CYALUC,,,,1834,Passeriformes,Thraupidae,
+PUHO,Purple Honeycreeper,Cyanerpes caeruleus,CYACAE,,,,1835,Passeriformes,Thraupidae,
+RLHO,Red-legged Honeycreeper,Cyanerpes cyaneus,CYACYU,*,,,1836,Passeriformes,Thraupidae,
+SWTA,Swallow Tanager,Tersina viridis,TERVIR,,,,1837,Passeriformes,Thraupidae,
+LASA,Lesser Antillean Saltator,Saltator albicollis,SALALB,,,,1838,Passeriformes,,
+SSAL,Streaked Saltator,Saltator striatipectus,SALSTR,,*,,1839,Passeriformes,,
+GRAS,Grayish Saltator,Saltator coerulescens,SALCOE,,*,,1840,Passeriformes,,
+BTSA,Buff-throated Saltator,Saltator maximus,SALMAX,,,,1841,Passeriformes,,
+BHSA,Black-headed Saltator,Saltator atriceps,SALATR,,,,1842,Passeriformes,,
+SCOG,Slate-colored Grosbeak,Saltator grossus,SALGRO,,*,,1843,Passeriformes,,
+BGRA,Blue-black Grassquit,Volatinia jacarina,VOLJAC,,*,,1844,Passeriformes,Emberizidae,
+SCSE,Slate-colored Seedeater,Sporophila schistacea,SPOSCH,,,,1845,Passeriformes,Emberizidae,
+VASE,Variable Seedeater,Sporophila americana,SPOAME,,,,1846,Passeriformes,Emberizidae,
+WCSE,White-collared Seedeater,Sporophila torqueola,SPOTOR,,,,1847,Passeriformes,Emberizidae,
+YBSE,Yellow-bellied Seedeater,Sporophila nigricollis,SPONIG,,,,1848,Passeriformes,Emberizidae,
+RBSE,Ruddy-breasted Seedeater,Sporophila minuta,SPOMIN,,,,1849,Passeriformes,Emberizidae,
+NISF,Nicaraguan Seed-Finch,Oryzoborus nuttingi,ORYNUT,,,,1850,Passeriformes,Emberizidae,
+TBSF,Thick-billed Seed-Finch,Oryzoborus funereus,ORYFUN,,,,1851,Passeriformes,Emberizidae,
+LBSF,Large-billed Seed-Finch,Oryzoborus crassirostris,ORYCRA,,,,1852,Passeriformes,Emberizidae,
+CUBU,Cuban Bullfinch,Melopyrrha nigra,MELNIG,,,,1853,Passeriformes,Emberizidae,
+CUGR,Cuban Grassquit,Tiaris canorus,TIACAN,,,,1854,Passeriformes,Emberizidae,
+YFGR,Yellow-faced Grassquit,Tiaris olivaceus,TIAOLI,,,,1855,Passeriformes,Emberizidae,
+BFGR,Black-faced Grassquit,Tiaris bicolor,TIABIC,,,,1856,Passeriformes,Emberizidae,
+YSGR,Yellow-shouldered Grassquit,Loxipasser anoxanthus,LOXANO,,,,1857,Passeriformes,Emberizidae,
+PRBU,Puerto Rican Bullfinch,Loxigilla portoricensis,LOXPOR,,,,1858,Passeriformes,Emberizidae,
+GABU,Greater Antillean Bullfinch,Loxigilla violacea,LOXVIO,,,,1859,Passeriformes,Emberizidae,
+LANB,Lesser Antillean Bullfinch,Loxigilla noctis,LOXNOC,,*,,1860,Passeriformes,Emberizidae,
+BABU,Barbados Bullfinch,Loxigilla barbadensis,LOXBAD,,,,1861,Passeriformes,Emberizidae,
+ORAN,Orangequit,Euneornis campestris,EUNCAM,,,,1862,Passeriformes,Emberizidae,
+SLBF,St. Lucia Black Finch,Melanospiza richardsoni,MELRIC,,,,1863,Passeriformes,Emberizidae,
+COFI,Cocos Finch,Pinaroloxias inornata,PININO,,,,1864,Passeriformes,Emberizidae,
+SLFI,Slaty Finch,Haplospiza rustica,HAPRUS,,,,1865,Passeriformes,Emberizidae,
+PBFI,Peg-billed Finch,Acanthidops bairdi,ACABAI,,,,1866,Passeriformes,Emberizidae,
+CBFL,Cinnamon-bellied Flowerpiercer,Diglossa baritula,DIGBAR,,,,1867,Passeriformes,Emberizidae,
+SLFL,Slaty Flowerpiercer,Diglossa plumbea,DIGPLU,,,,1868,Passeriformes,Emberizidae,
+SAFI,Saffron Finch,Sicalis flaveola,SICFLA,,,,1869,Passeriformes,Emberizidae,
+GRYF,Grassland Yellow-Finch,Sicalis luteola,SICLUT,,,,1870,Passeriformes,Emberizidae,
+WTGF,Wedge-tailed Grass-Finch,Emberizoides herbicola,EMBHER,,,,1871,Passeriformes,Emberizidae,
+YTFI,Yellow-thighed Finch,Pselliophorus tibialis,PSETIB,,,,1872,Passeriformes,Emberizidae,
+YGFI,Yellow-green Finch,Pselliophorus luteoviridis,PSELUT,,,,1873,Passeriformes,Emberizidae,
+LFFI,Large-footed Finch,Pezopetes capitalis,PEZCAP,,,,1874,Passeriformes,Emberizidae,
+OBSP,Orange-billed Sparrow,Arremon aurantiirostris,ARRAUR,,,,1875,Passeriformes,Emberizidae,
+SFFI,Sooty-faced Finch,Arremon crassirostris,ARRCRA,,,,1876,Passeriformes,Emberizidae,
+CCBF,Chestnut-capped Brush-Finch,Arremon brunneinucha,ARRBRU,,,,1877,Passeriformes,Emberizidae,
+GSBF,Green-striped Brush-Finch,Arremon virenticeps,ARRVIR,,,,1878,Passeriformes,Emberizidae,
+CRBF,Costa Rican Brush-Finch,Arremon costaricensis,ARRCOS,,,,1879,Passeriformes,Emberizidae,
+BHBF,Black-headed Brush-Finch,Arremon atricapillus,ARRATR,,,,1880,Passeriformes,Emberizidae,
+OLSP,Olive Sparrow,Arremonops rufivirgatus,ARRRUF,,,,1881,Passeriformes,Emberizidae,
+GBSP,Green-backed Sparrow,Arremonops chloronotus,ARRCHL,,,,1882,Passeriformes,Emberizidae,
+BSTS,Black-striped Sparrow,Arremonops conirostris,ARRCON,,*,,1883,Passeriformes,Emberizidae,
+WNBF,White-naped Brush-Finch,Atlapetes albinucha,ATLALB,,,,1884,Passeriformes,Emberizidae,
+RCBF,Rufous-capped Brush-Finch,Atlapetes pileatus,ATLPIL,,,,1885,Passeriformes,Emberizidae,
+COTO,Collared Towhee,Pipilo ocai,PIPOCA,,,,1886,Passeriformes,Emberizidae,
+GTTO,Green-tailed Towhee,Pipilo chlorurus,PIPCHL,,,,1887,Passeriformes,Emberizidae,
+SPTO,Spotted Towhee,Pipilo maculatus,PIPMAC,,,,1888,Passeriformes,Emberizidae,
+RSTO,Rufous-sided Towhee,Pipilo maculatus/erythr.,PIPMAE,,,+,1889,Passeriformes,Emberizidae,
+EATO,Eastern Towhee,Pipilo erythrophthalmus,PIPERP,*,,,1890,Passeriformes,Emberizidae,
+RUSP,Rusty Sparrow,Aimophila rufescens,AIMRUS,*,,,1891,Passeriformes,Emberizidae,
+RCSP,Rufous-crowned Sparrow,Aimophila ruficeps,AIMRUP,*,,,1892,Passeriformes,Emberizidae,
+OASP,Oaxaca Sparrow,Aimophila notosticta,AIMNOT,,,,1893,Passeriformes,Emberizidae,
+WEGS,White-eared Ground-Sparrow,Melozone leucotis,MELLEU,,,,1894,Passeriformes,Emberizidae,
+PRGS,Prevost's Ground-Sparrow,Melozone biarcuata,MELBIA,,,,1895,Passeriformes,Emberizidae,
+RCGS,Rusty-crowned Ground-Sparrow,Melozone kieneri,MELKIE,,,,1896,Passeriformes,Emberizidae,
+CANT,Canyon Towhee,Melozone fusca,MEZFUS,*,*,,1897,Passeriformes,Emberizidae,
+WTTO,White-throated Towhee,Melozone albicollis,MELALB,,,,1898,Passeriformes,Emberizidae,
+CALT,California Towhee,Melozone crissalis,MELCRI,,*,,1899,Passeriformes,Emberizidae,
+ABTO,Abert's Towhee,Melozone aberti,MELABE,,,,1900,Passeriformes,Emberizidae,
+CTSP,Cinnamon-tailed Sparrow,Peucaea sumichrasti,PEUSUM,,,,1901,Passeriformes,Emberizidae,
+RWSP,Rufous-winged Sparrow,Peucaea carpalis,PEUCAR,,,,1902,Passeriformes,Emberizidae,
+SHSP,Stripe-headed Sparrow,Peucaea ruficauda,PEURUF,,,,1903,Passeriformes,Emberizidae,
+BCHS,Black-chested Sparrow,Peucaea humeralis,PEUHUM,,*,,1904,Passeriformes,Emberizidae,
+BRIS,Bridled Sparrow,Peucaea mystacalis,PEUMYS,,*,,1905,Passeriformes,Emberizidae,
+BOSP,Botteri's Sparrow,Peucaea botterii,PEUBOT,,,,1906,Passeriformes,Emberizidae,
+CASP,Cassin's Sparrow,Peucaea cassinii,PEUCAS,,,,1907,Passeriformes,Emberizidae,
+BACS,Bachman's Sparrow,Peucaea aestivalis,PEUAES,,*,,1908,Passeriformes,Emberizidae,
+SSPA,Striped Sparrow,Oriturus superciliosus,ORISUP,,*,,1909,Passeriformes,Emberizidae,
+ZASP,Zapata Sparrow,Torreornis inexpectata,TORINE,,,,1910,Passeriformes,Emberizidae,
+ATSP,American Tree Sparrow,Spizella arborea,SPIARB,,,,1911,Passeriformes,Emberizidae,
+CHSP,Chipping Sparrow,Spizella passerina,SPIPAS,,,,1912,Passeriformes,Emberizidae,
+CCSP,Clay-colored Sparrow,Spizella pallida,SPIPAL,,,,1913,Passeriformes,Emberizidae,
+BRSP,Brewer's Sparrow,Spizella breweri,SPIBRE,,,,1914,Passeriformes,Emberizidae,
+FISP,Field Sparrow,Spizella pusilla,SPIPUS,,,,1915,Passeriformes,Emberizidae,
+WOSP,Worthen's Sparrow,Spizella wortheni,SPIWOR,,,,1916,Passeriformes,Emberizidae,
+BCSP,Black-chinned Sparrow,Spizella atrogularis,SPIATG,*,,,1917,Passeriformes,Emberizidae,
+VESP,Vesper Sparrow,Pooecetes gramineus,POOGRA,,,,1918,Passeriformes,Emberizidae,
+LASP,Lark Sparrow,Chondestes grammacus,CHOGRA,,,,1919,Passeriformes,Emberizidae,
+FSSP,Five-striped Sparrow,Amphispiza quinquestriata,AMPQUI,,,,1920,Passeriformes,Emberizidae,
+BTSP,Black-throated Sparrow,Amphispiza bilineata,AMPBIL,,,,1921,Passeriformes,Emberizidae,
+SAGS,Sage Sparrow,Artemisiospiza belli,ARTBEL,,*,,1922,Passeriformes,Emberizidae,
+LARB,Lark Bunting,Calamospiza melanocorys,CALMEC,*,*,,1923,Passeriformes,Emberizidae,
+SAVS,Savannah Sparrow,Passerculus sandwichensis,PASSAN,,*,,1924,Passeriformes,Emberizidae,
+IPSP,Ipswich Sparrow,Passerculus s. princeps,PASSPR,,,+,1925,Passeriformes,Emberizidae,
+BSSP,Belding's Savannah Sparrow,Passerculus s. beldingi,PASSBE,,,+,1926,Passeriformes,Emberizidae,
+LBSP,Large-billed Sparrow,Passerculus s. rostratus,PASSRO,,,+,1927,Passeriformes,Emberizidae,
+GRSP,Grasshopper Sparrow,Ammodramus savannarum,AMMSAV,,,,1928,Passeriformes,Emberizidae,
+FGSP,Florida Grasshopper Sparrow,Ammodramus s. floridanus,AMMSFL,,,+,1929,Passeriformes,Emberizidae,
+BAIS,Baird's Sparrow,Ammodramus bairdii,AMMBAI,,*,,1930,Passeriformes,Emberizidae,
+HESP,Henslow's Sparrow,Ammodramus henslowii,AMMHEN,,,,1931,Passeriformes,Emberizidae,
+LCSP,Le Conte's Sparrow,Ammodramus leconteii,AMMLEC,,,,1932,Passeriformes,Emberizidae,
+NESP,Nelson's Sparrow,Ammodramus nelsoni,AMMNEL,,,,1933,Passeriformes,Emberizidae,
+STSP,Sharp-tailed Sparrow,Ammodramus nelsoni/caudacut.,AMMNEC,,,+,1934,Passeriformes,Emberizidae,
+SALS,Saltmarsh Sparrow,Ammodramus caudacutus,AMMCAU,,*,,1935,Passeriformes,Emberizidae,
+SESP,Seaside Sparrow,Ammodramus maritimus,AMMMAR,,,,1936,Passeriformes,Emberizidae,
+DUSS,Dusky Seaside-Sparrow,Ammodramus m. nigrescens,AMMMNI,,,+,1937,Passeriformes,Emberizidae,
+CSSS,Cape Sable Seaside-Sparrow,Ammodramus m. mirabilis,AMMMMI,,,+,1938,Passeriformes,Emberizidae,
+SMSP,Sierra Madre Sparrow,Xenospiza baileyi,XENBAI,,,,1939,Passeriformes,Emberizidae,
+FOSP,Fox Sparrow,Passerella iliaca,PASILI,,,,1940,Passeriformes,Emberizidae,
+SOSP,Song Sparrow,Melospiza melodia,MELMEL,,,,1941,Passeriformes,Emberizidae,
+LISP,Lincoln's Sparrow,Melospiza lincolnii,MELLIN,,,,1942,Passeriformes,Emberizidae,
+SWSP,Swamp Sparrow,Melospiza georgiana,MELGEO,,,,1943,Passeriformes,Emberizidae,
+RCOS,Rufous-collared Sparrow,Zonotrichia capensis,ZONCAP,,*,,1944,Passeriformes,Emberizidae,
+WTSP,White-throated Sparrow,Zonotrichia albicollis,ZONALB,,,,1945,Passeriformes,Emberizidae,
+HASP,Harris's Sparrow,Zonotrichia querula,ZONQUE,,,,1946,Passeriformes,Emberizidae,
+WCSP,White-crowned Sparrow,Zonotrichia leucophrys,ZONLEU,,,,1947,Passeriformes,Emberizidae,
+EWCS,Eastern White-crowned Sparrow,Zonotrichia l. leucophrys,ZONLLE,,,+,1948,Passeriformes,Emberizidae,
+MWCS,Mountain White-crowned Sparrow,Zonotrichia l. oriantha,ZONLOR,,,+,1949,Passeriformes,Emberizidae,
+GWCS,Gambel's White-crowned Sparrow,Zonotrichia l. gambelii,ZONLGA,,,+,1950,Passeriformes,Emberizidae,
+PSWS,Puget Sound White-crowned Sparrow,Zonotrichia l. pugetensis,ZONLPU,,,+,1951,Passeriformes,Emberizidae,
+NWCS,Nuttall's White-crowned Sparrow,Zonotrichia l. nuttalli,ZONLNU,,,+,1952,Passeriformes,Emberizidae,
+WGSH,White-cr. X Golden-cr. Sparrow Hybrid,Zonotrichia leuc. x atricap.,ZONLEA,,,+,1953,Passeriformes,Emberizidae,
+GCSP,Golden-crowned Sparrow,Zonotrichia atricapilla,ZONATR,,,,1954,Passeriformes,Emberizidae,
+VOJU,Volcano Junco,Junco vulcani,JUNVUL,,,,1955,Passeriformes,Emberizidae,
+DEJU,Dark-eyed Junco,Junco hyemalis,JUNHYE,,,,1956,Passeriformes,Emberizidae,
+SCJU,Slate-colored Junco,Junco h. hyemalis,JUNHHY,,,+,1957,Passeriformes,Emberizidae,
+WWJU,White-winged Junco,Junco h. aikeni,JUNHAI,,,+,1958,Passeriformes,Emberizidae,
+ORJU,Oregon Junco,Junco h. oregonus,JUNHOR,,,+,1959,Passeriformes,Emberizidae,
+GHJU,Gray-headed Junco,Junco h. caniceps,JUNNCA,,,+,1960,Passeriformes,Emberizidae,
+YEJU,Yellow-eyed Junco,Junco phaeonotus,JUNPHA,,,,1961,Passeriformes,Emberizidae,
+COBT,Common Bush-Tanager,Chlorospingus ophthalmicus,CHLOPH,,,,1962,Passeriformes,Emberizidae,
+TABT,Tacarcuna Bush-Tanager,Chlorospingus tacarcunae,CHLTAC,,,,1963,Passeriformes,Emberizidae,
+PIBT,Pirre Bush-Tanager,Chlorospingus inornatus,CHLINO,,,,1964,Passeriformes,Emberizidae,
+SCBT,Sooty-capped Bush-Tanager,Chlorospingus pileatus,CHLPIL,,,,1965,Passeriformes,Emberizidae,
+YTBT,Yellow-throated Bush-Tanager,Chlorospingus flavigularis,CHLFLG,*,,,1966,Passeriformes,Emberizidae,
+ATBT,Ashy-throated Bush-Tanager,Chlorospingus canigularis,CHLCAG,*,,,1967,Passeriformes,Emberizidae,
+PIBU,Pine Bunting,Emberiza leucocephalos,EMBLEU,,,,1968,Passeriformes,Emberizidae,
+YBWB,Yellow-browed Bunting,Emberiza chrysophrys,EMBCHR,,*,,1969,Passeriformes,Emberizidae,
+LIBU,Little Bunting,Emberiza pusilla,EMBPUS,,,,1970,Passeriformes,Emberizidae,
+RUBU,Rustic Bunting,Emberiza rustica,EMBRUS,,,,1971,Passeriformes,Emberizidae,
+YTBU,Yellow-throated Bunting,Emberiza elegans,EMBELE,,,,1972,Passeriformes,Emberizidae,
+YBSB,Yellow-breasted Bunting,Emberiza aureola,EMBAUR,,*,,1973,Passeriformes,Emberizidae,
+GRBU,Gray Bunting,Emberiza variabilis,EMBVAR,,,,1974,Passeriformes,Emberizidae,
+PALB,Pallas's Bunting,Emberiza pallasi,EMBPAL,,*,,1975,Passeriformes,Emberizidae,
+REBU,Reed Bunting,Emberiza schoeniclus,EMBSCH,,,,1976,Passeriformes,Emberizidae,
+UNSP,Unidentified Sparrow,"Emberizidae (gen, sp)",EMBGSP,,,+,1977,Passeriformes,Emberizidae,
+RTTA,Rose-throated Tanager,Piranga roseogularis,PIRROS,,,,1978,Passeriformes,Cardinalidae,
+HETA,Hepatic Tanager,Piranga flava,PIRFLA,,,,1979,Passeriformes,Cardinalidae,
+SUTA,Summer Tanager,Piranga rubra,PIRRUB,,,,1980,Passeriformes,Cardinalidae,
+SCTA,Scarlet Tanager,Piranga olivacea,PIROLI,,,,1981,Passeriformes,Cardinalidae,
+WETA,Western Tanager,Piranga ludoviciana,PIRLUD,,,,1982,Passeriformes,Cardinalidae,
+FCTA,Flame-colored Tanager,Piranga bidentata,PIRBID,,,,1983,Passeriformes,Cardinalidae,
+WWTA,White-winged Tanager,Piranga leucoptera,PIRLEU,,,,1984,Passeriformes,Cardinalidae,
+RHTA,Red-headed Tanager,Piranga erythrocephala,PIRERY,,,,1985,Passeriformes,Cardinalidae,
+UPTA,Unidentified Piranga Tanager,Piranga (sp),PIRSPE,,,+,1986,Passeriformes,Cardinalidae,
+RCAT,Red-crowned Ant-Tanager,Habia rubica,HABRUB,,,,1987,Passeriformes,Cardinalidae,
+RTAT,Red-throated Ant-Tanager,Habia fuscicauda,HABFUS,,,,1988,Passeriformes,Cardinalidae,
+BCAT,Black-cheeked Ant-Tanager,Habia atrimaxillaris,HABATR,,,,1989,Passeriformes,Cardinalidae,
+CATA,Carmiol's Tanager,Chlorothraupis carmioli,CHLCAR,,,,1990,Passeriformes,Cardinalidae,
+LSTA,Lemon-spectacled Tanager,Chlorothraupis olivacea,CHLOLI,,,,1991,Passeriformes,Cardinalidae,
+BFAG,Black-faced Grosbeak,Caryothraustes poliogaster,CARPOL,,*,,1992,Passeriformes,Cardinalidae,
+YGGR,Yellow-green Grosbeak,Caryothraustes canadensis,CATCAN,,,,1993,Passeriformes,Cardinalidae,
+CCGR,Crimson-collared Grosbeak,Rhodothraupis celaeno,RHOCEL,,,,1994,Passeriformes,Cardinalidae,
+NOCA,Northern Cardinal,Cardinalis cardinalis,CARCAI,*,,,1995,Passeriformes,Cardinalidae,
+PYRR,Pyrrhuloxia,Cardinalis sinuatus,CARSIN,,,,1996,Passeriformes,Cardinalidae,
+YEGR,Yellow Grosbeak,Pheucticus chrysopeplus,PHECHR,,,,1997,Passeriformes,Cardinalidae,
+BTGG,Black-thighed Grosbeak,Pheucticus tibialis,PHETIB,,*,,1998,Passeriformes,Cardinalidae,
+RBGR,Rose-breasted Grosbeak,Pheucticus ludovicianus,PHELUD,,,,1999,Passeriformes,Cardinalidae,
+BHGR,Black-headed Grosbeak,Pheucticus melanocephalus,PHEMEL,,,,2000,Passeriformes,Cardinalidae,
+RBRC,Red-breasted Chat,Granatellus venustus,GRAVEN,,*,,2001,Passeriformes,Cardinalidae,
+GTCH,Gray-throated Chat,Granatellus sallaei,GRASAL,,,,2002,Passeriformes,Cardinalidae,
+BLSE,Blue Seedeater,Amaurospiza concolor,AMSCON,*,,,2003,Passeriformes,Cardinalidae,
+BGRO,Blue-black Grosbeak,Cyanocompsa cyanoides,CYACYD,*,*,,2004,Passeriformes,Cardinalidae,
+BLBU,Blue Bunting,Cyanocompsa parellina,CYAPAR,,,,2005,Passeriformes,Cardinalidae,
+BLGR,Blue Grosbeak,Passerina caerulea,PASCAE,,,,2006,Passeriformes,Cardinalidae,
+LAZB,Lazuli Bunting,Passerina amoena,PASAMO,,*,,2007,Passeriformes,Cardinalidae,
+LIBH,Lazuli x Indigo Bunting Hybrid,Passerina amoena x cyanea,PASAMC,,,+,2008,Passeriformes,Cardinalidae,
+INBU,Indigo Bunting,Passerina cyanea,PASCYA,,,,2009,Passeriformes,Cardinalidae,
+RBBU,Rose-bellied Bunting,Passerina rositae,PASROS,,,,2010,Passeriformes,Cardinalidae,
+OBBU,Orange-breasted Bunting,Passerina leclancherii,PASLEC,,,,2011,Passeriformes,Cardinalidae,
+VABU,Varied Bunting,Passerina versicolor,PASVER,,,,2012,Passeriformes,Cardinalidae,
+PABU,Painted Bunting,Passerina ciris,PASCIR,,,,2013,Passeriformes,Cardinalidae,
+DICK,Dickcissel,Spiza americana,SPIAME,,,,2014,Passeriformes,Cardinalidae,
+BOBO,Bobolink,Dolichonyx oryzivorus,DOLORY,,,,2015,Passeriformes,Icteridae,
+RWBL,Red-winged Blackbird,Agelaius phoeniceus,AGEPHO,,,,2016,Passeriformes,Icteridae,
+RSBL,Red-shouldered Blackbird,Agelaius assimilis,AGEASS,,,,2017,Passeriformes,Icteridae,
+TRBL,Tricolored Blackbird,Agelaius tricolor,AGETRI,,,,2018,Passeriformes,Icteridae,
+TSBL,Tawny-shouldered Blackbird,Agelaius humeralis,AGEHUM,,,,2019,Passeriformes,Icteridae,
+YSBL,Yellow-shouldered Blackbird,Agelaius xanthomus,AGEXAN,,,,2020,Passeriformes,Icteridae,
+JABL,Jamaican Blackbird,Nesopsar nigerrimus,NESNIG,,,,2021,Passeriformes,Icteridae,
+YHOB,Yellow-hooded Blackbird,Chrysomus icterocephalus,CHRICT,,*,,2022,Passeriformes,Icteridae,
+RBBL,Red-breasted Blackbird,Sturnella militaris,STUMIL,,,,2023,Passeriformes,Icteridae,
+EAME,Eastern Meadowlark,Sturnella magna,STUMAG,,,,2024,Passeriformes,Icteridae,
+WEME,Western Meadowlark,Sturnella neglecta,STUNEG,,,,2025,Passeriformes,Icteridae,
+YHBL,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,XANXAN,,,,2026,Passeriformes,Icteridae,
+MEBL,Melodious Blackbird,Dives dives,DIVDIV,,,,2027,Passeriformes,Icteridae,
+CUBL,Cuban Blackbird,Dives atroviolaceus,DIVATR,,,,2028,Passeriformes,Icteridae,
+RUBL,Rusty Blackbird,Euphagus carolinus,EUPCAR,,,,2029,Passeriformes,Icteridae,
+BRBL,Brewer's Blackbird,Euphagus cyanocephalus,EUPCYC,*,,,2030,Passeriformes,Icteridae,
+COGR,Common Grackle,Quiscalus quiscula,QUIQUI,,,,2031,Passeriformes,Icteridae,
+BTGR,Boat-tailed Grackle,Quiscalus major,QUIMAJ,,,,2032,Passeriformes,Icteridae,
+GTGR,Great-tailed Grackle,Quiscalus mexicanus,QUIMEX,,,,2033,Passeriformes,Icteridae,
+SBGR,Slender-billed Grackle,Quiscalus palustris,QUIPAL,,,,2034,Passeriformes,Icteridae,
+NIGR,Nicaraguan Grackle,Quiscalus nicaraguensis,QUINIC,,,,2035,Passeriformes,Icteridae,
+GAGR,Greater Antillean Grackle,Quiscalus niger,QUINIG,,,,2036,Passeriformes,Icteridae,
+CAGR,Carib Grackle,Quiscalus lugubris,QUILUG,,,,2037,Passeriformes,Icteridae,
+SHCO,Shiny Cowbird,Molothrus bonariensis,MOLBON,,,,2038,Passeriformes,Icteridae,
+BROC,Bronzed Cowbird,Molothrus aeneus,MOLAEN,,*,,2039,Passeriformes,Icteridae,
+BHCO,Brown-headed Cowbird,Molothrus ater,MOLATE,,,,2040,Passeriformes,Icteridae,
+GICO,Giant Cowbird,Molothrus oryzivorus,MOLORY,,,,2041,Passeriformes,Icteridae,
+UNBL,Unidentified Blackbird,"Icteridae (gen, sp)",ICTGSP,,,+,2042,Passeriformes,Icteridae,
+BAHO,Bahama Oriole,Icterus northropi,ICTNOR,,,,2043,Passeriformes,Icteridae,
+CUOR,Cuban Oriole,Icterus melanopsis,ICTMEL,,,,2044,Passeriformes,Icteridae,
+HIOR,Hispaniolan Oriole,Icterus dominicensis,ICTDOM,,,,2045,Passeriformes,Icteridae,
+PROR,Puerto Rican Oriole,Icterus portoricensis,ICTPOR,,,,2046,Passeriformes,Icteridae,
+SLOR,St. Lucia Oriole,Icterus laudabilis,ICTLAU,,,,2047,Passeriformes,Icteridae,
+MORI,Montserrat Oriole,Icterus oberi,ICTOBE,,*,,2048,Passeriformes,Icteridae,
+MAOR,Martinique Oriole,Icterus bonana,ICTBON,,,,2049,Passeriformes,Icteridae,
+BVOR,Black-vented Oriole,Icterus wagleri,ICTWAG,,,,2050,Passeriformes,Icteridae,
+BWOR,Bar-winged Oriole,Icterus maculialatus,ICTMAC,,,,2051,Passeriformes,Icteridae,
+BCOR,Black-cowled Oriole,Icterus prosthemelas,ICTPRO,,,,2052,Passeriformes,Icteridae,
+OROR,Orchard Oriole,Icterus spurius,ICTSPU,,,,2053,Passeriformes,Icteridae,
+HOOR,Hooded Oriole,Icterus cucullatus,ICTCUC,,,,2054,Passeriformes,Icteridae,
+YBOR,Yellow-backed Oriole,Icterus chrysater,ICTCHR,,,,2055,Passeriformes,Icteridae,
+OCOR,Orange-crowned Oriole,Icterus auricapillus,ICTAUC,*,,,2056,Passeriformes,Icteridae,
+YTOR,Yellow-tailed Oriole,Icterus mesomelas,ICTMES,,,,2057,Passeriformes,Icteridae,
+VETR,Venezuelan Troupial,Icterus icterus,ICTICT,,,,2058,Passeriformes,Icteridae,
+SBAO,Streak-backed Oriole,Icterus pustulatus,ICTPUS,,*,,2059,Passeriformes,Icteridae,
+BUOR,Bullock's Oriole,Icterus bullockii,ICTBUL,,,,2060,Passeriformes,Icteridae,
+BBOH,Bullock's x Baltimore Oriole Hybrid,Icterus bullockii x galb.,ICTBUG,,,+,2061,Passeriformes,Icteridae,
+ORAO,Orange Oriole,Icterus auratus,ICTAUT,*,*,,2062,Passeriformes,Icteridae,
+JAOR,Jamaican Oriole,Icterus leucopteryx,ICTLEU,,,,2063,Passeriformes,Icteridae,
+SBOR,Spot-breasted Oriole,Icterus pectoralis,ICTPEC,,,,2064,Passeriformes,Icteridae,
+ALOR,Altamira Oriole,Icterus gularis,ICTGUL,,,,2065,Passeriformes,Icteridae,
+AUOR,Audubon's Oriole,Icterus graduacauda,ICTGRA,,,,2066,Passeriformes,Icteridae,
+BAOR,Baltimore Oriole,Icterus galbula,ICTGAL,,,,2067,Passeriformes,Icteridae,
+BBOR,Black-backed Oriole,Icterus abeillei,ICTABE,,,,2068,Passeriformes,Icteridae,
+SCOR,Scott's Oriole,Icterus parisorum,ICTPAR,,,,2069,Passeriformes,Icteridae,
+YBIC,Yellow-billed Cacique,Amblycercus holosericeus,AMBHOL,,*,,2070,Passeriformes,Icteridae,
+SRCA,Scarlet-rumped Cacique,Cacicus uropygialis,CACURO,,,,2071,Passeriformes,Icteridae,
+YRCA,Yellow-rumped Cacique,Cacicus cela,CACCEL,,,,2072,Passeriformes,Icteridae,
+YWCA,Yellow-winged Cacique,Cacicus melanicterus,CACMEL,,,,2073,Passeriformes,Icteridae,
+CROR,Crested Oropendola,Psarocolius decumanus,PSADEC,,,,2074,Passeriformes,Icteridae,
+CHOR,Chestnut-headed Oropendola,Psarocolius wagleri,PSAWAG,,,,2075,Passeriformes,Icteridae,
+MORO,Montezuma Oropendola,Psarocolius montezuma,PSAMON,,*,,2076,Passeriformes,Icteridae,
+BLOR,Black Oropendola,Psarocolius guatimozinus,PSAGUA,,,,2077,Passeriformes,Icteridae,
+COCH,Common Chaffinch,Fringilla coelebs,FRICOE,,,,2078,Passeriformes,Fringillidae,Fringillinae
+BRAM,Brambling,Fringilla montifringilla,FRIMON,,,,2079,Passeriformes,Fringillidae,Fringillinae
+JAEU,Jamaican Euphonia,Euphonia jamaica,EUPJAM,,,,2080,Passeriformes,Fringillidae,Euphoniinae
+SEUP,Scrub Euphonia,Euphonia affinis,EUPAFF,,*,,2081,Passeriformes,Fringillidae,Euphoniinae
+YCEU,Yellow-crowned Euphonia,Euphonia luteicapilla,EUPLUT,,,,2082,Passeriformes,Fringillidae,Euphoniinae
+TBEU,Thick-billed Euphonia,Euphonia laniirostris,EUPLAN,,,,2083,Passeriformes,Fringillidae,Euphoniinae
+YTEU,Yellow-throated Euphonia,Euphonia hirundinacea,EUPHIR,,,,2084,Passeriformes,Fringillidae,Euphoniinae
+ANEU,Antillean Euphonia,Euphonia musica,EUPMUS,,,,2085,Passeriformes,Fringillidae,Euphoniinae
+ELEU,Elegant Euphonia,Euphonia elegantissima,EUPELE,,,,2086,Passeriformes,Fringillidae,Euphoniinae
+FVEU,Fulvous-vented Euphonia,Euphonia fulvicrissa,EUPFUL,,,,2087,Passeriformes,Fringillidae,Euphoniinae
+SPCE,Spot-crowned Euphonia,Euphonia imitans,EUPIMI,,*,,2088,Passeriformes,Fringillidae,Euphoniinae
+OBAE,Olive-backed Euphonia,Euphonia gouldi,EUPGOU,,*,,2089,Passeriformes,Fringillidae,Euphoniinae
+WVEU,White-vented Euphonia,Euphonia minuta,EUPMIN,,,,2090,Passeriformes,Fringillidae,Euphoniinae
+TCEU,Tawny-capped Euphonia,Euphonia anneae,EUPANN,,,,2091,Passeriformes,Fringillidae,Euphoniinae
+OBEE,Orange-bellied Euphonia,Euphonia xanthogaster,EUPXAN,,*,,2092,Passeriformes,Fringillidae,Euphoniinae
+YCCH,Yellow-collared Chlorophonia,Chlorophonia flavirostris,CHLFLR,*,,,2093,Passeriformes,Fringillidae,Euphoniinae
+BCRC,Blue-crowned Chlorophonia,Chlorophonia occipitalis,CHLOCC,,*,,2094,Passeriformes,Fringillidae,Euphoniinae
+GBCH,Golden-browed Chlorophonia,Chlorophonia callophrys,CHLCAL,,,,2095,Passeriformes,Fringillidae,Euphoniinae
+GCRF,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,LEUTEP,,,,2096,Passeriformes,Fringillidae,Carduelinae
+BLRF,Black Rosy-Finch,Leucosticte atrata,LEUATT,*,,,2097,Passeriformes,Fringillidae,Carduelinae
+BCRF,Brown-capped Rosy-Finch,Leucosticte australis,LEUAUS,,,,2098,Passeriformes,Fringillidae,Carduelinae
+PIGR,Pine Grosbeak,Pinicola enucleator,PINENU,,,,2099,Passeriformes,Fringillidae,Carduelinae
+EUBU,Eurasian Bullfinch,Pyrrhula pyrrhula,PYRPYH,*,,,2100,Passeriformes,Fringillidae,Carduelinae
+CORO,Common Rosefinch,Carpodacus erythrinus,CARERY,,,,2101,Passeriformes,Fringillidae,Carduelinae
+PUFI,Purple Finch,Haemorhous purpureus,HAEPUR,,,,2102,Passeriformes,Fringillidae,Carduelinae
+CAFI,Cassin's Finch,Haemorhous cassinii,HAECAS,,,,2103,Passeriformes,Fringillidae,Carduelinae
+HOFI,House Finch,Haemorhous mexicanus,HAEMEX,,,,2104,Passeriformes,Fringillidae,Carduelinae
+UCFI,Unidentified Carpodacus Finch,Haemorhous (sp),HAESPE,,,+,2105,Passeriformes,Fringillidae,Carduelinae
+RECR,Red Crossbill,Loxia curvirostra,LOXCUR,,,,2106,Passeriformes,Fringillidae,Carduelinae
+HICR,Hispaniolan Crossbill,Loxia megaplaga,LOXMEG,,,,2107,Passeriformes,Fringillidae,Carduelinae
+WWCR,White-winged Crossbill,Loxia leucoptera,LOXLEU,,,,2108,Passeriformes,Fringillidae,Carduelinae
+CORE,Common Redpoll,Acanthis flammea,ACAFLA,,,,2109,Passeriformes,Fringillidae,Carduelinae
+CHRE,Common/Hoary Redpoll,Acanthis flamm./hornemanni,ACAFLH,,,+,2110,Passeriformes,Fringillidae,Carduelinae
+HORE,Hoary Redpoll,Acanthis hornemanni,ACAHOR,,,,2111,Passeriformes,Fringillidae,Carduelinae
+EUSI,Eurasian Siskin,Spinus spinus,SPISPI,,,,2112,Passeriformes,Fringillidae,Carduelinae
+PISI,Pine Siskin,Spinus pinus,SPIPIN,,,,2113,Passeriformes,Fringillidae,Carduelinae
+BCSI,Black-capped Siskin,Spinus atriceps,SPIATC,*,,,2114,Passeriformes,Fringillidae,Carduelinae
+BHSI,Black-headed Siskin,Spinus notatus,SPINOT,,,,2115,Passeriformes,Fringillidae,Carduelinae
+YBSI,Yellow-bellied Siskin,Spinus xanthogastrus,SPIXAN,,,,2116,Passeriformes,Fringillidae,Carduelinae
+RESI,Red Siskin,Spinus cucullatus,SPICUC,,,,2117,Passeriformes,Fringillidae,Carduelinae
+ANSI,Antillean Siskin,Spinus dominicensis,SPUDOM,*,,,2118,Passeriformes,Fringillidae,Carduelinae
+LEGO,Lesser Goldfinch,Spinus psaltria,SPIPSA,,,,2119,Passeriformes,Fringillidae,Carduelinae
+LAGO,Lawrence's Goldfinch,Spinus lawrencei,SPILAW,,,,2120,Passeriformes,Fringillidae,Carduelinae
+AMGO,American Goldfinch,Spinus tristis,SPITRI,,,,2121,Passeriformes,Fringillidae,Carduelinae
+EUGO,European Goldfinch,Carduelis carduelis,CARCAU,*,,,2122,Passeriformes,Fringillidae,Carduelinae
+ORGR,Oriental Greenfinch,Chloris sinica,CHLSIN,,,,2123,Passeriformes,Fringillidae,Carduelinae
+YFCA,Yellow-fronted Canary,Serinus mozambicus,SERMOZ,,,,2124,Passeriformes,Fringillidae,Carduelinae
+ISCA,Island Canary,Serinus canaria,SERCAN,,,,2125,Passeriformes,Fringillidae,Carduelinae
+HOOG,Hooded Grosbeak,Coccothraustes abeillei,COCABE,,*,,2126,Passeriformes,Fringillidae,Carduelinae
+EVGR,Evening Grosbeak,Coccothraustes vespertinus,COCVES,,,,2127,Passeriformes,Fringillidae,Carduelinae
+HAWF,Hawfinch,Coccothraustes coccothraustes,COCCOT,*,,,2128,Passeriformes,Fringillidae,Carduelinae
+LAFI,Laysan Finch,Telespiza cantans,TELCAN,,,,2129,Passeriformes,Fringillidae,Drepanidinae
+NIFI,Nihoa Finch,Telespiza ultima,TELULT,,,,2130,Passeriformes,Fringillidae,Drepanidinae
+OU,Ou,Psittirostra psittacea,PSIPSI,,,,2131,Passeriformes,Fringillidae,Drepanidinae
+LAHO,Lanai Hookbill,Dysmorodrepanis munroi,DYSMUN,,,,2132,Passeriformes,Fringillidae,Drepanidinae
+PALI,Palila,Loxioides bailleui,LOXBAI,,,,2133,Passeriformes,Fringillidae,Drepanidinae
+LEKF,Lesser Koa-Finch,Rhodacanthis flaviceps,RHOFLA,,,,2134,Passeriformes,Fringillidae,Drepanidinae
+GRKF,Greater Koa-Finch,Rhodacanthis palmeri,RHOPAL,,,,2135,Passeriformes,Fringillidae,Drepanidinae
+KOGR,Kona Grosbeak,Chloridops kona,CHLKON,,,,2136,Passeriformes,Fringillidae,Drepanidinae
+MAPA,Maui Parrotbill,Pseudonestor xanthophrys,PSEXAN,,,,2137,Passeriformes,Fringillidae,Drepanidinae
+HAAM,Hawaii Amakihi,Hemignathus virens,HEMVIR,,,,2138,Passeriformes,Fringillidae,Drepanidinae
+OAAM,Oahu Amakihi,Hemignathus flavus,HEMFLS,*,,,2139,Passeriformes,Fringillidae,Drepanidinae
+KAAM,Kauai Amakihi,Hemignathus kauaiensis,HEMKAU,,,,2140,Passeriformes,Fringillidae,Drepanidinae
+GRAM,Greater Amakihi,Hemignathus sagittirostris,HEMSAG,,,,2141,Passeriformes,Fringillidae,Drepanidinae
+LEAK,Lesser Akialoa,Hemignathus obscurus,HEMOBS,,,,2142,Passeriformes,Fringillidae,Drepanidinae
+GAKI,Greater Akialoa,Hemignathus ellisianus,HEMELL,,*,,2143,Passeriformes,Fringillidae,Drepanidinae
+NUKU,Nukupuu,Hemignathus lucidus,HEMLUC,,,,2144,Passeriformes,Fringillidae,Drepanidinae
+AKIA,Akiapolaau,Hemignathus munroi,HEMMUN,,,,2145,Passeriformes,Fringillidae,Drepanidinae
+ANIA,Anianiau,Magumma parva,MAGPAR,,,,2146,Passeriformes,Fringillidae,Drepanidinae
+AKIK,Akikiki,Oreomystis bairdi,OREBAI,,,,2147,Passeriformes,Fringillidae,Drepanidinae
+HCRE,Hawaii Creeper,Oreomystis mana,OREMAN,,*,,2148,Passeriformes,Fringillidae,Drepanidinae
+OAAL,Oahu Alauahio,Paroreomyza maculata,PARMAA,*,,,2149,Passeriformes,Fringillidae,Drepanidinae
+KAKA,Kakawahie,Paroreomyza flammea,PARFLA,,,,2150,Passeriformes,Fringillidae,Drepanidinae
+MAAL,Maui Alauahio,Paroreomyza montana,PARMON,,,,2151,Passeriformes,Fringillidae,Drepanidinae
+AKEK,Akekee,Loxops caeruleirostris,LOXCAE,,,,2152,Passeriformes,Fringillidae,Drepanidinae
+AKEP,Akepa,Loxops coccineus,LOXCOC,,,,2153,Passeriformes,Fringillidae,Drepanidinae
+UAIH,Ula-ai-hawane,Ciridops anna,CIRANN,,*,,2154,Passeriformes,Fringillidae,Drepanidinae
+IIWI,Iiwi,Vestiaria coccinea,VESCOC,,,,2155,Passeriformes,Fringillidae,Drepanidinae
+HAMA,Hawaii Mamo,Drepanis pacifica,DREPAC,,,,2156,Passeriformes,Fringillidae,Drepanidinae
+BLMA,Black Mamo,Drepanis funerea,DREFUN,,,,2157,Passeriformes,Fringillidae,Drepanidinae
+AKOH,Akohekohe,Palmeria dolei,PALDOL,,,,2158,Passeriformes,Fringillidae,Drepanidinae
+APAP,Apapane,Himatione sanguinea,HIMSAN,,,,2159,Passeriformes,Fringillidae,Drepanidinae
+POUL,Poo-uli,Melamprosops phaeosoma,MELPHA,,,,2160,Passeriformes,Fringillidae,Drepanidinae
+HOSP,House Sparrow,Passer domesticus,PASDOM,,,,2161,Passeriformes,Passeridae,
+ETSP,Eurasian Tree Sparrow,Passer montanus,PASMON,,,,2162,Passeriformes,Passeridae,
+VIWE,Village Weaver,Ploceus cucullatus,PLOCUC,,,,2163,Passeriformes,Ploceidae,Ploceinae
+ORBI,Orange Bishop,Euplectes franciscanus,EUPFRA,,,,2164,Passeriformes,Ploceidae,Ploceinae
+YCBI,Yellow-crowned Bishop,Euplectes afer,EUPAFE,,,,2165,Passeriformes,Ploceidae,Ploceinae
+RCCO,Red-cheeked Cordonbleu,Uraeginthus bengalus,URABEN,,,,2166,Passeriformes,Estrildidae,
+LAVW,Lavender Waxbill,Estrilda caerulescens,ESTCAE,,*,,2167,Passeriformes,Estrildidae,
+OCHW,Orange-cheeked Waxbill,Estrilda melpoda,ESTMEL,,*,,2168,Passeriformes,Estrildidae,
+BRUW,Black-rumped Waxbill,Estrilda troglodytes,ESTTRO,,*,,2169,Passeriformes,Estrildidae,
+COMW,Common Waxbill,Estrilda astrild,ESTAST,,*,,2170,Passeriformes,Estrildidae,
+REAV,Red Avadavat,Amandava amandava,AMAAMN,*,,,2171,Passeriformes,Estrildidae,
+INSI,Indian Silverbill,Lonchura malabarica,LONMAB,*,,,2172,Passeriformes,Estrildidae,
+AFSI,African Silverbill,Lonchura cantans,LONCAN,,,,2173,Passeriformes,Estrildidae,
+BRMA,Bronze Mannikin,Lonchura cucullata,LONCUC,,,,2174,Passeriformes,Estrildidae,
+NUMA,Nutmeg Mannikin,Lonchura punctulata,LONPUN,,,,2175,Passeriformes,Estrildidae,
+TRMU,Tricolored Munia,Lonchura malacca,LONMAC,*,,,2176,Passeriformes,Estrildidae,
+CHMU,Chestnut Munia,Lonchura atricapilla,LONATR,,,,2177,Passeriformes,Estrildidae,
+JASP,Java Sparrow,Padda oryzivora,PADORY,,,,2178,Passeriformes,Estrildidae,
+PTWH,Pin-tailed Whydah,Vidua macroura,VIDMAC,,,,2179,Passeriformes,Viduidae,
+UNBI,Unidentified Bird,"Aves (gen, sp)",AVEGSP,,,+,2180,#N/A,#N/A,
