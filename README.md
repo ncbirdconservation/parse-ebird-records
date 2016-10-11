@@ -13,7 +13,7 @@ Scott Anderson
 919.707.0139
 
 ##To Do
-- implement command line arguments
+- implement command line arguments (currently have to modify temp_argv variable)
 
 ##Arguments
 Syntax: parse_ebird_records.py ebd_file_path \[State\] \[Species\] \[Years\]
