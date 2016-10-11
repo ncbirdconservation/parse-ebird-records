@@ -33,4 +33,4 @@ Syntax: parse_ebird_records.py ebd_file_path \[State\] \[Species\] \[Years\]
 
 
 ##Literature
-eBird Basic Dataset. Version: EBD_relMay-2013. Cornell Lab of Ornithology, Ithaca, New York. May 2013.
+eBird Basic Dataset. Version: EBD_relMay-2015. Cornell Lab of Ornithology, Ithaca, New York. May 2015.
